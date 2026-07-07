@@ -237,7 +237,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 ## 1. Staged plan
 
 ### S1 — Inventory & manifest
-| | |
+| Abc | Def |
 | --- | --- |
 | **Purpose** | Know exactly what exists; detect missing/extra/misnamed files before any content work. |
 | **Inputs** | Frozen corpus (P2), manifest skeleton (P3), naming conventions (P6). |
