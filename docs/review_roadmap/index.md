@@ -1,3 +1,7 @@
+---
+layout: default
+title: Curriculum Review Roadmap (Programmas pārskatīšanas plāns)
+---
 ## Curriculum Review Roadmap
 
 
