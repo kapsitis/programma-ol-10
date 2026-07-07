@@ -256,7 +256,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S3 — Standard compliance mapping
 
-| | |
 |---|---|
 | **Purpose** | Legal alignment: map curriculum content to the standard's Optimālais līmenis outcomes. |
 | **Inputs** | Canonical corpus (S2); standard SR-code tables from `Matemātikas_mācību_joma_VSK.pdf` (middle column) extracted into a code list; scope declaration (P4); Grades 1–9 standard as prerequisite baseline. |
@@ -266,7 +265,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S4 — Internal alignment (curriculum model)
 
-| | |
 |---|---|
 | **Purpose** | Traceability inside the draft: overview ↔ methodical notes ↔ lessons ↔ assessments tell the same story. |
 | **Inputs** | Canonical corpus; manifest. |
@@ -276,7 +274,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S5 — Pedagogy & sequencing review
 
-| | |
 |---|---|
 | **Purpose** | Judge the didactic design against the approach the curriculum itself announces (conceptual understanding, procedural fluency, reasoning, formative feedback, misconception work) and regional good practice. |
 | **Inputs** | Canonical corpus; internal-alignment tables (S4). |
@@ -286,7 +283,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S6 — Problem & solution validation
 
-| | |
 |---|---|
 | **Purpose** | Mathematical correctness and fitness of every task and solution. |
 | **Inputs** | Canonical corpus with fidelity flags (S2); prerequisite map (S5). |
@@ -296,7 +292,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S7 — Assessment validity & exam design
 
-| | |
 |---|---|
 | **Purpose** | Formative (`fvd`) and summative (`npd`) assessments measure the intended outcomes fairly. |
 | **Inputs** | Problem audit (S6); coverage matrix (S3); `KRIT` criteria documents; past-exam file (`eksamena_UZD`). |
@@ -306,7 +301,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S8 — Synthesis & change-request register
 
-| | |
 |---|---|
 | **Purpose** | Turn all findings into a deduplicated, prioritized, author-usable register. |
 | **Inputs** | All change-requests from S3–S7. |
@@ -316,7 +310,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S9 — QA & verification of the review itself
 
-| | |
 |---|---|
 | **Purpose** | Make the review trustworthy before delivery. |
 | **Inputs** | Change-request register (S8); canonical corpus; extraction log. |
