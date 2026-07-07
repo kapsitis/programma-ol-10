@@ -1,4 +1,4 @@
-## Curriculum Review Roadmap: Prompt
+## Curriculum Review Roadmap
 
 
 Please design a short roadmap how to proceed with reviewing a draft curriculum (details in the attached file "index.md"). 
