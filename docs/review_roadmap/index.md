@@ -4,7 +4,6 @@ title: Curriculum Review Roadmap (Programmas pārskatīšanas plāns)
 ---
 ## Curriculum Review Roadmap
 
-
 Please design a short roadmap how to proceed with reviewing a draft curriculum (details in the attached file "index.md"). 
 The roadmap should not exceed a few pages - so that it is easy to review by humans and converted into future LLM requests. 
 It should outline stages with their activities and gateway conditions - appropriate for future LLM requests. 
@@ -20,7 +19,7 @@ The Markdown files (...ATR.md) in this project were obtained by OCR of scanned h
 Your roadmap can be structured as a downloadable Markdown document. Please pay attention to the technical aspects 
 (file formats; formal validation; precise conditions - gateways and validations to ensure quality and actionability 
 when there are many "moving parts").
-```
+
 
 
 # Curriculum Evaluation Roadmap
