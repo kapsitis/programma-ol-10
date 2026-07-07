@@ -238,7 +238,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S1 — Inventory & manifest
 | | |
-|---|---|
+| --- | --- |
 | **Purpose** | Know exactly what exists; detect missing/extra/misnamed files before any content work. |
 | **Inputs** | Frozen corpus (P2), manifest skeleton (P3), naming conventions (P6). |
 | **Activities** | Auto-scan files; classify each by the doc-type taxonomy; verify format validity (is a `.docx` a real DOCX zip? is a PDF text-based or scanned?); check per-topic completeness against the expected set (every `UZD` has an `ATR`? every assessment has `KRIT`?); flag orphans and duplicates. *Effort: small, fully automatable; 1 LLM+script pass.* |
