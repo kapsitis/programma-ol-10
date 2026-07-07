@@ -237,6 +237,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 ## 1. Staged plan
 
 ### S1 — Inventory & manifest
+
 | Abc | Def |
 | --- | --- |
 | **Purpose** | Know exactly what exists; detect missing/extra/misnamed files before any content work. |
@@ -246,6 +247,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G1 (Inventory gate)** | ≥ agreed threshold (recommend 100%) of expected files present and format-valid **or** every gap explicitly waived by the owner. Every file has a stable **file ID** used in all later citations. |
 
 ### S2 — Extraction & normalization
+
 | | |
 |---|---|
 | **Purpose** | Produce one canonical, citable text corpus with faithful mathematics. |
