@@ -1,3 +1,10 @@
+---
+title: "1. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes – metodiskais materiāls"
+lang: lv
+fontsize: 11pt
+geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"
+---
+
 **1. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes** (17
 stundas)
 

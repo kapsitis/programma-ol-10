@@ -1,0 +1,6 @@
+- title: Sākums
+  url: /
+- title: Programmas pārskatīšana
+  children:
+    - title: Curriculum Review Roadmap (Pārskatīšanas plāns)
+      url: /review_roadmap/

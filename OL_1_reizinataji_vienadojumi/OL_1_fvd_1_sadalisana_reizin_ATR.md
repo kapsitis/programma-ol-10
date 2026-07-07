@@ -1,3 +1,10 @@
+---
+title: "FVD 1 – izteiksmes sadalīšana reizinātājos"
+lang: lv
+fontsize: 11pt
+geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"
+---
+
 # FVD 1 – izteiksmes sadalīšana reizinātājos
 
 *Sadali izteiksmi reizinātājos!*
