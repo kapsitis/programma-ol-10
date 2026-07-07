@@ -238,7 +238,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S1 — Inventory & manifest
 
-| Abc | Def |
 | --- | --- |
 | **Purpose** | Know exactly what exists; detect missing/extra/misnamed files before any content work. |
 | **Inputs** | Frozen corpus (P2), manifest skeleton (P3), naming conventions (P6). |
@@ -248,7 +247,6 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 
 ### S2 — Extraction & normalization
 
-| | |
 |---|---|
 | **Purpose** | Produce one canonical, citable text corpus with faithful mathematics. |
 | **Inputs** | Manifest (S1), original binaries (P1), OCR files + scans (P5). |
@@ -257,6 +255,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G2 (Extraction gate)** | Every in-scope file has a canonical version; every math-bearing section has a fidelity status; sampled formulas match source at agreed rate (recommend ≥98%); unresolved OCR spans are flagged, not silently "fixed". |
 
 ### S3 — Standard compliance mapping
+
 | | |
 |---|---|
 | **Purpose** | Legal alignment: map curriculum content to the standard's Optimālais līmenis outcomes. |
@@ -266,6 +265,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G3 (Standard-compliance gate)** | 100% of cited codes resolved against the standard; 100% of standard codes classified; all `MISSING` items confirmed against P4 before being raised as findings. Human sign-off by curriculum author on the classification. |
 
 ### S4 — Internal alignment (curriculum model)
+
 | | |
 |---|---|
 | **Purpose** | Traceability inside the draft: overview ↔ methodical notes ↔ lessons ↔ assessments tell the same story. |
@@ -275,6 +275,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G4 (Internal-alignment gate)** | Every lesson/subtopic uniquely identified and linked to its files; all mismatches logged as change-requests (none silently ignored). |
 
 ### S5 — Pedagogy & sequencing review
+
 | | |
 |---|---|
 | **Purpose** | Judge the didactic design against the approach the curriculum itself announces (conceptual understanding, procedural fluency, reasoning, formative feedback, misconception work) and regional good practice. |
@@ -284,6 +285,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G5 (Pedagogy gate)** | Every lesson has an explicit prerequisite verdict (OK / gap / uncertain); every finding cites concrete text; opinions without textual anchor are excluded. |
 
 ### S6 — Problem & solution validation
+
 | | |
 |---|---|
 | **Purpose** | Mathematical correctness and fitness of every task and solution. |
@@ -293,6 +295,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G6 (Problem-validation gate)** | 100% of tasks have a verdict (`OK / defect / solution-error / source-uncertain`); every non-OK verdict includes an independent re-derivation; human mathematician (P7) spot-checks an agreed sample (recommend ≥10% + all high-severity items). |
 
 ### S7 — Assessment validity & exam design
+
 | | |
 |---|---|
 | **Purpose** | Formative (`fvd`) and summative (`npd`) assessments measure the intended outcomes fairly. |
@@ -302,6 +305,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G7 (Assessment-validity gate)** | Every assessment has an outcome map, a demand distribution, and a criteria audit; every variant pair has an equivalence verdict with per-task justification. |
 
 ### S8 — Synthesis & change-request register
+
 | | |
 |---|---|
 | **Purpose** | Turn all findings into a deduplicated, prioritized, author-usable register. |
@@ -311,6 +315,7 @@ states, if needed. You can also elaborate or split them, or suggest new gateway 
 | **Gateway G8 (Synthesis gate)** | No duplicate CRs; every CR has: ID, tag, severity, effort, evidence, Latvian action text, dependency links; every `S1` (blocker) CR reviewed by a human. |
 
 ### S9 — QA & verification of the review itself
+
 | | |
 |---|---|
 | **Purpose** | Make the review trustworthy before delivery. |
