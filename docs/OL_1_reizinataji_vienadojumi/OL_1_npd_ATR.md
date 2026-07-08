@@ -1,8 +1,10 @@
 ---
-title: "1. temats. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes"
+layout: default
+title: "1.temats. Pārbaudes darbs (atrisinājumi)"
 lang: lv
 fontsize: 11pt
 geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"
+permalink: /OL_1__visi/OL_1_npd_ATR/
 ---
 
 # 1. temats. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes
@@ -11,7 +13,7 @@ geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"
 
 *Vārds, uzvārds, klase*
 
-## 1. (___/8 punkti) Sadali reizinātājos!
+## 1. (\_\_\_/8 punkti) Sadali reizinātājos!
 
 ### 1.1. (1 p.)
 

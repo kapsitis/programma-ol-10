@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /OL_1__visi/OL_1_npd_UZD_KRIT/
+title: 1.temats. Pārbaudes darbs
+---
+
 1\. variants
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 

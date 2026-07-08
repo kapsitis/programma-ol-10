@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /OL_1__visi/OL_1_kopsavilkums_UZD/
+---
+
 **1.** Nosaki, kuras no dotajām izteiksmēm ir veselas un kuras daļveida!
 
   ----------------------------------------------------

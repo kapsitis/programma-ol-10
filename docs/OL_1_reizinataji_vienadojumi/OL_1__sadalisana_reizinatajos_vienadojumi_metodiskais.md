@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: lv
 title: "1. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes – metodiskais materiāls"
 permalink: /OL_1__visi/OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais/
 ---

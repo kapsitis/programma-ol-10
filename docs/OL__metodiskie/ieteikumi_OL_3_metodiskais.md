@@ -61,14 +61,13 @@ permalink: /OL__metodiskie/ieteikumi_OL_3_metodiskais/
 | 4.2 | 8.–10. stunda, piezīme par mērvienībām | „jo ir gan stundas , gan minūtes" | „jo ir gan stundas, gan minūtes" (lieka atstarpe pirms komata) |
 | 4.3 | 8.–10. stunda, piezīme „!!! Obligāts nosacījums…" | „ieviešot nezināmo jābūt skaidri norādītam…"; „…nav saprotams, **kādu** mašīnas **īpašība** vai lielums ir domāts" | „ieviešot nezināmo**,** jābūt skaidri norādītam…"; „…nav saprotams, **kāda** mašīnas īpašība vai **kurš** lielums ir domāts" |
 | 4.4 | 3.–4. stunda | „Izteiksmes $g(x)$ un $h(x)$ proporcijas vidējie locekļi, bet izteiksmes $f(x)$ un $r(x)$ proporcijas malējie locekļi." | „Izteiksmes $g(x)$ un $h(x)$ **ir** proporcijas vidējie locekļi, bet izteiksmes $f(x)$ un $r(x)$ **ir** proporcijas malējie locekļi." |
-| 4.5 | 1. stunda, piezīme par kopu starpības pierakstu | Formulas pieraksts sabojāts: `$x\mathbb{\in R \smallsetminus}\{4\}$` | Labot uz $x \in \mathbb{R} \smallsetminus \{4\}$ (komanda `\mathbb` attiecināma tikai uz burtu R) |
-| 4.6 | 11.–12. stunda | „…reizina ar $x(x - 5) > 0$, jo $x$ ir **dienas**, kas ir pozitīvs lielums" | „…jo $x$ ir **dienu skaits**…" (saskaņot ar 2.3 labojumu) |
-| 4.7 | Literatūras saraksts, 3. avots | „E. Slokenberga, I. France, I. France "Matemātika 10. klasei**'**, Lielvārds, 2009, 200.**\-\-**202. lpp." | Saskaņot pēdiņas (aizverošās dubultpēdiņas) un noņemt treknrakstu domuzīmei: „…"Matemātika 10. klasei", Lielvārds, 2009, 200.–202. lpp." (analoģiski treknā domuzīme 7. avotā „34.**\-\-**49. lpp.") |
-| 4.8 | Literatūras saraksts, 8. un 10. avots | „80.--81.**lpp.**"; „64.--73.**lpp.**" | „80.–81. lpp."; „64.–73. lpp." (atstarpe pirms „lpp.") |
-| 4.9 | Literatūras saraksts, 12. avots | „D. Čivžele "Uzdevumi matemātikas ieskaitēm 10.--12. klasei", Pētergailis, 25.--27. lpp." | Pievienot izdošanas gadu (vienīgais avots bez gada) |
-| 4.10 | Vairākās vietās (pēc materiālu apraksta, pēc 1. stundas, pirms 11.–12. stundas, pirms 17.–18. stundas u. c.) | Konvertēšanas artefakti `**\**` (lappuses pārtraukumu paliekas) | Dzēst vai aizstāt ar korektu lappuses pārtraukumu galīgajā formātā |
-| 4.11 | 5.–7. stunda, piezīme pie substitūcijas atkārtojuma | „*Kopīgi atkārto risināšanas soļus. (MK)*" | Atšifrēt vai dzēst saīsinājumu „(MK)" — lasītājam tas nav saprotams (iespējams, iekšēja piezīme, kas palikusi tekstā) |
-| 4.12 | 1. stunda, piezīme „!!!" | „Domāt par vienādojuma … definīcijas kopu **ir jākļūst** par ieradumu." | Piem.: „Domāšanai par … definīcijas kopu **jākļūst** par ieradumu." vai „Jāizveido ieradums domāt par … definīcijas kopu." |
+| 4.5 | 11.–12. stunda | „…reizina ar $x(x - 5) > 0$, jo $x$ ir **dienas**, kas ir pozitīvs lielums" | „…jo $x$ ir **dienu skaits**…" (saskaņot ar 2.3 labojumu) |
+| 4.6 | Literatūras saraksts, 3. avots | „E. Slokenberga, I. France, I. France "Matemātika 10. klasei**'**, Lielvārds, 2009, 200.**\-\-**202. lpp." | Saskaņot pēdiņas (aizverošās dubultpēdiņas) un noņemt treknrakstu domuzīmei: „…"Matemātika 10. klasei", Lielvārds, 2009, 200.–202. lpp." (analoģiski treknā domuzīme 7. avotā „34.**\-\-**49. lpp.") |
+| 4.7 | Literatūras saraksts, 8. un 10. avots | „80.--81.**lpp.**"; „64.--73.**lpp.**" | „80.–81. lpp."; „64.–73. lpp." (atstarpe pirms „lpp.") |
+| 4.8 | Literatūras saraksts, 12. avots | „D. Čivžele "Uzdevumi matemātikas ieskaitēm 10.--12. klasei", Pētergailis, 25.--27. lpp." | Pievienot izdošanas gadu (vienīgais avots bez gada) |
+| 4.9 | Vairākās vietās (pēc materiālu apraksta, pēc 1. stundas, pirms 11.–12. stundas, pirms 17.–18. stundas u. c.) | Konvertēšanas artefakti `**\**` (lappuses pārtraukumu paliekas) | Dzēst vai aizstāt ar korektu lappuses pārtraukumu galīgajā formātā |
+| 4.10 | 5.–7. stunda, piezīme pie substitūcijas atkārtojuma | „*Kopīgi atkārto risināšanas soļus. (MK)*" | Atšifrēt vai dzēst saīsinājumu „(MK)" — lasītājam tas nav saprotams (iespējams, iekšēja piezīme, kas palikusi tekstā) |
+| 4.11 | 1. stunda, piezīme „!!!" | „Domāt par vienādojuma … definīcijas kopu **ir jākļūst** par ieradumu." | Piem.: „Domāšanai par … definīcijas kopu **jākļūst** par ieradumu." vai „Jāizveido ieradums domāt par … definīcijas kopu." |
 
 ---
 

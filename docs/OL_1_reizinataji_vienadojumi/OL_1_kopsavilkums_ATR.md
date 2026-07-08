@@ -1,9 +1,10 @@
 ---
-title: "1. temats. Kopsavilkums"
+layout: default
 lang: lv
-fontsize: 11pt
-geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"
+title: "1. temats. Kopsavilkums"
+permalink: /OL_1__visi/OL_1_kopsavilkums_ATR/
 ---
+
 
 # 1. temats. Kopsavilkums
 
