@@ -13,9 +13,9 @@ vērtības!
 
   4\.    $$\cos\left( - \frac{2\pi}{3} \right) =$$   4\.    $$\cos\frac{7\pi}{6} =$$
 
-  5\.    $${tg}\frac{\pi}{4} =$$                     5\.    $${tg}{\frac{11\pi}{6} =}$$
+  5\.    $$\operatorname{tg}\frac{\pi}{4} =$$        5\.    $$\operatorname{tg}{\frac{11\pi}{6} =}$$
 
-  6\.    $${tg}\frac{7\pi}{6} =$$                    6\.    $${tg}\frac{5\pi}{3} =$$
+  6\.    $$\operatorname{tg}\frac{7\pi}{6} =$$       6\.    $$\operatorname{tg}\frac{5\pi}{3} =$$
 
   7\.    $${sin( -}{\pi) =}$$                        7\.    $$\cos\pi =$$
 
@@ -27,13 +27,13 @@ vērtības!
 
   11\.   $${tg}0 =$$                                 11\.   $$\sin{4\pi} =$$
 
-  12\.   $${tg}\left( - \frac{\pi}{2} \right) =$$    12\.   $${tg}\frac{3\pi}{2} =$$
+  12\.   $${tg}\left( -\frac{\pi}{2} \right) =$$     12\.   $$\operatorname{tg}\frac{3\pi}{2} =$$
 
   13\.   $$\sin\frac{27\pi}{6} =$$                   13\.   $$\cos\left( - \frac{20\pi}{6} \right) =$$
 
   14\.   $$\cos\frac{19\pi}{3} =$$                   14\.   $$\cos\frac{16\pi}{3} =$$
 
-  15\.   $${tg}\frac{35\pi}{4} =$$                   15\.   $${tg}\frac{29\pi}{4} =$$
+  15\.   $$\operatorname{tg}\frac{35\pi}{4} =$$      15\.   $$\operatorname{tg}\frac{29\pi}{4} =$$
   ------------------------------------------------------------------------------------------------------
 
 **3**. Konstruē pēc moduļa divus mazākos pagrieziena leņķus $\alpha$, ja
@@ -95,7 +95,7 @@ zināma tā trigonometriskās funkcijas vērtība!
   ------ ----------------------------------------------------------------------------------- ------ -----------------------------------------------------------------------------------------------
   2\.    $$\sin^{2}\frac{\pi}{6} + \cos^{2}\frac{\pi}{6} =$$                                 2\.    $${tg}\frac{\pi}{4} \bullet \cos{\frac{\pi}{3} =}$$
 
-  3\.    $$\frac{\sin{45{^\circ} \bullet \cos{45{^\circ}}}}{{tg}{45{^\circ}}} =$$            3\.    $$\sin{60{^\circ} \bullet \cos{30{^\circ}} - {tg}{45{^\circ}}} =$$
+  3\.    $$\frac{\sin{45{^\circ} \bullet \cos{45{^\circ}}}}{tg{45{^\circ}}} =$$            3\.    $$\sin{60{^\circ} \bullet \cos{30{^\circ}} - {tg}{45{^\circ}}} =$$
 
   4\.    $$\sin\frac{\pi}{2} + \cos 0 - {tg}{\frac{\pi}{4} =}$$                              4\.    $$\cos{\frac{\pi}{3} \bullet}\sin{\frac{\pi}{6} + {tg}{0 =}}$$
 
@@ -151,3 +151,4 @@ zināma tā trigonometriskās funkcijas vērtība!
 |     |                                |     |                                 |
 |     | $$\alpha \approx$$             |     | $$\alpha \approx$$              |
 +-----+--------------------------------+-----+---------------------------------+
+

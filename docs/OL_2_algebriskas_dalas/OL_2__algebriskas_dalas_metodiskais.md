@@ -718,22 +718,22 @@ lai daļām būtu vienādi saucēji, tāpēc daļu* $\frac{2(x - 1)}{2(x + 2)}$
 **2.** Daļām, kuras jāatņem, saucēji ir dažādi, taču var ievērot, ka
 daļas $\frac{x + y}{x^{2} - xy}$ saucēju var sadalīt reizinātājos,
 iznesot kopīgo reizinātāju $x$ pirms iekavām, un daļas
-$\frac{x + y}{{xy - y}^{2}}$ saucēju var sadalīt reizinātājos, iznesot
+$\frac{x + y}{xy - y^{2}}$ saucēju var sadalīt reizinātājos, iznesot
 kopīgo reizinātāju $y$ pirms iekavām.
 
-$$\frac{x + y}{x^{2} - xy} - \frac{x + y}{{xy - y}^{2}} = \frac{x + y}{x(x - y)} - \frac{x + y}{y(x - y)}$$
+$$\frac{x + y}{x^{2} - xy} - \frac{x + y}{xy - y^{2}} = \frac{x + y}{x(x - y)} - \frac{x + y}{y(x - y)}$$
 
 Pēc saucēju sadalīšanas reizinātājos, var pamanīt, ka daļa
 $\frac{x + y}{x(x - y)}$ jāpaplašina, skaitītāju un saucēju reizinot ar
 $y$, un daļa $\frac{x + y}{y(x - y)}$ jāpaplašina, skaitītāju un saucēju
 reizinot ar $x$.
 
-$$\frac{x + y}{x^{2} - xy} - \frac{x + y}{{xy - y}^{2}} = \frac{x + y}{x(x - y)} - \frac{x + y}{y(x - y)} = \frac{y(x + y)}{xy(x - y)} - \frac{x(x + y)}{xy(x - y)}$$
+$$\frac{x + y}{x^{2} - xy} - \frac{x + y}{xy - y^{2}} = \frac{x + y}{x(x - y)} - \frac{x + y}{y(x - y)} = \frac{y(x + y)}{xy(x - y)} - \frac{x(x + y)}{xy(x - y)}$$
 
 Abām daļām saucēji ir vienādi un var veikt daļu atņemšanu, t.i. atņemt
 šo daļu skaitītājus un saucēju nemainīt.
 
-$$\frac{x + y}{x^{2} - xy} - \frac{x + y}{{xy - y}^{2}} = \frac{x + y}{x(x - y)} - \frac{x + y}{y(x - y)} = \frac{y(x + y)}{xy(x - y)} - \frac{x(x + y)}{xy(x - y)} =$$
+$$\frac{x + y}{x^{2} - xy} - \frac{x + y}{xy - y^{2}} = \frac{x + y}{x(x - y)} - \frac{x + y}{y(x - y)} = \frac{y(x + y)}{xy(x - y)} - \frac{x(x + y)}{xy(x - y)} =$$
 
 $$= \frac{xy + y^{2}}{xy(x - y)} - \frac{x^{2} + xy}{xy(x - y)} = \frac{xy + y^{2} - \left( x^{2} + xy \right)}{xy(x - y)} = \frac{xy + y^{2} - x^{2} - xy}{xy(x - y)} = \frac{y^{2} - x^{2}}{xy(x - y)} =$$
 
@@ -875,3 +875,4 @@ pēc saviem ieskatiem.
 
 14. S. Grunsberga, I. Dzērve "Standartuzdevumi algebrā ar risinājumu
     piemēriem 8. klase", Lielvārds, 2003, 136.**--**168. lpp.
+

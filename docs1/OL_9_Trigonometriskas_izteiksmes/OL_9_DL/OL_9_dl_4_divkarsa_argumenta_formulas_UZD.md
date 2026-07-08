@@ -52,9 +52,9 @@ izteiksmes vērtību)!
 
   5\.    $$1 - 2\sin^{2}{3x} =$$                                                 5\.    $$1 - 2\sin^{2}x =$$
 
-  6\.    $$\frac{\sin\alpha}{\sin{2\alpha}} =$$                                  6\.    $$\frac{{cos}\alpha}{\sin{2\alpha}} =$$
+  6\.    $$\frac{\sin\alpha}{\sin{2\alpha}} =$$                                  6\.    $$\frac{\cos\alpha}{\sin{2\alpha}} =$$
 
-  7\.    $$\frac{\cos\alpha + \sin\alpha}{\cos{2\alpha}} =$$                     7\.    $$\frac{{sin}\alpha - {cos}\alpha}{\cos{2\alpha}} =$$
+  7\.    $$\frac{\cos\alpha + \sin\alpha}{\cos{2\alpha}} =$$                     7\.    $$\frac{\sin\alpha - \cos\alpha}{\cos{2\alpha}} =$$
 
   8\.    $$\left( \sin x + \cos x \right)^{2} =$$                                8\.    $$\left( \sin x - \cos x \right)^{2} =$$
 
@@ -78,7 +78,7 @@ izteiksmes vērtību)!
 |     | $0 < \alpha < \frac{\pi}{2}$.                      |     | $0 < \alpha < \frac{\pi}{2}$.                      |
 |     |                                                    |     |                                                    |
 |     | Aprēķini $\sin{2\alpha}$, $\cos{2\alpha}$,         |     | Aprēķini $\sin{2\alpha}$, $\cos{2\alpha}$,         |
-|     | ${tg}{2\alpha}$.                                   |     | ${tg}{2\alpha}$.                                   |
+|     | $\operatorname{tg}{2\alpha}$.                      |     | $\operatorname{tg}{2\alpha}$.                      |
 +=====+====================================================+=====+====================================================+
 | 2\. | Dots, ka ${cos}\alpha = \frac{4}{5}$.              | 2\. | Dots, ka $\sin\alpha = \frac{3}{5}$.               |
 |     |                                                    |     |                                                    |
@@ -94,3 +94,4 @@ izteiksmes vērtību)!
 |     | ![](media/image3.png){width="1.5724464129483815in" |     | ![](media/image4.png){width="1.453365048118985in"  |
 |     | height="0.905511811023622in"}                      |     | height="1.1023622047244095in"}                     |
 +-----+----------------------------------------------------+-----+----------------------------------------------------+
+
