@@ -56,8 +56,6 @@ title: "Ieteikumi par 1. tematu"
 
 **3.5 🟡 Netiek izmantoti pieejamie materiālu varianti un eksāmenu uzdevumu fails.** Projektā ir faili `OL_1_dl_9_substitucija_UZD_ar_tuksumiem`, `OL_1_dl_11_dazadi_vienad_UZD_ar_tuks` (atbalsta/diferenciācijas varianti) un `OL_1_eksamena_UZD` (eksāmenu uzdevumi), bet metodiskajā materiālā uz tiem nav nevienas atsauces. **Ieteikums:** pieminēt „ar tukšumiem" variantus pie 10.–11. un 14. stundas kā atbalstu skolēniem, kam grūti sākt, un iekļaut atsauci uz eksāmena uzdevumiem 15. stundā (kopsavilkums) vai sadaļā „Literatūra un avoti" — tas stiprina saikni ar valsts pārbaudes darbu formātu.
 
-**3.6 🟡 Pārbaudīt apgalvojumu „Visām darba lapām ir doti atrisinājumi".** Iesniegtajā failu komplektā atrisinājumi (ATR) ir tikai 1. darba lapai, FVD, kopsavilkumam un NPD; 2.–11. darba lapai ATR failu nav. Ja tie eksistē citur — labi; ja ne, apgalvojums „Materiālu aprakstā" jāizpilda vai jāprecizē. Tāpat jāpārbauda, vai eksistē 12. stundā minētā prezentācija (`OL_1_dl_10_prezentacija`).
-
 **3.7 🟡 Digitālo rīku akcents tematā ir vājš.** Programmas deklarētais akcents „Digitālo rīku efektīva izmantošana" tematā parādās tikai netieši (Photomath ekrānuzņēmums 3. stundā; „pārbaudei var izmantot tehnoloģijas"). **Ieteikums:** 12.–13. stundā pievienot konkrētas norādes darbam ar GeoGebra/Desmos (grafiku zīmēšana, krustpunktu precizitātes diskusija — tas dabiski atbalsta piezīmi „no grafika nevar atšķirt 2 un 2,03"), kā arī CAS rīku pieminēt sadalīšanas pareizības pārbaudei. Photomath atsauci formulēt neitrālāk („dažas lietotnes, piemēram, …"), jo konkrēta komerciāla rīka izcelšana ātri noveco.
 
 **3.8 🟡 Literatūras saraksta aktualitāte un pieejamība.** No 13 avotiem 11 ir izdoti 1995.–2012. gadā. **Ieteikums:** pārbaudīt, vai norādītās grāmatas skolām reāli ir pieejamas; kur iespējams, papildināt ar aktuāliem digitāliem avotiem (mape.gov.lv atsauces jau ir labs sākums).
@@ -78,8 +76,6 @@ title: "Ieteikumi par 1. tematu"
 | 4.8 | 12. stunda, piezīme par krustpunktiem | „divos punktos, tad **vienādojuma** ir divi atrisinājumi" | „… tad **vienādojumam** ir divi atrisinājumi" |
 | 4.9 | 13. stunda, intervālu analīze | „… funkcijas $y=x^{2}-2x+1$ ir intervālā $[0;1)$ …" | „… funkcijas $y=x^{2}-2x+1$ **vērtības** ir intervālā $[0;1)$ …" |
 | 4.10 | 4., 7.–8. stunda (Skola2030 atsauces, 3 vietas) | „Kā izmanto izteiksmju sadalīšanu **reizinājos**?" | Pārbaudīt pret oriģinālā materiāla nosaukumu; ja tur ir „reizinātājos", labot citātu |
-
-**4.11 ⚪ Konvertācijas artefakti un attēlu apraksti.** Dokumentā ir palikuši Word→Markdown konvertācijas artefakti (piem., `` `<!-- -->`{=html} `` 2. stundas tabulā, atsevišķas „\*" rindiņu beigās) un automātiski ģenerēti attēlu alt‑teksti („Apraksts ģenerēts automātiski", „Mākslīgā intelekta ģenerēts saturs var būt nepareizs"). **Ieteikums:** pirms publicēšanas iztīrīt artefaktus un aizstāt alt‑tekstus ar saturiskiem aprakstiem (arī piekļūstamības prasību dēļ).
 
 ---
 
