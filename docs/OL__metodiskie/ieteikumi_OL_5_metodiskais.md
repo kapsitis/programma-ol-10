@@ -67,9 +67,8 @@ permalink: /OL__metodiskie/ieteikumi_OL_5_metodiskais/
 | 4.6 | 1.–3. stunda, teorijas rindkopa par atrisinājumu | „…un var nebūt derīgu vērtību (tad raksta $\varnothing$ vai nav atrisinājuma). **Tad saka, ka nevienādībai nav atrisinājuma (var lietot simbolu $\varnothing$).**" | Apvienot vienā teikumā — doma par $\varnothing$ un „nav atrisinājuma" pašlaik dublējas divos pēc kārtas sekojošos teikumos. |
 | 4.7 | 4.–5. stunda, 3. piemēra atbilde | „Atbilde. $x\mathbb{\in R}$" | „Atbilde. $x \in \mathbb{R}$" (formulas pieraksta kļūda — simbols „∈" iekļuvis $\mathbb{}$ komandā) |
 | 4.8 | 14.–15. stunda, 1. uzdevums | „$x$ — tik datorus uzņēmuma vadītājs plāno iegādāties" | „$x$ — iegādājamo datoru skaits" (vienveidīgi ar 3. uzdevumu, kur „$x$ — abonementu skaits") |
-| 4.9 | Visā dokumentā (attēli) | Attēlu alternatīvie teksti „Attēls, kurā ir antena, rinda. Mākslīgā intelekta ģenerēts saturs var būt nepareizs." u. tml. | Pirms publiskošanas aizstāt Word automātiski ģenerētos alternatīvos tekstus ar jēgpilniem attēlu aprakstiem (piekļūstamība) vai tos dzēst. |
-| 4.10 | Visā dokumentā | Konvertācijas artefakti „\*\*\\\*\*", „\*\\\*" (lappušu pārtraukumu paliekas) | Dzēst vai aizstāt ar korektiem sadaļu atdalītājiem. |
-| 4.11 | Literatūras saraksts, 11. ieraksts | „E. Teterovska „Uz eksāmeniem — drošu prātu!", Testi matemātikā vidusskolai, Zvaigzne ABC, 43.–46. lpp." | Pievienot izdošanas gadu (vienīgais ieraksts sarakstā bez gada). |
+| 4.9 | Visā dokumentā | Konvertācijas artefakti „\*\*\\\*\*", „\*\\\*" (lappušu pārtraukumu paliekas) | Dzēst vai aizstāt ar korektiem sadaļu atdalītājiem. |
+| 4.10 | Literatūras saraksts, 11. ieraksts | „E. Teterovska „Uz eksāmeniem — drošu prātu!", Testi matemātikā vidusskolai, Zvaigzne ABC, 43.–46. lpp." | Pievienot izdošanas gadu (vienīgais ieraksts sarakstā bez gada). |
 
 ---
 
