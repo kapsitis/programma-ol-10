@@ -24,10 +24,10 @@
           url: /OL_1__visi/OL_1_kopsavilkums_UZD/
         - title: OL_1_kopsavilkums_ATR
           url: /OL_1__visi/OL_1_kopsavilkums_ATR/
-        - title: OL_1_kopsavilkums_npd_UZD_KRIT
-          url: /OL_1__visi/OL_1_kopsavilkums_npd_UZD_KRIT/
-        - title: OL_1_kopsavilkums_npd_ATR
-          url: /OL_1__visi/OL_1_kopsavilkums_npd_ATR/
+        - title: OL_1_npd_UZD_KRIT
+          url: /OL_1__visi/OL_1_npd_UZD_KRIT/
+        - title: OL_1_npd_ATR
+          url: /OL_1__visi/OL_1_npd_ATR/
     - title: 1. temats (DL)
       children:
         - title: OL_1_DL_1 - Daļas vērtība (uzdevumi)
@@ -38,9 +38,9 @@
           url: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_UZD/
         - title: OL_1_DL_2 - Vjeta teorēma (papildus)
           url: /OL_1_DL/OL_1_dl_2_Vjeta_teorema_UZD_papildus/
-        - title: OL_1_DL_3 - Kopīga reizinātāja iznesana un grupēšana
+        - title: OL_1_DL_3 - Kopīga reizinātāja iznešana un grupēšana
           url: /OL_1_DL/OL_1_dl_3_kopiga_iznesana_grup_pan_UZD/
-        - title: OL_1_DL_4 - Saisinātas reizināšanas formulas
+        - title: OL_1_DL_4 - Saīsinātās reizināšanas formulas
           url: /OL_1_DL/OL_1_dl_4_saisin_reiz_formulas_UZD/
         - title: OL_1_DL_5 - Kubu summas un starpibas formulas
           url: /OL_1_DL/OL_1_dl_5_formulas_kubu_summa_UZD/
