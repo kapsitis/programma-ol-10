@@ -30,35 +30,35 @@
           url: /OL_1__visi/OL_1_kopsavilkums_npd_ATR/
     - title: 1. temats (DL)
       children:
-        - title: Dalas vertiba (atrisinajumi)
-          url: /OL_1_DL/OL_1_dl_1_vertiba_ATR/
-        - title: Dalas vertiba (uzdevumi)
+        - title: OL_1_DL_1 - Daļas vērtība (uzdevumi)
           url: /OL_1_DL/OL_1_dl_1_vertiba_UZD/
-        - title: Kvadratvienadojumi
+        - title: OL_1_DL_1 - Daļas vērtība (atrisinājumi)
+          url: /OL_1_DL/OL_1_dl_1_vertiba_ATR/
+        - title: OL_1_DL_2 - Kvadratvienādojumi
           url: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_UZD/
-        - title: Vjeta teorema (papildus)
+        - title: OL_1_DL_2 - Vjeta teorēma (papildus)
           url: /OL_1_DL/OL_1_dl_2_Vjeta_teorema_UZD_papildus/
-        - title: Kopiga reizinataja iznesana un grupesana
+        - title: OL_1_DL_3 - Kopīga reizinātāja iznesana un grupēšana
           url: /OL_1_DL/OL_1_dl_3_kopiga_iznesana_grup_pan_UZD/
-        - title: Saisinatas reizinasanas formulas
+        - title: OL_1_DL_4 - Saisinātas reizināšanas formulas
           url: /OL_1_DL/OL_1_dl_4_saisin_reiz_formulas_UZD/
-        - title: Kubu summas un starpibas formulas
+        - title: OL_1_DL_5 - Kubu summas un starpibas formulas
           url: /OL_1_DL/OL_1_dl_5_formulas_kubu_summa_UZD/
-        - title: Kvadrattrinomu sadalisana reizinatajos
+        - title: OL_1_DL_6 - Kvadrattrinomu sadalīšana reizinātājos
           url: /OL_1_DL/OL_1_dl_6_kvadrattrinoma_sadalisana_UZD/
-        - title: Sadalisana reizinatajos (dazadi)
+        - title: OL_1_DL_7 - Sadalīšana reizinātājos (dažādi)
           url: /OL_1_DL/OL_1_dl_7_sadalisana_reizinatajos_dazadi_UZD/
-        - title: Reizinajums vienads ar 0
+        - title: OL_1_DL_8 - Reizinājums vienāds ar 0
           url: /OL_1_DL/OL_1_dl_8_reizinajums_vienads_ar_0_UZD/
-        - title: Substitucijas metode
+        - title: OL_1_DL_9 - Substitūcijas metode
           url: /OL_1_DL/OL_1_dl_9_substitucija_UZD/
-        - title: Substitucijas metode (ar tuksumiem)
+        - title: OL_1_DL_9 - Substitūcijas metode (ar tukšumiem)
           url: /OL_1_DL/OL_1_dl_9_substitucija_UZD_ar_tuksumiem/
-        - title: Grafiska metode
+        - title: OL_1_DL_10 - Grafiskā metode
           url: /OL_1_DL/OL_1_dl_10_grafiska_metode_UZD/
-        - title: Dazadi vienadojumi
+        - title: OL_1_DL_11 - Dažādi vienādojumi
           url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD/
-        - title: Dazadi vienadojumi (ar tuksumiem)
+        - title: OL_1_DL_11 - Dažādi vienādojumi (ar tukšumiem)
           url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD_ar_tuks/
 - title: Ieteikumi
   children:
