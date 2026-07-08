@@ -68,6 +68,8 @@
           url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD_ar_tuks/
 - title: Ieteikumi
   children:
+    - title: Atsauksme par pamatskolas_standartu
+      url: /OL__metodiskie/atsauksme_pamatskolas_standarts/
     - title: Ieteikumi par 1.tematu
       url: /OL__metodiskie/ieteikumi_OL_1_metodiskais/
     - title: Ieteikumi par 2.tematu
