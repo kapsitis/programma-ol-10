@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "FVD 1 – izteiksmes sadalīšana reizinātājos"
+permalink: /OL_1__visi/OL_1_fvd_1_sadalisana_reizin_ATR/
 lang: lv
 fontsize: 11pt
 geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"

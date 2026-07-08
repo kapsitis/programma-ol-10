@@ -1,5 +1,7 @@
 ---
+layout: default
 title: "FVD 2 – vienādojumu risināšana ar substitūcijas metodi"
+permalink: /OL_1__visi/OL_1_fvd_2_substitucijas_metode_ATR/
 lang: lv
 fontsize: 11pt
 geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"

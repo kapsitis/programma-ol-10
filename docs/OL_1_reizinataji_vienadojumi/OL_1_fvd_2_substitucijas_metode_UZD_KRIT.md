@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /OL_1__visi/OL_1_fvd_2_substitucijas_metode_UZD_KRIT/
+---
+
 **FVD 2 -- vienādojumu risināšana ar substitūcijas metodi**
 
 **1.** Atrisini vienādojumu!

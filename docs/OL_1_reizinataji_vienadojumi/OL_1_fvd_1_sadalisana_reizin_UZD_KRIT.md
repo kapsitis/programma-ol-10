@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: /OL_1__visi/OL_1_fvd_1_sadalisana_reizin_UZD_KRIT/
+---
+
 **FVD 1 -- izteiksmes sadalīšana reizinātājos**
 
 Sadali izteiksmi reizinātājos!

@@ -1,14 +1,34 @@
 - title: Sākums
   url: /
-- title: Programmas pārskatīšana
+- title: Saturs
   children:
-    - title: Curriculum Review Roadmap (Pārskatīšanas plāns)
-      url: /review_roadmap/
-    - title: Darbību plāns
-      url: /review_action_plan/
+    - title: 1. temats
+      children:
+        - title: OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais
+          url: /OL_1__visi/OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais/
+        - title: OL_1_eksamena_UZD
+          url: /OL_1__visi/OL_1_eksamena_UZD/
+        - title: OL_1_fvd_1_sadalisana_reizin_UZD
+          url: /OL_1__visi/OL_1_fvd_1_sadalisana_reizin_UZD/
+        - title: OL_1_fvd_1_sadalisana_reizin_UZD_KRIT
+          url: /OL_1__visi/OL_1_fvd_1_sadalisana_reizin_UZD_KRIT/
+        - title: OL_1_fvd_1_sadalisana_reizin_ATR
+          url: /OL_1__visi/OL_1_fvd_1_sadalisana_reizin_ATR/
+        - title: OL_1_fvd_2_substitucijas_metode_UZD
+          url: /OL_1__visi/OL_1_fvd_2_substitucijas_metode_UZD/
+        - title: OL_1_fvd_2_substitucijas_metode_UZD_KRIT
+          url: /OL_1__visi/OL_1_fvd_2_substitucijas_metode_UZD_KRIT/
+        - title: OL_1_fvd_2_substitucijas_metode_ATR
+          url: /OL_1__visi/OL_1_fvd_2_substitucijas_metode_ATR/
 - title: Ieteikumi
   children:
     - title: Ieteikumi par 1.tematu
       url: /OL_1__metodiskais/
     - title: Ieteikumi par 2.tematu
       url: /OL_2__metodiskais/
+- title: Programmas pārskatīšana
+  children:
+    - title: Curriculum Review Roadmap (Pārskatīšanas plāns)
+      url: /review_roadmap/
+    - title: Darbību plāns
+      url: /review_action_plan/
