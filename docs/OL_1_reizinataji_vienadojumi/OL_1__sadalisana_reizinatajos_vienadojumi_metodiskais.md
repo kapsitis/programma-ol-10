@@ -464,8 +464,8 @@ stundas var turpināt kā individuālu darbu.*
 <p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 2</span> un <span class="math inline"><em>x</em><sub>2</sub> = −4</span></p></th>
 <th><p><span class="math display">2<em>x</em><sup>2</sup> − 5<em>x</em> − 3 = 0</span></p>
 <p><span class="math display"><em>D</em> = (−5)<sup>2</sup> − 4 • 2 • (−3) = 49</span></p>
-<p><span class="math display">$$x_{1} = \frac{5 + \sqrt{49}}{2 \bullet 2} = \frac{5 + 7}{4} = 3$$</span></p>
-<p><span class="math display">$$x_{2} = \frac{5 - \sqrt{49}}{2 \bullet 2} = \frac{5 - 7}{4} = \frac{1}{2}$$</span></p>
+<p><span class="math display">$$x_{1} = \frac{5 + \sqrt{49}}{2 \cdot 2} = \frac{5 + 7}{4} = 3$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{5 - \sqrt{49}}{2 \cdot 2} = \frac{5 - 7}{4} = \frac{1}{2}$$</span></p>
 <p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 3</span> un <span class="math inline">$x_{2} = \frac{1}{2}$</span></p></th>
 <th><p><span class="math display">3<em>x</em><sup>2</sup> + 4<em>x</em> + 10 = 0</span></p>
 <p><span class="math display"><em>D</em> = 4<sup>2</sup> − 4 • 3 • 10=</span></p>
@@ -544,7 +544,7 @@ stundas var turpināt kā individuālu darbu.*
 <p><span class="math display"><em>x</em><sup>2</sup> + <em>p</em><em>x</em> + <em>q</em> = 0</span></p>
 <p><span class="math display">$$\left\{ \ \begin{array}{r}
 x_{1} + x_{2} = - p \\
-x_{1} \bullet x_{2} = q\ \ \ \ \
+x_{1} \cdot x_{2} = q\ \ \ \ \
 \end{array} \right.\ $$</span></p></th>
 </tr>
 </thead>
@@ -563,21 +563,21 @@ x_{1} \bullet x_{2} = q\ \ \ \ \
 <th><p><span class="math display"><em>x</em><sup>2</sup> + 6<em>x</em> + 9 = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
 x_{1} + x_{2} = - 6 \\
-x_{1} \bullet x_{2} = 9\ \ \ \ \
+x_{1} \cdot x_{2} = 9\ \ \ \ \
 \end{array} \right.\ \ ,$</span></p>
 <p>tad <span class="math inline"><em>x</em><sub>1</sub> = −3</span> un <span class="math inline"><em>x</em><sub>2</sub> = −3</span>.</p>
 <p>Atbilde. <span class="math inline"><em>x</em> = −3</span></p></th>
 <th><p><span class="math display"><em>x</em><sup>2</sup> − 16 = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
 x_{1} + x_{2} = 0\ \ \  \\
-x_{1} \bullet x_{2} = - 16
+x_{1} \cdot x_{2} = - 16
 \end{array} \right.\ \ ,$</span></p>
 <p>tad <span class="math inline"><em>x</em><sub>1</sub> = 4</span> un <span class="math inline"><em>x</em><sub>2</sub> = −4.</span></p>
 <p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = −4</span> un <span class="math inline"><em>x</em><sub>2</sub> = 4</span></p></th>
 <th><p><span class="math display"><em>x</em><sup>2</sup> − 4<em>x</em> = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
 x_{1} + x_{2} = 4 \\
-x_{1} \bullet x_{2} = 0\ \
+x_{1} \cdot x_{2} = 0\ \
 \end{array} \right.\ \ ,$</span></p>
 <p>tad <span class="math inline"><em>x</em><sub>1</sub> = −4</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0</span>.</p>
 <p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 0</span> un <span class="math inline"><em>x</em><sub>2</sub> = 4</span></p></th>
@@ -602,13 +602,13 @@ x_{1} \bullet x_{2} = 0\ \
 <p><span class="math display">$$x^{2} + \frac{b}{a}x + \frac{c}{a} = 0$$</span></p>
 <p><span class="math display">$$\left\{ \begin{array}{r}
 x_{1} + x_{2} = \frac{b}{a} \\
-x_{1} \bullet x_{2} = \frac{c}{a}\ \
+x_{1} \cdot x_{2} = \frac{c}{a}\ \
 \end{array} \right.\ $$</span></p></th>
 <th><p><span class="math display">2<em>x</em><sup>2</sup> − 5<em>x</em> − 3 = 0</span></p>
 <p><span class="math display"><em>x</em><sup>2</sup> − 2, 5<em>x</em> − 1, 5 = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
 x_{1} + x_{2} = 2,5\  \\
-x_{1} \bullet x_{2} = - 1,5
+x_{1} \cdot x_{2} = - 1,5
 \end{array} \right.\ $</span>, tad</p>
 <p><span class="math inline"><em>x</em><sub>1</sub> = 3</span> un <span class="math inline"><em>x</em><sub>2</sub> = −0, 5</span>.</p>
 <p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 3</span> un <span class="math inline"><em>x</em><sub>2</sub> = −0, 5</span></p></th>
@@ -616,7 +616,7 @@ x_{1} \bullet x_{2} = - 1,5
 <p><span class="math display"><em>x</em><sup>2</sup> − 1, 2<em>x</em> + 0, 2 = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
 x_{1} + x_{2} = 1,2 \\
-x_{1} \bullet x_{2} = 0,2\ \
+x_{1} \cdot x_{2} = 0,2\ \
 \end{array} \right.\ $</span>, tad</p>
 <p><span class="math inline"><em>x</em><sub>1</sub> = 1</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0, 2</span>.</p>
 <p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 1</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0, 2</span></p></th>
@@ -642,7 +642,7 @@ x_{1} \bullet x_{2} = 0,2\ \
 <p><span class="math display"><em>t</em><sup>2</sup> + <em>b</em><em>t</em> + <em>a</em><em>c</em> = 0</span></p>
 <p><span class="math display">$$\left\{ \ \begin{array}{r}
 t_{1} + t_{2} = b \\
-t_{1} \bullet t_{2} = ac
+t_{1} \cdot t_{2} = ac
 \end{array} \right.\ $$</span></p>
 <p>Nosaka palīgvienādojuma saknes <span class="math inline"><em>t</em><sub>1</sub> </span>un <span class="math inline"><em>t</em><sub>2</sub></span>.</p>
 <p>Nosaka dotā vienādojuma saknes <span class="math inline">$x_{1} = \frac{t_{1}}{a}$</span> un <span class="math inline">$x_{2} = \frac{t_{2}}{a}$</span>.</p></th>
@@ -651,7 +651,7 @@ t_{1} \bullet t_{2} = ac
 <p><span class="math display"><em>t</em><sup>2</sup> + <em>t</em> − 6 = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \begin{array}{r}
 t_{1} + t_{2} = - 1 \\
-t_{1} \bullet t_{2} = - 6
+t_{1} \cdot t_{2} = - 6
 \end{array} \right.\ $</span>, tad</p>
 <p><span class="math inline"><em>t</em><sub>1</sub> = 2</span> un <span class="math inline"><em>t</em><sub>2</sub> = −3</span>.</p>
 <p>Dotā vienādojuma saknes ir <span class="math inline">$x_{1} = \frac{2}{6} =$</span> <span class="math inline">$\frac{1}{3}$</span> un <span class="math inline">$x_{2} = \frac{- 3}{6} = - \frac{1}{2}$</span>.</p>
@@ -661,7 +661,7 @@ t_{1} \bullet t_{2} = - 6
 <p><span class="math display"><em>t</em><sup>2</sup> − 6<em>t</em> + 5 = 0</span></p>
 <p>Ja <span class="math inline">$\left\{ \begin{array}{r}
 t_{1} + t_{2} = 6 \\
-t_{1} \bullet t_{2} = 1
+t_{1} \cdot t_{2} = 1
 \end{array} \right.\ $</span>, tad</p>
 <p><span class="math inline"><em>t</em><sub>1</sub> = 5</span> un <span class="math inline"><em>t</em><sub>2</sub> = 1</span>.</p>
 <p>Dotā vienādojuma saknes ir <span class="math inline">$x_{1} = \frac{5}{5} =$</span> 1 un <span class="math inline">$x_{2} = \frac{1}{5} = 0,2$</span>.</p>
@@ -689,21 +689,21 @@ stundā "Kvadrāttrinoma sadalīšana reizinātājos".*
 
 *Stundu var sākt ar jautājumu: kā skaitli 6 var sadalīt reizinātājos?*
 
-> Atbilde. $6 = 2 \bullet 3$
+> Atbilde. $6 = 2 \cdot 3$
 >
-> Jā, $6$ ir vienāds arī ar $1 \bullet 6$, taču šādā situācijā
+> Jā, $6$ ir vienāds arī ar $1 \cdot 6$, taču šādā situācijā
 > matemātikā neuzskata, ka skaitlis 6 ir sadalīts reizinātājos.
 
 *Kā skaitli 12 var sadalīt reizinātājos? Var atkārtot arī jēdzienu par
 pirmreizinātājiem (pirmreizinātājs ir kāda naturāla skaitļa dalītājs,
 kas ir pirmskaitlis).*
 
-> Atbilde. $12 = 2 \bullet 2 \bullet 3$ vai to var pierakstīt īsāk
+> Atbilde. $12 = 2 \cdot 2 \cdot 3$ vai to var pierakstīt īsāk
 > $12 = 2^{2} \cdot 3$.
 >
-> Jā, 12 ir vienāds arī ar $4 \bullet 3$, taču arī šajā gadījumā
+> Jā, 12 ir vienāds arī ar $4 \cdot 3$, taču arī šajā gadījumā
 > neapgalvo, ka skaitlis 12 ir sadalīts reizinātājos, jo skaitli 4 var
-> sadalīt pirmreizinātājos, t. i., $4 = 2 \bullet 2$.
+> sadalīt pirmreizinātājos, t. i., $4 = 2 \cdot 2$.
 
 *Aicina skolēnus izvēlēties vienu skaitli un sadalīt to reizinātājos.*
 
@@ -731,7 +731,7 @@ $$x^{3} - x^{2} = x^{2}(x - 1)$$
 
 *Iespējams, ka daļai skolēnu šo darbību (iznešanu pirms iekavām) vieglāk
 uztvert, ja piemēru pieraksta šādi:*
-$x^{3} - x^{2} = x^{2} \bullet x - x^{2} \bullet 1 = x^{2}(x - 1)$*.*
+$x^{3} - x^{2} = x^{2} \cdot x - x^{2} \cdot 1 = x^{2}(x - 1)$*.*
 
 *Uz tāfeles var arī pasvītrot vai iekrāsot kopīgo reizinātāju*.
 
@@ -743,7 +743,7 @@ $$y(x - 2) + 3(x - 2) = (x - 2)(y + 3)$$
 
 *Iespējams, ka daļai skolēnu šo darbību (iznešanu pirms iekavām) vieglāk
 uztvert, ja piemēru pieraksta šādi:*
-$y(x - 2) + 3(x - 2) = y \bullet (x - 2) + 3 \bullet (x - 2) = (x - 2)(y + 3)$*.*
+$y(x - 2) + 3(x - 2) = y \cdot (x - 2) + 3 \cdot (x - 2) = (x - 2)(y + 3)$*.*
 
 *Uz tāfeles var arī pasvītrot vai iekrāsot kopīgo reizinātāju*.
 
@@ -833,7 +833,7 @@ $$x^{2} + 6x + 9 = (x + 3)^{2}$$
 
 *Iespējams, ka daļai skolēnu ir nepieciešams veidot pierakstu šādi:*
 
-$$x^{2} + 6x + 9 = x^{2} + 2 \bullet 3 \bullet x + 3^{2} = (x + 3)^{2}.$$
+$$x^{2} + 6x + 9 = x^{2} + 2 \cdot 3 \cdot x + 3^{2} = (x + 3)^{2}.$$
 
 *Uz tāfeles var arī pasvītrot vai iekrāsot + zīmi, lai to akcentētu.*
 
@@ -841,7 +841,7 @@ $${16x^{2} + 40x + 25 = (4x + 5)}^{2}$$
 
 *Iespējams, ka daļai skolēnu ir nepieciešams veidot pierakstu šādi:*
 
-$$16x^{2} + 40x + 25 = {(4x)}^{2} + 2 \bullet 4x \bullet 5 + 5^{2} = 4x \bullet 4x + 40x + 25 = (4x + 5)^{2}.$$
+$$16x^{2} + 40x + 25 = {(4x)}^{2} + 2 \cdot 4x \cdot 5 + 5^{2} = 4x \cdot 4x + 40x + 25 = (4x + 5)^{2}.$$
 
 **3.** Starpības kvadrāts
 
@@ -853,21 +853,21 @@ $$y^{2} - 8x + 16 = (y - 4)^{2}$$
 
 *Iespējams, ka daļai skolēnu ir nepieciešams veidot pierakstu šādi:*
 
-$$y^{2} - 8y + 16 = y^{2} - 2 \bullet 4 \bullet y + 4^{2} = y^{2} - 8y + 16.$$
+$$y^{2} - 8y + 16 = y^{2} - 2 \cdot 4 \cdot y + 4^{2} = y^{2} - 8y + 16.$$
 
 *Uz tāfeles var arī pasvītrot vai iekrāsot* $-$ *zīmi, lai to
 akcentētu.*
 
 *Var rakstīt arī šādi*
-$y^{2} + 2 \bullet ( - 4) \bullet y + {( - 4)}^{2}$ *vai*
-$y^{2} + 2 \bullet ( - 4) \bullet y + 4^{2}$*, jo atņemšana ir pretējā
+$y^{2} + 2 \cdot ( - 4) \cdot y + {( - 4)}^{2}$ *vai*
+$y^{2} + 2 \cdot ( - 4) \cdot y + 4^{2}$*, jo atņemšana ir pretējā
 skaitļa pieskaitīšana.*
 
 $${9a^{2} + 12ab + 4b^{2} = (3a + 2b)}^{2}$$
 
 *Iespējams, ka daļai skolēnu ir nepieciešams veidot pierakstu šādi:*
 
-$$9a^{2} + 12ab + 4b^{2} = 3a \bullet 3a + 12ab + 2b \bullet 2b = (3a)^{2} + 2 \bullet 3a \bullet 2b + (2b)^{2} =$$
+$$9a^{2} + 12ab + 4b^{2} = 3a \cdot 3a + 12ab + 2b \cdot 2b = (3a)^{2} + 2 \cdot 3a \cdot 2b + (2b)^{2} =$$
 
 $$= (3a + 2b)^{2}.$$
 
@@ -925,7 +925,7 @@ jāakcentē vai obligāti jāzina.*
 
 Piemēri
 
-$$x^{3} - 8 = x^{3} - 2^{3} = (x - 2)\left( x^{2} + x \bullet 2 + 2^{2} \right) = (x - 2)\left( x^{2} + 2x + 4 \right)$$
+$$x^{3} - 8 = x^{3} - 2^{3} = (x - 2)\left( x^{2} + x \cdot 2 + 2^{2} \right) = (x - 2)\left( x^{2} + 2x + 4 \right)$$
 
 *Vingrināšanās procesā vispirms doto izteiksmi pārveido par kubu
 starpību:* $x^{3} - 8 = x^{3} - 2^{3}$*. Iespējams, ka daļai skolēnu
@@ -938,7 +938,7 @@ $(x - 2)\left( x^{2} + 2x + 4 \right) = x^{3} + 2x^{2} + 4x - 2x^{2} - 4x - 8 = 
 
 *Ja nepieciešams, šādu pārbaudi var veikt vienmēr.*
 
-$${27y}^{3} - 64 = {(3y)}^{3} - 4^{3} = (3y - 4)\left( {(3y)}^{2} + 3y \bullet 4 + 4^{2} \right) = (3y - 4)\left( {9y}^{2} + 12y + 16 \right)$$
+$${27y}^{3} - 64 = {(3y)}^{3} - 4^{3} = (3y - 4)\left( {(3y)}^{2} + 3y \cdot 4 + 4^{2} \right) = (3y - 4)\left( {9y}^{2} + 12y + 16 \right)$$
 
 Kopīgi pierāda kubu summas formulu.
 
@@ -952,7 +952,7 @@ $a^{2} - ab + b^{2}$ sauc par $a$ un $b$ starpības nepilno kvadrātu).
 
 Piemēri
 
-$$x^{3} + 125 = x^{3} + 5^{3} = (x + 5)\left( x^{2} - x \bullet 5 + 5^{2} \right) = (x + 5)\left( x^{2} - 5x + 25 \right)$$
+$$x^{3} + 125 = x^{3} + 5^{3} = (x + 5)\left( x^{2} - x \cdot 5 + 5^{2} \right) = (x + 5)\left( x^{2} - 5x + 25 \right)$$
 
 *Vingrināšanās procesā vispirms doto izteiksmi pārveidot par kubu
 summu:\*
@@ -965,7 +965,7 @@ $(x + 5)\left( x^{2} - 5x + 25 \right) = x^{3} - 5x^{2} + 25x + 5x^{2} - 25x + 1
 
 *Iespējams, ka daļai skolēnu šī pārbaude jāveido kā ieradums.*
 
-$${0,008t}^{3} + 216v^{3} = (0,2t)^{3} + (6v)^{3} = (0,2t + 6v)\left( (0,2t)^{2} - 0,2t \bullet 6v + (6v)^{2} \right) =$$
+$${0,008t}^{3} + 216v^{3} = (0,2t)^{3} + (6v)^{3} = (0,2t + 6v)\left( (0,2t)^{2} - 0,2t \cdot 6v + (6v)^{2} \right) =$$
 
 $$= (0,2t + 6v)\left( {0,04t}^{2} - 1,2tv + 36v^{2} \right)$$
 
@@ -1105,7 +1105,7 @@ $$3(x - 1)(x - 1) = 3{(x - 1)}^{2} = 3\left( x^{2} - 2x + 1 \right) = 3x^{2} - 6
 
 Aprēķina dotā kvadrāttrinoma diskriminantu.
 
-$$D = 1^{2} - 4 \bullet 4 \bullet 2 = - 31$$
+$$D = 1^{2} - 4 \cdot 4 \cdot 2 = - 31$$
 
 Atbilde. Doto kvadrāttrinomu nav iespējams sadalīt reizinātājos.
 
@@ -1125,7 +1125,7 @@ Jāpārliecinās, vai izteiksmi $x^{2} - 2x + 3$ var sadalīt reizinātājos.
 
 Lai to izdarītu, jāaprēķina diskriminanta vērtība:
 
-> $$D = b^{2} - 4ac = ( - 2)^{2} - 4 \bullet 1 \bullet 3 = 4 - 12 = - 8.$$
+> $$D = b^{2} - 4ac = ( - 2)^{2} - 4 \cdot 1 \cdot 3 = 4 - 12 = - 8.$$
 
 Tā kā diskriminanta vērtība ir negatīvs skaitlis, tad kvadrāttrinomu nav
 iespējams sadalīt reizinātājos.
@@ -1288,7 +1288,7 @@ reizinātājiem ir 0.
 <th><p><span class="math display"><em>x</em><sup>2</sup> + <em>x</em> − 12 = 0</span></p>
 <p>Vjeta teorēma <span class="math inline">$\left\{ \begin{array}{r}
 x_{1} + x_{2} = - 1\  \\
-x_{1} \bullet x_{2} = - 12
+x_{1} \cdot x_{2} = - 12
 \end{array} \right.\ $</span></p>
 <p><span class="math inline"><em>x</em><sub>1</sub> = 3</span> <span class="math inline"><em>x</em><sub>2</sub> = −4</span></p></th>
 </tr>
@@ -1453,10 +1453,10 @@ ja <span class="math inline"><em>x</em> &lt; −2</span>, tad viena funkcija
 <thead>
 <tr>
 <th><p><span class="math display"><em>x</em><sub>1</sub> = −2</span></p>
-<p><span class="math display">$$\frac{2}{- 2} = 0,125{\bullet ( - 2)}^{3}$$</span></p>
+<p><span class="math display">$$\frac{2}{- 2} = 0,125{\cdot ( - 2)}^{3}$$</span></p>
 <p><span class="math display">−1 = −1</span></p></th>
 <th><p><span class="math display"><em>x</em><sub>2</sub> = 2</span></p>
-<p><span class="math display">$$\frac{2}{2} = 0,125{\bullet 2}^{3}$$</span></p>
+<p><span class="math display">$$\frac{2}{2} = 0,125{\cdot 2}^{3}$$</span></p>
 <p><span class="math display">1 = 1</span></p></th>
 </tr>
 </thead>
@@ -1600,7 +1600,7 @@ Intervālā $x \in (1;\  + \infty)$ funkcija $y = \frac{2}{x}$ ir dilstoša
 un funkcija $y = x^{2} - 2x + 1$ ir augoša, tātad šajā intervālā var būt
 ne vairāk kā viena sakne. Vienādojuma sakne šajā intervālā ir 2.
 
-Pārbaude. $\frac{2}{2} = 2^{2} - 2 \bullet 2 + 1$
+Pārbaude. $\frac{2}{2} = 2^{2} - 2 \cdot 2 + 1$
 
 $1 = 1$
 
