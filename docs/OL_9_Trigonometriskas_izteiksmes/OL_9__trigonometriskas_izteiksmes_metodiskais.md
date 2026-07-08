@@ -230,7 +230,7 @@ tāpēc tās var nemācīt un atbilstošos uzdevumus neapskatīt.
 
 *Kādas sakarības var iegūt, lietojot tangensa un kotangensa definīciju,
 ja punkts\*
-$P(x;y) = P({\cos\ \alpha}{;\sin\alpha})$ *ir trigonometriskās vienības
+$P(x;y) = P(\cos\alpha;\sin\alpha)$ *ir trigonometriskās vienības
 riņķa līnijas punkts?*
 
 Pēc definīcijas:
@@ -507,16 +507,16 @@ Aplūkosim, kā trigonometriskās funkcijas, kuru leņķis ir formā
 $\frac{\pi}{2}n \pm \alpha$, kur $n\mathbb{\in Z}$, var izteikt ar leņķa
 $\alpha$ funkcijām.
 
-*Kā pārveidot izteiksmes* $\sin{(4\pi + \alpha)}$*,*
-$\cos{(15\pi + \alpha})$*,* $tg(7\pi - \alpha)$*?*
+*Kā pārveidot izteiksmes* $\sin(4\pi + \alpha)$*,*
+$\cos(15\pi + \alpha)$*,* $tg(7\pi - \alpha)$*?*
 
 > Var lietot faktu, ka trigonometriskās funkcijas ir periodiskas. Sinusa
 > un kosinusa funkcijām periods ir $2\pi$, bet tangensa un kotangensa
 > funkcijām periods ir $\pi$. Tātad izteiksmes var pārveidot šādi:
 
-- $\sin{(4\pi + \alpha)} = \sin{(4\pi + \alpha - 2 \cdot 2\pi)} = \sin\alpha$;
+- $\sin(4\pi + \alpha) = \sin(4\pi + \alpha - 2 \cdot 2\pi) = \sin\alpha$;
 
-- $\cos{(15\pi + \alpha}) = \cos{(15\pi + \alpha - 7 \cdot 2\pi)} = \cos{(\pi + \alpha})$;
+- $\cos(15\pi + \alpha) = \cos(15\pi + \alpha - 7 \cdot 2\pi) = \cos(\pi + \alpha)$;
 
 - $tg(7\pi - \alpha) = tg(7\pi - \alpha - 7 \cdot \pi) = tg( - \alpha) = - tg\ \alpha$.
 
@@ -827,8 +827,8 @@ un šo pašu leņķu sinusu reizinājuma starpību.
 
 $$\mathbf{\cos}\left( \mathbf{\alpha}\mathbf{+}\mathbf{\beta} \right)\mathbf{=}\mathbf{\cos}\mathbf{\alpha \bullet}\mathbf{\cos}\mathbf{\beta -}\mathbf{\sin}\mathbf{\alpha \bullet}\mathbf{\sin}\mathbf{\beta}$$
 
-*Kā iegūt formulas* $\sin{(\alpha - \beta)}$ *un*
-$\cos{(\alpha - \beta})$*?*
+*Kā iegūt formulas* $\sin(\alpha - \beta)$ *un*
+$\cos(\alpha - \beta)$*?*
 
 Lieto sakarību, ka $\alpha - \beta = \alpha + ( - \beta)$:
 

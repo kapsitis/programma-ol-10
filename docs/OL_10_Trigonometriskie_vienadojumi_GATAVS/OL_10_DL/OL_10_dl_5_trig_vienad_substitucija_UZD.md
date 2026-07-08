@@ -19,7 +19,7 @@ Atrisini vienādojumu!
 
   9\.    $$\sin^{2}x - \cos\left( \frac{3\pi}{2} - x \right) - 2 = 0$$                                  9\.    $$\cos^{2}x - \sin\left( \frac{\pi}{2} - x \right) - 2 = 0$$
 
-  10\.   $$2\cos^{2}(\pi - x) + 5\cos\left( \frac{\pi}{2} - x \right) = 5$$                             10\.   $$2\sin^{2}{(\pi + x}) - 5\sin\left( \frac{\pi}{2} + x \right) - 5 = 0$$
+  10\.   $$2\cos^{2}(\pi - x) + 5\cos\left( \frac{\pi}{2} - x \right) = 5$$                             10\.   $$2\sin^{2}(\pi + x) - 5\sin\left( \frac{\pi}{2} + x \right) - 5 = 0$$
 
   11\.   $$2\cos{2x} = 4\sin x - 1$$                                                                    11\.   $$2\cos{2x} - 1 = 4\cos x$$
 

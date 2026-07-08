@@ -7,7 +7,7 @@
 
   3\.   $$\sin^{2}3x + {\cos\ }^{2}3x - 3$$               12\.   $$\cos\alpha \bullet ctg\ \alpha + \sin\alpha$$
 
-  4\.   $$\cos^{2}75{^\circ} - \sin^{2}75{^\circ}$$       13\.   $$\sin{8x} - ({\sin{4x} + \cos{4x})}^{2}$$
+  4\.   $$\cos^{2}75{^\circ} - \sin^{2}75{^\circ}$$       13\.   $$\sin(8x) - (\sin(4x) + \cos(4x))^{2}$$
 
   5\.   $$2 \bullet \sin{7m} \bullet \cos{7m}$$           14\.   $$1 + \frac{ctg\ \alpha}{tg\ \alpha}$$
 

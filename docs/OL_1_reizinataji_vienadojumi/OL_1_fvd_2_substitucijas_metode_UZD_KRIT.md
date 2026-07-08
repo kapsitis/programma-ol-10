@@ -4,12 +4,12 @@
 
 1.1. (4 p.) $x^{4} - 10x^{2} + 9 = 0$
 
-1.2. (4 p.) ${{(x}^{2} + 2)}^{2} - 5\left( x^{2} + 2 \right) + 6 = 0$
+1.2. (4 p.) $(x^{2} + 2)^{2} - 5\left( x^{2} + 2 \right) + 6 = 0$
 
 **2.** (4 p.) Ievies jaunu mainīgo un pārveido iegūto vienādojumu ar
 jauno mainīgo pamatformā! Uzraksti divus dažādus veidus!
 
-$${(x}^{2} + 3x)\left( x^{2} + 3x - 2 \right) = 8$$
+$$(x^{2} + 3x)\left( x^{2} + 3x - 2 \right) = 8$$
 
 Darbs plānots 10--15 min, lai pārbaudītu, vai skolēns apguvis
 substitūcijas metodi.

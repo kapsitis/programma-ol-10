@@ -166,7 +166,7 @@ atrast teoriju vai papildu uzdevumus.
 | 15\. |                            | $y = k \bullet \sin x$;             |
 |      |                            | $y = \sin{kx}$;                     |
 | 16\. |                            |                                     |
-|      |                            | $y = {\cos{(x + a}})$;              |
+|      |                            | $y = \cos(x + a)$;                  |
 |      |                            | $y = \cos{x + a}$;                  |
 |      |                            | $y = k \bullet \cos x$;             |
 |      |                            |                                     |
@@ -932,7 +932,7 @@ height="3.9743055555555555in"}
 
 - Uzzīmē un raksturo funkciju $y = \sin{(x + a)}$; $y = \sin x + a$;
   $y = k \bullet \sin x$; $y = \sin{kx}$;\
-  $y = {\cos{(x + a}})$; $y = \cos{x + a}$; $y = k \bullet \cos x$;
+  $y = \cos(x + a)$; $y = \cos(x) + a$; $y = k \bullet \cos x$;
   $y = \cos{kx}$ u. c. grafikus un īpašības, salīdzinot tās ar funkciju
   $y = \sin x$ un $y = \cos x$ īpašībām un grafikiem, tai skaitā
   lietojot digitālos rīkus.
