@@ -1,11 +1,13 @@
-- title: Sākums
-  url: /
-- title: Saturs
+- title: Uz sākumu
+  children:
+    - title: Ievads 
+      url: /
+    - title: Pamatskolas standarts
+      url: /pamatskolas_standarts/    
+- title: Programmas saturs
   children:
     - title: Programmas paraugs
       url: /MATEMATIKA_1_programmas_paraugs_19_maijs/
-    - title: Pamatskolas standarts
-      url: /pamatskolas_standarts/
     - title: 1. temats
       children:
         - title: OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais
@@ -72,7 +74,11 @@
       url: /OL__metodiskie/ieteikumi_OL_2_metodiskais/
     - title: Ieteikumi par 3.tematu
       url: /OL__metodiskie/ieteikumi_OL_3_metodiskais/
-- title: Programmas pārskatīšana
+    - title: Ieteikumi par 4.tematu
+      url: /OL__metodiskie/ieteikumi_OL_4_metodiskais/
+    - title: Ieteikumi par 5.tematu
+      url: /OL__metodiskie/ieteikumi_OL_5_metodiskais/
+- title: Pārskatīšanas gaita
   children:
     - title: Pārskatīšanas plāns (Ievads)
       url: /review_plans/index/

@@ -184,9 +184,6 @@ Sasniedzamie rezultāti matemātikas mācību jomā, beidzot 3., 6. un 9. klasi.
 | M.3.6.3.2. Skolotāja rosināts, skaidro, kas mainās, kas nemainās, ar digitāliem rīkiem samazinot/palielinot plaknes figūras matemātiskos un praktiskos kontekstos. | M.6.6.3.3. Ar zīmuli vai ar digitāliem rīkiem zīmē, pēta, raksturo līdzīgu plaknes figūru lielumus (malu garumi, leņķi, laukumi), lietojot matemātisko valodu. | M.9.6.3.3. Nosaka līdzīgus trijstūrus, lieto sakarības starp to lielumiem matemātiskos un praktiskos kontekstos, demonstrējot izpratni par jēdzienu “attiecība”, “proporcionalitāte” lietošanu ģeometriskā kontekstā.<br><br>M.9.6.3.4. Pierāda trijstūru līdzību pēc līdzības pazīmēm. |
 
 
-
-## M.Li.6. Figūru īpašību, novietojuma, to raksturojošo lielumu izpēte ļauj risināt konkrētas, arī praktiskas, problēmas, formulēt vispārīgus secinājumus par objektiem, telpu, formu
-
 ### 6.4. Figūru un to elementu lielumi
 
 | Beidzot 3. klasi | Beidzot 6. klasi | Beidzot 9. klasi |
