@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Curriculum Review Roadmap (Programmas pārskatīšanas plāns)
+title: Curriculum Review Plan (GPT)
+permalink: /review_plans/review_plan_gpt/
 ---
 ## Curriculum Review Roadmap
 

@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Curriculum Review Roadmap (Programmas pārskatīšanas plāns)
+title: Curriculum Review Plan (Claude)
+permalink: /review_plans/review_plan_claude/
 ---
 # Matemātika I Draft Curriculum — Review & Validation Action Plan
 

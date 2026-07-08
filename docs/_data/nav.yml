@@ -28,7 +28,9 @@
       url: /OL_2__metodiskais/
 - title: Programmas pārskatīšana
   children:
-    - title: Curriculum Review Roadmap (Pārskatīšanas plāns)
-      url: /review_roadmap/
-    - title: Darbību plāns
-      url: /review_action_plan/
+    - title: Pārskatīšanas plāns (Ievads)
+      url: /review_plans/index/
+    - title: Pārskatīšanas plāns (GPT)
+      url: /review_plans/review_plan_gpt/
+    - title: Pārskatīšanas plāns (Claude)
+      url: /review_plans/review_plan_claude/
