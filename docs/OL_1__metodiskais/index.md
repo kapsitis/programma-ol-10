@@ -81,7 +81,8 @@ title: "Ieteikumi par 1. tematu"
 
 ## 5. Metodiski ieteikumi kvalitātes celšanai 🟡 (nav obligāti, bet stiprina atbilstību programmas akcentiem)
 
-**5.1 Tipisko kļūdu akcentēšana.** Programmas princips paredz akcentēt „jautājumus, kuros skolēni raksturīgi kļūdās". Tematā tas daļēji darīts (piem., maldīgais priekšstats par daļveida izteiksmēm 1. stundā — ļoti labs piemērs). Ieteicams līdzīgus „tipisko kļūdu" blokus pievienot arī: zīmju kļūdas, lietojot kvadrāttrinoma formulu $a(x-x_1)(x-x_2)$ (koeficienta $a$ aizmiršana — tekstā jau pieminēts, var izcelt vizuāli); $\sqrt{x^2}=|x|$ tipa kļūdas; saknes „pazaudēšana", dalot vienādojumu ar $x$ (9. stundā piemērs $x^3=4x$ to netieši parāda — vērts pateikt tieši).
+**5.1 Tipisko kļūdu akcentēšana.** Programmas princips paredz akcentēt „jautājumus, kuros skolēni raksturīgi kļūdās". Tematā tas daļēji darīts (piem., maldīgais priekšstats par daļveida izteiksmēm 1. stundā — ļoti labs piemērs). Ieteicams līdzīgus „tipisko kļūdu" blokus pievienot arī: zīmju kļūdas, lietojot kvadrāttrinoma formulu $a(x-x_1)(x-x_2)$ (koeficienta $a$ aizmiršana — tekstā jau pieminēts, var izcelt vizuāli); 
+$\sqrt{x^2}= \lvert x \rvert$ tipa kļūdas; saknes „pazaudēšana", dalot vienādojumu ar $x$ (9. stundā piemērs $x^3=4x$ to netieši parāda — vērts pateikt tieši).
 
 **5.2 Vēl viena „izpratnes" saruna 2. stundā.** Pie grafiskās metodes trīs piemēriem ($D>0$, $D=0$, $D<0$ situācijas) ieteicams pievienot jautājumu par saistību starp diskriminantu, sakņu skaitu un grafika novietojumu — tas sagatavo 6. stundas secinājumus par $D$ un sadalīšanu reizinātājos un atbilst programmas akcentam „sakarību saskatīšana".
 
