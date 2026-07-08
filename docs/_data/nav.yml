@@ -2,6 +2,10 @@
   url: /
 - title: Saturs
   children:
+    - title: Programmas paraugs
+      url: /MATEMATIKA_1_programmas_paraugs_19_maijs/
+    - title: Pamatskolas standarts
+      url: /pamatskolas_standarts/
     - title: 1. temats
       children:
         - title: OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais
