@@ -376,7 +376,7 @@ stundas var turpināt kā individuālu darbu.*
 +----------------------------------------------------------+-----------------------+------------------------+
 | $$x^{2} - 4x = 0$$                                       | $$x^{2} - 16 = 0$$    | $$x^{2} + 6x + 9 = 0$$ |
 |                                                          |                       |                        |
-| $$x(x - 4) = 0$$                                         | $$x^{2} = 16$$        | $${(x + 3)}^{2} = 0$$  |
+| $$x(x - 4) = 0$$                                         | $$x^{2} = 16$$        | $$(x + 3)^{2} = 0$$    |
 |                                                          |                       |                        |
 | $x = 0\ \ \ \ \ \ \ \ \ \ \ \ x - 4 =$`<!-- -->`{=html}0 | $$x = \pm \sqrt{16}$$ | $$x + 3 = 0$$          |
 |                                                          |                       |                        |
@@ -1145,7 +1145,7 @@ pārveidojumus, lai labajā pusē iegūtu nulli un lai vienādojuma kreisās
 puses izteiksmi sadalītu reizinātājos.
 
 Piemēram,
-$x^{3} = 4x\ \ \ \ \ \ \ \  \Rightarrow \ \ \ \ \ \ \ \ \ x^{3} - 4x = 0\ \ \ \ \ \ \ \  \Rightarrow \ \ \ \ \ \ \ \ \ {x(x}^{2} - 4) = 0$.
+$x^{3} = 4x\ \ \ \ \ \ \ \  \Rightarrow \ \ \ \ \ \ \ \ \ x^{3} - 4x = 0\ \ \ \ \ \ \ \  \Rightarrow \ \ \ \ \ \ \ \ \ x(x^{2} - 4) = 0$.
 
 *Kāpēc vienādojuma sakņu minēšana nenodrošina vienādojuma atrisināšanu?*
 
