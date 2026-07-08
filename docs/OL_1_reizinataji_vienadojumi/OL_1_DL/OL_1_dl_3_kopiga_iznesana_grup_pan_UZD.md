@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kopiga reizinataja iznesana un grupesana"
+permalink: /OL_1_DL/OL_1_dl_3_kopiga_iznesana_grup_pan_UZD/
+---
+
 **1.** Iznes kopīgo reizinātāju pirms iekavām!
 
   -----------------------------------------------------------------------------------------------
@@ -79,3 +85,4 @@
 
   14\.   $$x^{2} - 4x - 5 =$$                14\.   $$x^{2} - 6x - 7 =$$
   -----------------------------------------------------------------------------------
+

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kubu summas un starpibas formulas"
+permalink: /OL_1_DL/OL_1_dl_5_formulas_kubu_summa_UZD/
+---
+
 Sadali reizinātājos!
 
   -----------------------------------------------------------------------------
@@ -29,3 +35,4 @@ Sadali reizinātājos!
 
   14\.   $$a^{6}b^{9} + 64t^{12} =$$     14\.   $$125a^{15} - x^{9}y^{6} =$$
   -----------------------------------------------------------------------------
+

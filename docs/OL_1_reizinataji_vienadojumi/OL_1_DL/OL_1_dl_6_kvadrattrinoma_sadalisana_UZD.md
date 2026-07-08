@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Kvadrattrinomu sadalisana reizinatajos"
+permalink: /OL_1_DL/OL_1_dl_6_kvadrattrinoma_sadalisana_UZD/
+---
+
 Sadali reizinātājos!
 
   -----------------------------------------------------------------------------
@@ -43,3 +49,4 @@ Sadali reizinātājos!
 
   20\.   $$3x^{2} - 13x + 4 =$$          20\.   $$2x^{2} + 5x - 3 =$$
   -----------------------------------------------------------------------------
+

@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Substitucijas metode (ar tuksumiem)"
+permalink: /OL_1_DL/OL_1_dl_9_substitucija_UZD_ar_tuksumiem/
+---
+
 **1.** Uzraksti vienādojumu, lietojot doto substitūciju vai ieviešot
 substitūciju!
 
@@ -50,3 +56,4 @@ substitūciju!
 
   5\.   $$\left( x^{2} + x + 1 \right)^{2} - 3x^{2} - 3x - 1 = 0$$                          5\.   $$\left( 2x^{2} + 3x - 1 \right)^{2} - 10x^{2} - 15x + 9 = 0$$
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

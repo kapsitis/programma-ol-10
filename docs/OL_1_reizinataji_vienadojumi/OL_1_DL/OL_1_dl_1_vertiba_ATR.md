@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Dalas vertiba (atrisinajumi)"
+permalink: /OL_1_DL/OL_1_dl_1_vertiba_ATR/
+---
+
 1. Aprēķini daļas vērtību!
 
 ## 1

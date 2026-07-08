@@ -29,7 +29,37 @@
         - title: OL_1_kopsavilkums_npd_ATR
           url: /OL_1__visi/OL_1_kopsavilkums_npd_ATR/
     - title: 1. temats (DL)
-      children:     
+      children:
+        - title: Dalas vertiba (atrisinajumi)
+          url: /OL_1_DL/OL_1_dl_1_vertiba_ATR/
+        - title: Dalas vertiba (uzdevumi)
+          url: /OL_1_DL/OL_1_dl_1_vertiba_UZD/
+        - title: Kvadratvienadojumi
+          url: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_UZD/
+        - title: Vjeta teorema (papildus)
+          url: /OL_1_DL/OL_1_dl_2_Vjeta_teorema_UZD_papildus/
+        - title: Kopiga reizinataja iznesana un grupesana
+          url: /OL_1_DL/OL_1_dl_3_kopiga_iznesana_grup_pan_UZD/
+        - title: Saisinatas reizinasanas formulas
+          url: /OL_1_DL/OL_1_dl_4_saisin_reiz_formulas_UZD/
+        - title: Kubu summas un starpibas formulas
+          url: /OL_1_DL/OL_1_dl_5_formulas_kubu_summa_UZD/
+        - title: Kvadrattrinomu sadalisana reizinatajos
+          url: /OL_1_DL/OL_1_dl_6_kvadrattrinoma_sadalisana_UZD/
+        - title: Sadalisana reizinatajos (dazadi)
+          url: /OL_1_DL/OL_1_dl_7_sadalisana_reizinatajos_dazadi_UZD/
+        - title: Reizinajums vienads ar 0
+          url: /OL_1_DL/OL_1_dl_8_reizinajums_vienads_ar_0_UZD/
+        - title: Substitucijas metode
+          url: /OL_1_DL/OL_1_dl_9_substitucija_UZD/
+        - title: Substitucijas metode (ar tuksumiem)
+          url: /OL_1_DL/OL_1_dl_9_substitucija_UZD_ar_tuksumiem/
+        - title: Grafiska metode
+          url: /OL_1_DL/OL_1_dl_10_grafiska_metode_UZD/
+        - title: Dazadi vienadojumi
+          url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD/
+        - title: Dazadi vienadojumi (ar tuksumiem)
+          url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD_ar_tuks/
 - title: Ieteikumi
   children:
     - title: Ieteikumi par 1.tematu
