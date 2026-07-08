@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Ieteikumi par 1. tematu"
+permalink: /OL__metodiskie/ieteikumi_OL_1_metodiskais/
 ---
 
 # Labojumu un ieteikumu saraksts — „OL_1. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes" (metodiskais materiāls)

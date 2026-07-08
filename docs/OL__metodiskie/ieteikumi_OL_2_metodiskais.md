@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Ieteikumi par 2. tematu"
+permalink: /OL__metodiskie/ieteikumi_OL_2_metodiskais/
 ---
 
 # Labojumu un ieteikumu saraksts — „OL_2. Algebriskas daļas" (metodiskais materiāls)

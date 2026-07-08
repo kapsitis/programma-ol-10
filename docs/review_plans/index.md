@@ -23,13 +23,13 @@ Tajā ir šādi soļi:
 Lūdzu izveidojiet labojumu/ieteikumu sarakstu NN.temata metodiskajam dokumentam
 "OL_NN__pilns_nosaukums.md" - kā lejuplādējamu Markdown failu latviešu valodā.
 (Piebilde: Citi projekta faili ar nosaukumiem "OL_NN_*"  attiecas uz šo pašu tematu, 
-bet tie nav rūpīgi jāanalizē. Daži šādi faili/atrisinājumi, uz kuriem metodiskais 
+bet tie nav rūpīgi jāanalizē. Daži faili/atrisinājumi, uz kuriem metodiskais 
 materiāls atsaucas, var nebūt iekļauti projektā. To var ignorēt, uzskatot, ka šie 
 faili eksistē.)
 Atsauci vislabāk noformēt atbilstoši pievienotajam failam "atsauksmes_paraugs.md".
 ```
 
-Sk. [atsauksmes_paraugs.md](https://raw.githubusercontent.com/kapsitis/programma-ol-10/refs/heads/main/docs/OL_1__metodiskais/atsauksmes_paraugs.md)
+Sk. [atsauksmes_paraugs.md](https://raw.githubusercontent.com/kapsitis/programma-ol-10/refs/heads/main/docs/OL__metodiskie/atsauksmes_paraugs.md)
 
 ## Tālākas darbības
 
