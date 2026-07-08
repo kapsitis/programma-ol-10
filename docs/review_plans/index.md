@@ -37,5 +37,5 @@ Zemāk minētās darbības vēl nav veiktas; visticamāk abi plāni jāsapludina
 varētu veidot pārskata darbības atbilstoši Claude plānam (6 posmos) vai 
 arī GPT plānam (9 posmos). 
 
-* [Claude plāns]()
-* [GPT plāns]()
+* [Claude plāns]({{ '/review_plans/review_plan_claude/' | relative_url }})
+* [GPT plāns]({{ '/review_plans/review_plan_gpt/' | relative_url }})
