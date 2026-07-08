@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Curriculum Review Roadmap (Programmas pārskatīšanas plāns)
-permalink: /review_roadmap/curriculum-review-action-plan/
 ---
 # Matemātika I Draft Curriculum — Review & Validation Action Plan
 
