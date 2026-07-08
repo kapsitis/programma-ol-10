@@ -23,9 +23,11 @@
 - title: Ieteikumi
   children:
     - title: Ieteikumi par 1.tematu
-      url: /OL_1__metodiskais/
+      url: /OL__metodiskie/ieteikumi_OL_1_metodiskais/
     - title: Ieteikumi par 2.tematu
-      url: /OL_2__metodiskais/
+      url: /OL__metodiskie/ieteikumi_OL_2_metodiskais/
+    - title: Ieteikumi par 3.tematu
+      url: /OL__metodiskie/ieteikumi_OL_3_metodiskais/
 - title: Programmas pārskatīšana
   children:
     - title: Pārskatīšanas plāns (Ievads)
