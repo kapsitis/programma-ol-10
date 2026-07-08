@@ -95,96 +95,117 @@ atrast teoriju vai papildu uzdevumus.
 
 **Temata plānojums**
 
-+------+----------------------------+-------------------------------------+
-| Nr.  | Stundu grupas temats       | Sasniedzamie rezultāti              |
-+:====:+============================+=====================================+
-| 1\.  | Algebriskas izteiksmes     | Atpazīst veselas un daļveida        |
-|      |                            | izteiksmes.                         |
-|      |                            |                                     |
-|      |                            | Nosaka un skaidro algebriskās daļas |
-|      |                            | definīcijas kopu.                   |
-|      |                            |                                     |
-|      |                            | Aprēķina izteiksmes skaitlisko      |
-|      |                            | vērtību noteiktai mainīgā           |
-|      |                            | skaitliskajai vērtībai.             |
-|      |                            |                                     |
-|      |                            | *1. darba lapa*                     |
-+------+----------------------------+-------------------------------------+
-| 2\.  | Kvadrātvienādojumi         | Risina kvadrātvienādojumus,         |
-|      |                            | lietojot dažādus paņēmienus.        |
-|      |                            |                                     |
-|      |                            | *2. darba lapa*                     |
-|      |                            |                                     |
-|      |                            | *2. papildu darba lapa*             |
-+------+----------------------------+-------------------------------------+
-| 3\.  | Kopīgā reizinātāja         | Zina, ko nozīmē sadalīt izteiksmi   |
-|      | iznešana                   | reizinātājos.                       |
-|      |                            |                                     |
-|      |                            | Sadala izteiksmi reizinātājos,      |
-|      |                            | iznesot kopīgo reizinātāju pirms    |
-|      |                            | iekavām (arī grupēšanas paņēmiens). |
-|      |                            |                                     |
-|      |                            | *3. darba lapa*                     |
-+------+----------------------------+-------------------------------------+
-| 4\.  | Kvadrātu starpības, summas | Zina un lieto saīsinātās            |
-|      | kvadrāta un starpības      | reizināšanas formulas (summas /     |
-|      | kvadrāta formulas          | starpības kvadrāts un kvadrātu      |
-|      |                            | starpība).                          |
-|      |                            |                                     |
-|      |                            | *4. darba lapa*                     |
-+------+----------------------------+-------------------------------------+
-| 5\.  | Kubu summas un kubu        | Zina un lieto saīsinātās            |
-|      | starpības formulas         | reizināšanas formulas (kubu summa   |
-|      |                            | un kubu starpība).                  |
-|      |                            |                                     |
-|      |                            | *5. darba lapa*                     |
-+------+----------------------------+-------------------------------------+
-| 6\.  | Kvadrāttrinoma sadalīšana  | Sadala kvadrāttrinomu reizinātājos. |
-|      | reizinātājos               |                                     |
-|      |                            | *6. darba lapa*                     |
-+------+----------------------------+-------------------------------------+
-| 7\.  | Izteiksmes sadalīšana      | Sadala izteiksmi reizinātājos ar    |
-|      | reizinātājos               | dažādiem paņēmieniem.               |
-| 8\.  |                            |                                     |
-|      |                            | *7. darba lapa*                     |
-|      |                            |                                     |
-|      |                            | *1. formatīvās vērtēšanas darbs*    |
-+------+----------------------------+-------------------------------------+
-| 9\.  | Vienādojuma atrisināšana,  | Atrisina vienādojumu, spriežot par  |
-|      | sadalot reizinātājos       | reizinājuma vienādību ar nulli.     |
-|      |                            |                                     |
-|      |                            | *8. darba lapa*                     |
-+------+----------------------------+-------------------------------------+
-| 10\. | Vienādojuma atrisināšana,  | Atrisina vienādojumu, lietojot      |
-|      | lietojot substitūcijas jeb | substitūcijas metodi.               |
-| 11\. | aizvietošanas metodi       |                                     |
-|      |                            | *9. darba lapa*                     |
-|      |                            |                                     |
-|      |                            | *2. formatīvās vērtēšanas darbs*    |
-+------+----------------------------+-------------------------------------+
-| 12\. | Vienādojuma atrisināšana,  | Atrisina vienādojumu, lietojot      |
-|      | lietojot grafisko          | grafisko paņēmienu.                 |
-|      | paņēmienu                  |                                     |
-|      |                            | *10. darba lapa*                    |
-|      |                            |                                     |
-|      |                            | *Prezentācija*                      |
-+------+----------------------------+-------------------------------------+
-| 13\. | Vienādojumu atrisināšana,  | Atrisina vienādojumu, lietojot      |
-|      | lietojot funkciju īpašības | funkciju īpašības un spriežot.      |
-|      | un spriežot                |                                     |
-+------+----------------------------+-------------------------------------+
-| 14\. | Vienādojuma atrisināšana   | Risina vienādojumus, izvēloties     |
-|      |                            | atbilstošu metodi.                  |
-|      |                            |                                     |
-|      |                            | *11. darba lapa*                    |
-+------+----------------------------+-------------------------------------+
-| 15\. | Kopsavilkums               | *Kopsavilkums*                      |
-+------+----------------------------+-------------------------------------+
-| 16\. | Noslēguma pārbaudes darbs  | *NPD*                               |
-+------+----------------------------+-------------------------------------+
-| 17\. | Noslēguma pārbaudes darba  |                                     |
-|      | analīze                    |                                     |
-+------+----------------------------+-------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 38%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;">Nr.</th>
+<th>Stundu grupas temats</th>
+<th>Sasniedzamie rezultāti</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.</td>
+<td>Algebriskas izteiksmes</td>
+<td><p>Atpazīst veselas un daļveida izteiksmes.</p>
+<p>Nosaka un skaidro algebriskās daļas definīcijas kopu.</p>
+<p>Aprēķina izteiksmes skaitlisko vērtību noteiktai mainīgā skaitliskajai vērtībai.</p>
+<p><em>1. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">2.</td>
+<td>Kvadrātvienādojumi</td>
+<td><p>Risina kvadrātvienādojumus, lietojot dažādus paņēmienus.</p>
+<p><em>2. darba lapa</em></p>
+<p><em>2. papildu darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">3.</td>
+<td>Kopīgā reizinātāja iznešana</td>
+<td><p>Zina, ko nozīmē sadalīt izteiksmi reizinātājos.</p>
+<p>Sadala izteiksmi reizinātājos, iznesot kopīgo reizinātāju pirms iekavām (arī grupēšanas paņēmiens).</p>
+<p><em>3. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">4.</td>
+<td>Kvadrātu starpības, summas kvadrāta un starpības kvadrāta formulas</td>
+<td><p>Zina un lieto saīsinātās reizināšanas formulas (summas / starpības kvadrāts un kvadrātu starpība).</p>
+<p><em>4. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">5.</td>
+<td>Kubu summas un kubu starpības formulas</td>
+<td><p>Zina un lieto saīsinātās reizināšanas formulas (kubu summa un kubu starpība).</p>
+<p><em>5. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">6.</td>
+<td>Kvadrāttrinoma sadalīšana reizinātājos</td>
+<td><p>Sadala kvadrāttrinomu reizinātājos.</p>
+<p><em>6. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>7.</p>
+<p>8.</p></td>
+<td>Izteiksmes sadalīšana reizinātājos</td>
+<td><p>Sadala izteiksmi reizinātājos ar dažādiem paņēmieniem.</p>
+<p><em>7. darba lapa</em></p>
+<p><em>1. formatīvās vērtēšanas darbs</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">9.</td>
+<td>Vienādojuma atrisināšana, sadalot reizinātājos</td>
+<td><p>Atrisina vienādojumu, spriežot par reizinājuma vienādību ar nulli.</p>
+<p><em>8. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>10.</p>
+<p>11.</p></td>
+<td>Vienādojuma atrisināšana, lietojot substitūcijas jeb aizvietošanas metodi</td>
+<td><p>Atrisina vienādojumu, lietojot substitūcijas metodi.</p>
+<p><em>9. darba lapa</em></p>
+<p><em>2. formatīvās vērtēšanas darbs</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">12.</td>
+<td>Vienādojuma atrisināšana, lietojot grafisko paņēmienu</td>
+<td><p>Atrisina vienādojumu, lietojot grafisko paņēmienu.</p>
+<p><em>10. darba lapa</em></p>
+<p><em>Prezentācija</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">13.</td>
+<td>Vienādojumu atrisināšana, lietojot funkciju īpašības un spriežot</td>
+<td>Atrisina vienādojumu, lietojot funkciju īpašības un spriežot.</td>
+</tr>
+<tr>
+<td style="text-align: center;">14.</td>
+<td>Vienādojuma atrisināšana</td>
+<td><p>Risina vienādojumus, izvēloties atbilstošu metodi.</p>
+<p><em>11. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">15.</td>
+<td>Kopsavilkums</td>
+<td><em>Kopsavilkums</em></td>
+</tr>
+<tr>
+<td style="text-align: center;">16.</td>
+<td>Noslēguma pārbaudes darbs</td>
+<td><em>NPD</em></td>
+</tr>
+<tr>
+<td style="text-align: center;">17.</td>
+<td>Noslēguma pārbaudes darba analīze</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 **\**
 
@@ -374,137 +395,282 @@ stundas var turpināt kā individuālu darbu.*
 
 **1.** Lietojot sadalīšanu reizinātājos.
 
-+----------------------------------------------------------+-----------------------+------------------------+
-| $$x^{2} - 4x = 0$$                                       | $$x^{2} - 16 = 0$$    | $$x^{2} + 6x + 9 = 0$$ |
-|                                                          |                       |                        |
-| $$x(x - 4) = 0$$                                         | $$x^{2} = 16$$        | $$(x + 3)^{2} = 0$$    |
-|                                                          |                       |                        |
-| $x = 0\ \ \ \ \ \ \ \ \ \ \ \ x - 4 =$`<!-- -->`{=html}0 | $$x = \pm \sqrt{16}$$ | $$x + 3 = 0$$          |
-|                                                          |                       |                        |
-| $$\ x = 4$$                                              | $$x = \pm 4$$         | $$x = - 3$$            |
-|                                                          |                       |                        |
-| Atbilde. $x_{1} = 0$ un $x_{2} = 4$                      | Atbilde. $x_{1} = 4$  | Atbilde. $x = - 3$     |
-|                                                          | un $x_{2} = - 4$      |                        |
-+==========================================================+=======================+========================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 54%" />
+<col style="width: 22%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 4<em>x</em> = 0</span></p>
+<p><span class="math display"><em>x</em>(<em>x</em> − 4) = 0</span></p>
+<p><span class="math inline"><em>x</em> = 0            <em>x</em> − 4=</span><!-- -->0</p>
+<p><span class="math display"> <em>x</em> = 4</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 0</span> un <span class="math inline"><em>x</em><sub>2</sub> = 4</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 16 = 0</span></p>
+<p><span class="math display"><em>x</em><sup>2</sup> = 16</span></p>
+<p><span class="math display">$$x = \pm \sqrt{16}$$</span></p>
+<p><span class="math display"><em>x</em> = ±4</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 4</span> un <span class="math inline"><em>x</em><sub>2</sub> = −4</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> + 6<em>x</em> + 9 = 0</span></p>
+<p><span class="math display">(<em>x</em> + 3)<sup>2</sup> = 0</span></p>
+<p><span class="math display"><em>x</em> + 3 = 0</span></p>
+<p><span class="math display"><em>x</em> = −3</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em> = −3</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 **2.** Ar sakņu formulu.
 
-+--------------------------------------------------------------------------------------------+
-| > $$ax^{2} + bx + c = 0$$                                                                  |
-|                                                                                            |
-| $$D = b^{2} - 4ac$$                                                                        |
-+=======================================+============+=======================================+
-| $$x_{1} = \frac{- b + \sqrt{D}}{2a}$$ | un         | $$x_{2} = \frac{- b - \sqrt{D}}{2a}$$ |
-+---------------------------------------+------------+---------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 42%" />
+<col style="width: 13%" />
+<col style="width: 42%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="3"><blockquote>
+<p><span class="math display"><em>a</em><em>x</em><sup>2</sup> + <em>b</em><em>x</em> + <em>c</em> = 0</span></p>
+</blockquote>
+<p><span class="math display"><em>D</em> = <em>b</em><sup>2</sup> − 4<em>a</em><em>c</em></span></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="math display">$$x_{1} = \frac{- b + \sqrt{D}}{2a}$$</span></td>
+<td>un</td>
+<td><span class="math display">$$x_{2} = \frac{- b - \sqrt{D}}{2a}$$</span></td>
+</tr>
+</tbody>
+</table>
 
-+-----------------------------------------------------------------+-------------------------------------------------------------------------------+------------------------------------------+
-| $$x^{2} + 2x - 8 = 0$$                                          | $$2x^{2} - 5x - 3 = 0$$                                                       | $${3x}^{2} + 4x + 10 = 0$$               |
-|                                                                 |                                                                               |                                          |
-| $$D = 2^{2} - 4 \bullet 1 \bullet ( - 8) = 36$$                 | $$D = {( - 5)}^{2} - 4 \bullet 2 \bullet ( - 3) = 49$$                        | $$D = 4^{2} - 4 \bullet 3 \bullet 10 =$$ |
-|                                                                 |                                                                               |                                          |
-| $$x_{1} = \frac{- 2 + \sqrt{36}}{2} = \frac{- 2 + 6}{2} = 2$$   | $$x_{1} = \frac{5 + \sqrt{49}}{2 \bullet 2} = \frac{5 + 7}{4} = 3$$           | $$= - 104 < 0$$                          |
-|                                                                 |                                                                               |                                          |
-| $$x_{2} = \frac{- 2 - \sqrt{36}}{2} = \frac{- 2 - 6}{2} = - 4$$ | $$x_{2} = \frac{5 - \sqrt{49}}{2 \bullet 2} = \frac{5 - 7}{4} = \frac{1}{2}$$ | Atbilde.                                 |
-|                                                                 |                                                                               |                                          |
-| Atbilde. $x_{1} = 2$ un $x_{2} = - 4$                           | Atbilde. $x_{1} = 3$ un $x_{2} = \frac{1}{2}$                                 | Kvadrātvienādojumam nav reālu sakņu.     |
-+=================================================================+===============================================================================+==========================================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 34%" />
+<col style="width: 42%" />
+<col style="width: 22%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display"><em>x</em><sup>2</sup> + 2<em>x</em> − 8 = 0</span></p>
+<p><span class="math display"><em>D</em> = 2<sup>2</sup> − 4 • 1 • (−8) = 36</span></p>
+<p><span class="math display">$$x_{1} = \frac{- 2 + \sqrt{36}}{2} = \frac{- 2 + 6}{2} = 2$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{- 2 - \sqrt{36}}{2} = \frac{- 2 - 6}{2} = - 4$$</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 2</span> un <span class="math inline"><em>x</em><sub>2</sub> = −4</span></p></th>
+<th><p><span class="math display">2<em>x</em><sup>2</sup> − 5<em>x</em> − 3 = 0</span></p>
+<p><span class="math display"><em>D</em> = (−5)<sup>2</sup> − 4 • 2 • (−3) = 49</span></p>
+<p><span class="math display">$$x_{1} = \frac{5 + \sqrt{49}}{2 \bullet 2} = \frac{5 + 7}{4} = 3$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{5 - \sqrt{49}}{2 \bullet 2} = \frac{5 - 7}{4} = \frac{1}{2}$$</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 3</span> un <span class="math inline">$x_{2} = \frac{1}{2}$</span></p></th>
+<th><p><span class="math display">3<em>x</em><sup>2</sup> + 4<em>x</em> + 10 = 0</span></p>
+<p><span class="math display"><em>D</em> = 4<sup>2</sup> − 4 • 3 • 10=</span></p>
+<p><span class="math display"> = −104 &lt; 0</span></p>
+<p>Atbilde.</p>
+<p>Kvadrātvienādojumam nav reālu sakņu.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-+-----------------------------------------------------------+-----------------------------------------------------------+------------------------------------------------------+
-| $$x^{2} - 4x = 0$$                                        | $$x^{2} - 16 = 0$$                                        | 2$x^{2} = 0$                                         |
-|                                                           |                                                           |                                                      |
-| $$D = {( - 4)}^{2} - 4 \bullet 1 \bullet 0 = 16$$         | $$D = 0^{2} - 4 \bullet 1 \bullet 16 = 64$$               | $$D = 0^{2} - 4 \bullet 2 \bullet 0 = 0$$            |
-|                                                           |                                                           |                                                      |
-| $$x_{1} = \frac{4 + \sqrt{16}}{2} = \frac{4 + 4}{2} = 4$$ | $$x_{1} = \frac{0 + \sqrt{64}}{2} = \frac{8}{2} = 4$$     | $$x_{1} = \frac{0 + \sqrt{0}}{2} = \frac{0}{2} = 0$$ |
-|                                                           |                                                           |                                                      |
-| $$x_{2} = \frac{4 - \sqrt{4}}{2} = 0$$                    | $$x_{2} = \frac{0 - \sqrt{64}}{2} = \frac{- 8}{2} = - 4$$ | $$x_{2} = \frac{0 - \sqrt{0}}{2} = \frac{0}{2} = 0$$ |
-|                                                           |                                                           |                                                      |
-| Atbilde. $x_{1} = 4$ un $x_{2} = 0$                       | Atbilde. $x_{1} = 4$ un $x_{2} = - 4$                     | Atbilde. $x_{1} = x_{2} = 0$                         |
-+===========================================================+===========================================================+======================================================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 34%" />
+<col style="width: 34%" />
+<col style="width: 31%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 4<em>x</em> = 0</span></p>
+<p><span class="math display"><em>D</em> = (−4)<sup>2</sup> − 4 • 1 • 0 = 16</span></p>
+<p><span class="math display">$$x_{1} = \frac{4 + \sqrt{16}}{2} = \frac{4 + 4}{2} = 4$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{4 - \sqrt{4}}{2} = 0$$</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 4</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 16 = 0</span></p>
+<p><span class="math display"><em>D</em> = 0<sup>2</sup> − 4 • 1 • 16 = 64</span></p>
+<p><span class="math display">$$x_{1} = \frac{0 + \sqrt{64}}{2} = \frac{8}{2} = 4$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{0 - \sqrt{64}}{2} = \frac{- 8}{2} = - 4$$</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 4</span> un <span class="math inline"><em>x</em><sub>2</sub> = −4</span></p></th>
+<th><p>2<span class="math inline"><em>x</em><sup>2</sup> = 0</span></p>
+<p><span class="math display"><em>D</em> = 0<sup>2</sup> − 4 • 2 • 0 = 0</span></p>
+<p><span class="math display">$$x_{1} = \frac{0 + \sqrt{0}}{2} = \frac{0}{2} = 0$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{0 - \sqrt{0}}{2} = \frac{0}{2} = 0$$</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = <em>x</em><sub>2</sub> = 0</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 **3.** Grafiskā metode.
 
-+----------------------------------------------------+---------------------------------------------------+----------------------------------------------------+
-| $$- (x + 1)^{2} + 4 = 0$$                          | $$2x^{2} = 0$$                                    | $$x^{2} - 4 = 0$$                                  |
-|                                                    |                                                   |                                                    |
-| ![](media/image1.png){width="2.1898632983377078in" | ![](media/image2.png){width="1.323956692913386in" | ![](media/image3.png){width="1.6022528433945757in" |
-| height="1.7493022747156606in"}                     | height="1.514099956255468in"}                     | height="2.03580271216098in"}                       |
-|                                                    |                                                   |                                                    |
-| Atbilde. $x_{1} = - 3$ un $x_{2} = 1$              | Atbilde. $x = 0$                                  | Atbilde. $x_{1} = - 2$ un $x_{2} = 2$              |
-+====================================================+===================================================+====================================================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 32%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display">−(<em>x</em> + 1)<sup>2</sup> + 4 = 0</span></p>
+<p><img src="media/image1.png" style="width:2.18986in;height:1.7493in" /></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = −3</span> un <span class="math inline"><em>x</em><sub>2</sub> = 1</span></p></th>
+<th><p><span class="math display">2<em>x</em><sup>2</sup> = 0</span></p>
+<p><img src="media/image2.png" style="width:1.32396in;height:1.5141in" /></p>
+<p>Atbilde. <span class="math inline"><em>x</em> = 0</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 4 = 0</span></p>
+<p><img src="media/image3.png" style="width:1.60225in;height:2.0358in" /></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = −2</span> un <span class="math inline"><em>x</em><sub>2</sub> = 2</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 **4.** Vjeta teorēma (reducētam kvadrātvienādojumam).
 
-+-----------------------------------+
-| Vjeta teorēma                     |
-|                                   |
-| $$x^{2} + px + q = 0$$            |
-|                                   |
-| $$\left\{ \ \begin{array}{r}      |
-| x_{1} + x_{2} = - p \\            |
-| x_{1} \bullet x_{2} = q\ \ \ \ \  |
-| \end{array} \right.\ $$           |
-+===================================+
+<table style="width:50%;">
+<colgroup>
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Vjeta teorēma</p>
+<p><span class="math display"><em>x</em><sup>2</sup> + <em>p</em><em>x</em> + <em>q</em> = 0</span></p>
+<p><span class="math display">$$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = - p \\
+x_{1} \bullet x_{2} = q\ \ \ \ \
+\end{array} \right.\ $$</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
-+-----------------------------------+-----------------------------+-----------------------------+
-| $$x^{2} + 6x + 9 = 0$$            | $$x^{2} - 16 = 0$$          | $$x^{2} - 4x = 0$$          |
-|                                   |                             |                             |
-| Ja $\left\{ \ \begin{array}{r}    | Ja                          | Ja                          |
-| x_{1} + x_{2} = - 6 \\            | $\left\{ \ \begin{array}{r} | $\left\{ \ \begin{array}{r} |
-| x_{1} \bullet x_{2} = 9\ \ \ \ \  | x_{1} + x_{2} = 0\ \ \  \\  | x_{1} + x_{2} = 4 \\        |
-| \end{array} \right.\ \ ,$         | x_{1} \bullet x_{2} = - 16  | x_{1} \bullet x_{2} = 0\ \  |
-|                                   | \end{array} \right.\ \ ,$   | \end{array} \right.\ \ ,$   |
-| tad $x_{1} = - 3$ un              |                             |                             |
-| $x_{2} = - 3$.                    | tad $x_{1} = 4$ un          | tad $x_{1} = - 4$ un        |
-|                                   | $x_{2} = - 4.$              | $x_{2} = 0$.                |
-| Atbilde. $x = - 3$                |                             |                             |
-|                                   | Atbilde. $x_{1} = - 4$ un   | Atbilde. $x_{1} = 0$ un     |
-|                                   | $x_{2} = 4$                 | $x_{2} = 4$                 |
-+===================================+=============================+=============================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 37%" />
+<col style="width: 30%" />
+<col style="width: 30%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display"><em>x</em><sup>2</sup> + 6<em>x</em> + 9 = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = - 6 \\
+x_{1} \bullet x_{2} = 9\ \ \ \ \
+\end{array} \right.\ \ ,$</span></p>
+<p>tad <span class="math inline"><em>x</em><sub>1</sub> = −3</span> un <span class="math inline"><em>x</em><sub>2</sub> = −3</span>.</p>
+<p>Atbilde. <span class="math inline"><em>x</em> = −3</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 16 = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = 0\ \ \  \\
+x_{1} \bullet x_{2} = - 16
+\end{array} \right.\ \ ,$</span></p>
+<p>tad <span class="math inline"><em>x</em><sub>1</sub> = 4</span> un <span class="math inline"><em>x</em><sub>2</sub> = −4.</span></p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = −4</span> un <span class="math inline"><em>x</em><sub>2</sub> = 4</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 4<em>x</em> = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = 4 \\
+x_{1} \bullet x_{2} = 0\ \
+\end{array} \right.\ \ ,$</span></p>
+<p>tad <span class="math inline"><em>x</em><sub>1</sub> = −4</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0</span>.</p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 0</span> un <span class="math inline"><em>x</em><sub>2</sub> = 4</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 **5.** Vjeta teorēma vienādojumam $ax^{2} + bx + c = 0$.
 
-+--------------------------------------------+-----------------------------+-------------------------------+
-| Vispārīgi                                  | $$2x^{2} - 5x - 3 = 0$$     | $$5x^{2} - 6x + 1 = 0$$       |
-|                                            |                             |                               |
-| $$ax^{2} + bx + c = 0$$                    | $$x^{2} - 2,5x - 1,5 = 0$$  | $$x^{2} - 1,2x + 0,2 = 0$$    |
-|                                            |                             |                               |
-| $$x^{2} + \frac{b}{a}x + \frac{c}{a} = 0$$ | Ja                          | Ja                            |
-|                                            | $\left\{ \ \begin{array}{r} | $\left\{ \ \begin{array}{r}   |
-| $$\left\{ \begin{array}{r}                 | x_{1} + x_{2} = 2,5\  \\    | x_{1} + x_{2} = 1,2 \\        |
-| x_{1} + x_{2} = \frac{b}{a} \\             | x_{1} \bullet x_{2} = - 1,5 | x_{1} \bullet x_{2} = 0,2\ \  |
-| x_{1} \bullet x_{2} = \frac{c}{a}\ \       | \end{array} \right.\ $, tad | \end{array} \right.\ $, tad   |
-| \end{array} \right.\ $$                    |                             |                               |
-|                                            | $x_{1} = 3$ un              | $x_{1} = 1$ un $x_{2} = 0,2$. |
-|                                            | $x_{2} = - 0,5$.            |                               |
-|                                            |                             | Atbilde. $x_{1} = 1$ un       |
-|                                            | Atbilde. $x_{1} = 3$ un     | $x_{2} = 0,2$                 |
-|                                            | $x_{2} = - 0,5$             |                               |
-+============================================+=============================+===============================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 41%" />
+<col style="width: 27%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Vispārīgi</p>
+<p><span class="math display"><em>a</em><em>x</em><sup>2</sup> + <em>b</em><em>x</em> + <em>c</em> = 0</span></p>
+<p><span class="math display">$$x^{2} + \frac{b}{a}x + \frac{c}{a} = 0$$</span></p>
+<p><span class="math display">$$\left\{ \begin{array}{r}
+x_{1} + x_{2} = \frac{b}{a} \\
+x_{1} \bullet x_{2} = \frac{c}{a}\ \
+\end{array} \right.\ $$</span></p></th>
+<th><p><span class="math display">2<em>x</em><sup>2</sup> − 5<em>x</em> − 3 = 0</span></p>
+<p><span class="math display"><em>x</em><sup>2</sup> − 2, 5<em>x</em> − 1, 5 = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = 2,5\  \\
+x_{1} \bullet x_{2} = - 1,5
+\end{array} \right.\ $</span>, tad</p>
+<p><span class="math inline"><em>x</em><sub>1</sub> = 3</span> un <span class="math inline"><em>x</em><sub>2</sub> = −0, 5</span>.</p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 3</span> un <span class="math inline"><em>x</em><sub>2</sub> = −0, 5</span></p></th>
+<th><p><span class="math display">5<em>x</em><sup>2</sup> − 6<em>x</em> + 1 = 0</span></p>
+<p><span class="math display"><em>x</em><sup>2</sup> − 1, 2<em>x</em> + 0, 2 = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = 1,2 \\
+x_{1} \bullet x_{2} = 0,2\ \
+\end{array} \right.\ $</span>, tad</p>
+<p><span class="math inline"><em>x</em><sub>1</sub> = 1</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0, 2</span>.</p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 1</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0, 2</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 **6.** Lietojot palīgvienādojumu un Vjeta teorēmu.
 
-+------------------------------+------------------------------------------+------------------------------+
-| Vispārīgi                    | $$6x^{2} + x - 1 = 0$$                   | $$5x^{2} - 6x + 1 = 0$$      |
-|                              |                                          |                              |
-| $$ax^{2} + bx + c = 0$$      | Palīgvienādojums                         | Palīgvienādojums             |
-|                              |                                          |                              |
-| Izveido palīgvienādojumu     | $$t^{2} + t - 6 = 0$$                    | $$t^{2} - 6t + 5 = 0$$       |
-|                              |                                          |                              |
-| $$t^{2} + bt + ac = 0$$      | Ja $\left\{ \begin{array}{r}             | Ja $\left\{ \begin{array}{r} |
-|                              | t_{1} + t_{2} = - 1 \\                   | t_{1} + t_{2} = 6 \\         |
-| $$\left\{ \ \begin{array}{r} | t_{1} \bullet t_{2} = - 6                | t_{1} \bullet t_{2} = 1      |
-| t_{1} + t_{2} = b \\         | \end{array} \right.\ $, tad              | \end{array} \right.\ $, tad  |
-| t_{1} \bullet t_{2} = ac     |                                          |                              |
-| \end{array} \right.\ $$      | $t_{1} = 2$ un $t_{2} = - 3$.            | $t_{1} = 5$ un $t_{2} = 1$.  |
-|                              |                                          |                              |
-| Nosaka palīgvienādojuma      | Dotā vienādojuma saknes ir               | Dotā vienādojuma saknes ir   |
-| saknes $t_{1}\ $un $t_{2}$.  | $x_{1} = \frac{2}{6} =$ $\frac{1}{3}$ un | $x_{1} = \frac{5}{5} =$ 1 un |
-|                              | $x_{2} = \frac{- 3}{6} = - \frac{1}{2}$. | $x_{2} = \frac{1}{5} = 0,2$. |
-| Nosaka dotā vienādojuma      |                                          |                              |
-| saknes                       | Atbilde. $x_{1} = \frac{1}{3}$ un        | Atbilde. $x_{1} = 1$ un      |
-| $x_{1} = \frac{t_{1}}{a}$ un | $x_{2} = - \frac{1}{2}$                  | $x_{2} = 0,2$                |
-| $x_{2} = \frac{t_{2}}{a}$.   |                                          |                              |
-+==============================+==========================================+==============================+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 40%" />
+<col style="width: 29%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Vispārīgi</p>
+<p><span class="math display"><em>a</em><em>x</em><sup>2</sup> + <em>b</em><em>x</em> + <em>c</em> = 0</span></p>
+<p>Izveido palīgvienādojumu</p>
+<p><span class="math display"><em>t</em><sup>2</sup> + <em>b</em><em>t</em> + <em>a</em><em>c</em> = 0</span></p>
+<p><span class="math display">$$\left\{ \ \begin{array}{r}
+t_{1} + t_{2} = b \\
+t_{1} \bullet t_{2} = ac
+\end{array} \right.\ $$</span></p>
+<p>Nosaka palīgvienādojuma saknes <span class="math inline"><em>t</em><sub>1</sub> </span>un <span class="math inline"><em>t</em><sub>2</sub></span>.</p>
+<p>Nosaka dotā vienādojuma saknes <span class="math inline">$x_{1} = \frac{t_{1}}{a}$</span> un <span class="math inline">$x_{2} = \frac{t_{2}}{a}$</span>.</p></th>
+<th><p><span class="math display">6<em>x</em><sup>2</sup> + <em>x</em> − 1 = 0</span></p>
+<p>Palīgvienādojums</p>
+<p><span class="math display"><em>t</em><sup>2</sup> + <em>t</em> − 6 = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \begin{array}{r}
+t_{1} + t_{2} = - 1 \\
+t_{1} \bullet t_{2} = - 6
+\end{array} \right.\ $</span>, tad</p>
+<p><span class="math inline"><em>t</em><sub>1</sub> = 2</span> un <span class="math inline"><em>t</em><sub>2</sub> = −3</span>.</p>
+<p>Dotā vienādojuma saknes ir <span class="math inline">$x_{1} = \frac{2}{6} =$</span> <span class="math inline">$\frac{1}{3}$</span> un <span class="math inline">$x_{2} = \frac{- 3}{6} = - \frac{1}{2}$</span>.</p>
+<p>Atbilde. <span class="math inline">$x_{1} = \frac{1}{3}$</span> un <span class="math inline">$x_{2} = - \frac{1}{2}$</span></p></th>
+<th><p><span class="math display">5<em>x</em><sup>2</sup> − 6<em>x</em> + 1 = 0</span></p>
+<p>Palīgvienādojums</p>
+<p><span class="math display"><em>t</em><sup>2</sup> − 6<em>t</em> + 5 = 0</span></p>
+<p>Ja <span class="math inline">$\left\{ \begin{array}{r}
+t_{1} + t_{2} = 6 \\
+t_{1} \bullet t_{2} = 1
+\end{array} \right.\ $</span>, tad</p>
+<p><span class="math inline"><em>t</em><sub>1</sub> = 5</span> un <span class="math inline"><em>t</em><sub>2</sub> = 1</span>.</p>
+<p>Dotā vienādojuma saknes ir <span class="math inline">$x_{1} = \frac{5}{5} =$</span> 1 un <span class="math inline">$x_{2} = \frac{1}{5} = 0,2$</span>.</p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = 1</span> un <span class="math inline"><em>x</em><sub>2</sub> = 0, 2</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 Vingrinās risināt kvadrātvienādojumus (skat. [OL_1_dl_2]{.mark} un
 [OL_1_dl_2 papildu lapu]{.mark} par Vjeta teorēmu).
@@ -859,47 +1025,56 @@ Piemēri
 
 **1.** Sadali izteiksmi $2x^{2} + 8x - 10$ reizinātājos!
 
-+---------------------------------------------------------+------------------------------------------------------------------------------+
-| I veids                                                 | II veids                                                                     |
-|                                                         |                                                                              |
-| Aprēķina kvadrāttrinoma saknes.                         | $$2x^{2} + 8x - 10 = 0\ \ \ \ \ \ \ \ \ \ \ \ \ |:2$$                        |
-|                                                         |                                                                              |
-| $$D = 8^{2} - 4 \bullet 2 \bullet ( - 10) = 144$$       | $$x^{2} + 4x - 5 = 0\ \ \ \ \ \ \ \ \ \ \ \ \ $$                             |
-|                                                         |                                                                              |
-| $$x_{1} = \frac{- 8 + 12}{4} = 1$$                      | Aprēķina dotā kvadrāttrinoma diskriminantu.                                  |
-|                                                         |                                                                              |
-| $$x_{2} = \frac{- 8 - 12}{4} = - 5$$                    | $$D = 4^{2} - 4 \bullet 1 \bullet ( - 5) = 36$$                              |
-|                                                         |                                                                              |
-| Dotā kvadrāttrinoma koeficients $a = 2$.                | $$x_{1} = \frac{- 4 + 6}{2} = 1$$                                            |
-|                                                         |                                                                              |
-| Atbilde.                                                | $$x_{2} = \frac{- 4 - 6}{2} = - 5$$                                          |
-|                                                         |                                                                              |
-| $$2x^{2} + 8x - 10 = 2(x - 1)(x + 5)$$                  | Dotā kvadrāttrinoma koeficients $a = 2$.                                     |
-|                                                         |                                                                              |
-|                                                         | Atbilde.                                                                     |
-|                                                         |                                                                              |
-|                                                         | $$2x^{2} + 8x - 10 = 2(x - 1)(x + 5)$$                                       |
-+=========================================================+==============================================================================+
-| III veids                                               | IV veids                                                                     |
-|                                                         |                                                                              |
-| $$2x^{2} + 8x - 10 = 2\left( x^{2} + 4x - 5 \right) =$$ | $$2x^{2} + 8x - 10 = 2\left( x^{2} + 4x - 5 \right) =$$                      |
-|                                                         |                                                                              |
-| $$= 2\left( (x + 2)^{2} - 9 \right) =$$                 | $$= 2(x - 1)(x + 5)$$                                                        |
-|                                                         |                                                                              |
-| $$= 2(x + 2 - 3)(x + 2 + 3) =$$                         | Aprēķina kvadrāttrinoma saknes ar Vjeta teorēmu                              |
-|                                                         |                                                                              |
-| $$= 2(x - 1)(x + 5)$$                                   | $$\left\{ \ \begin{array}{r}                                                 |
-|                                                         | x_{1} + x_{2} = - 4 \\                                                       |
-|                                                         | x_{1} \cdot x_{2} = - 5\ \                                                   |
-|                                                         | \end{array} \right.\ \ \ \ \ \ \ \ \  \Rightarrow \ \ \ \ \ \ \begin{matrix} |
-|                                                         | x_{1} = 1\ \ \ \  \\                                                         |
-|                                                         | x_{2} = - 5                                                                  |
-|                                                         | \end{matrix}$$                                                               |
-|                                                         |                                                                              |
-|                                                         | Atbilde.                                                                     |
-|                                                         |                                                                              |
-|                                                         | $$2x^{2} + 8x - 10 = 2(x - 1)(x + 5)$$                                       |
-+---------------------------------------------------------+------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 42%" />
+<col style="width: 57%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>I veids</p>
+<p>Aprēķina kvadrāttrinoma saknes.</p>
+<p><span class="math display"><em>D</em> = 8<sup>2</sup> − 4 • 2 • (−10) = 144</span></p>
+<p><span class="math display">$$x_{1} = \frac{- 8 + 12}{4} = 1$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{- 8 - 12}{4} = - 5$$</span></p>
+<p>Dotā kvadrāttrinoma koeficients <span class="math inline"><em>a</em> = 2</span>.</p>
+<p>Atbilde.</p>
+<p><span class="math display">2<em>x</em><sup>2</sup> + 8<em>x</em> − 10 = 2(<em>x</em> − 1)(<em>x</em> + 5)</span></p></th>
+<th><p>II veids</p>
+<p><span class="math display">2<em>x</em><sup>2</sup> + 8<em>x</em> − 10 = 0             | : 2</span></p>
+<p><span class="math display"><em>x</em><sup>2</sup> + 4<em>x</em> − 5 = 0             </span></p>
+<p>Aprēķina dotā kvadrāttrinoma diskriminantu.</p>
+<p><span class="math display"><em>D</em> = 4<sup>2</sup> − 4 • 1 • (−5) = 36</span></p>
+<p><span class="math display">$$x_{1} = \frac{- 4 + 6}{2} = 1$$</span></p>
+<p><span class="math display">$$x_{2} = \frac{- 4 - 6}{2} = - 5$$</span></p>
+<p>Dotā kvadrāttrinoma koeficients <span class="math inline"><em>a</em> = 2</span>.</p>
+<p>Atbilde.</p>
+<p><span class="math display">2<em>x</em><sup>2</sup> + 8<em>x</em> − 10 = 2(<em>x</em> − 1)(<em>x</em> + 5)</span></p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>III veids</p>
+<p><span class="math display">2<em>x</em><sup>2</sup> + 8<em>x</em> − 10 = 2(<em>x</em><sup>2</sup> + 4<em>x</em> − 5)=</span></p>
+<p><span class="math display"> = 2((<em>x</em> + 2)<sup>2</sup> − 9)=</span></p>
+<p><span class="math display"> = 2(<em>x</em> + 2 − 3)(<em>x</em> + 2 + 3)=</span></p>
+<p><span class="math display"> = 2(<em>x</em> − 1)(<em>x</em> + 5)</span></p></td>
+<td><p>IV veids</p>
+<p><span class="math display">2<em>x</em><sup>2</sup> + 8<em>x</em> − 10 = 2(<em>x</em><sup>2</sup> + 4<em>x</em> − 5)=</span></p>
+<p><span class="math display"> = 2(<em>x</em> − 1)(<em>x</em> + 5)</span></p>
+<p>Aprēķina kvadrāttrinoma saknes ar Vjeta teorēmu</p>
+<p><span class="math display">$$\left\{ \ \begin{array}{r}
+x_{1} + x_{2} = - 4 \\
+x_{1} \cdot x_{2} = - 5\ \
+\end{array} \right.\ \ \ \ \ \ \ \ \  \Rightarrow \ \ \ \ \ \ \begin{matrix}
+x_{1} = 1\ \ \ \  \\
+x_{2} = - 5
+\end{matrix}$$</span></p>
+<p>Atbilde.</p>
+<p><span class="math display">2<em>x</em><sup>2</sup> + 8<em>x</em> − 10 = 2(<em>x</em> − 1)(<em>x</em> + 5)</span></p></td>
+</tr>
+</tbody>
+</table>
 
 Pārbaude
 
@@ -1071,13 +1246,23 @@ Ja divu nezināmu lielumu reizinājums ir vienāds ar nulli, tad kāds no
 reizinātājiem ir 0. *Principā jāatrod tādas mainīgā vērtības, ar kurām
 kāds no reizinātājiem ir 0.*
 
-+---------------+------------------------+
-| $$x + 3 = 0$$ | $$x^{2} - 25 = 0$$     |
-|               |                        |
-| $$x = - 3$$   | $$x = \pm \sqrt{25}$$  |
-|               |                        |
-|               | $$x = \pm 5$$          |
-+===============+========================+
+<table style="width:57%;">
+<colgroup>
+<col style="width: 22%" />
+<col style="width: 34%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display"><em>x</em> + 3 = 0</span></p>
+<p><span class="math display"><em>x</em> = −3</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> − 25 = 0</span></p>
+<p><span class="math display">$$x = \pm \sqrt{25}$$</span></p>
+<p><span class="math display"><em>x</em> = ±5</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 Atbilde. $x_{1} = - 3$, $x_{2} = - 5$ un $x_{3} = 5$
 
@@ -1089,17 +1274,28 @@ izsekojamas.*
 Trīs nezināmu lielumu reizinājums ir vienāds ar nulli, tātad kāds no
 reizinātājiem ir 0.
 
-+-------------+-----------------+-------------------------------+
-| $$x = 0$$   | $$x - 2 = 0$$   | $$x^{2} + x - 12 = 0$$        |
-|             |                 |                               |
-|             | $$x = 2$$       | Vjeta teorēma                 |
-|             |                 | $\left\{ \begin{array}{r}     |
-|             |                 | x_{1} + x_{2} = - 1\  \\      |
-|             |                 | x_{1} \bullet x_{2} = - 12    |
-|             |                 | \end{array} \right.\ $        |
-|             |                 |                               |
-|             |                 | $x_{1} = 3$ $x_{2} = - 4$     |
-+=============+=================+===============================+
+<table style="width:89%;">
+<colgroup>
+<col style="width: 19%" />
+<col style="width: 25%" />
+<col style="width: 44%" />
+</colgroup>
+<thead>
+<tr>
+<th><span class="math display"><em>x</em> = 0</span></th>
+<th><p><span class="math display"><em>x</em> − 2 = 0</span></p>
+<p><span class="math display"><em>x</em> = 2</span></p></th>
+<th><p><span class="math display"><em>x</em><sup>2</sup> + <em>x</em> − 12 = 0</span></p>
+<p>Vjeta teorēma <span class="math inline">$\left\{ \begin{array}{r}
+x_{1} + x_{2} = - 1\  \\
+x_{1} \bullet x_{2} = - 12
+\end{array} \right.\ $</span></p>
+<p><span class="math inline"><em>x</em><sub>1</sub> = 3</span> <span class="math inline"><em>x</em><sub>2</sub> = −4</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 Atbilde. $x_{1} =$, $x_{2} = 2$, $x_{3} = 3$ un $x_{4} = - 4$
 
@@ -1228,43 +1424,56 @@ Vienādojumu $\frac{2}{x} = 0,125x^{3}$ nevar atrisināt ne ar
 substitūcijas metodi, ne sadalot reizinātājos. Taču šo vienādojumu var
 atrisināt izmantojot grafisko paņēmienu.
 
-+--------------------------------------------------------------------------------------------+---------------------------+
-| Vienādojuma $\frac{2}{x} = 0,125x^{3}$ risināšana ar grafisko paņēmienu.                   | Vienādojuma $f(x) = g(x)$ |
-|                                                                                            | risināšana ar grafisko    |
-|                                                                                            | paņēmienu.                |
-+============================================================================================+===========================+
-| 1\) Vienā koordinātu plaknē uzzīmē divu funkciju grafikus: $y = \frac{2}{x}$ un            | 1\) Vienā koordinātu      |
-| $y = 0,125x^{3}$.                                                                          | plaknē uzzīmē divu        |
-|                                                                                            | funkciju grafikus:        |
-| ![](media/image6.png){width="2.4287215660542434in" height="2.7154461942257218in"}          | $y = f(x)$ un $y = g(x)$. |
-|                                                                                            |                           |
-| 2\) Nosaka grafiku krustpunktu skaitu un pārliecinās, ka citu krustpunktu nav.             | 2\) Nosaka grafiku        |
-|                                                                                            | krustpunktu skaitu un     |
-| Grafikiem ir tikai divi krustpunkti. Citu nav, jo, ja $x > 2$, viena no funkcijām ir       | pārliecinās, ka citu      |
-| augoša un otra dilstoša un,\                                                               | krustpunktu nav.          |
-| ja $x < - 2$, tad viena funkcijas ir augoša un otra ir dilstoša.                           |                           |
-|                                                                                            | 3\) Nolasa grafiku        |
-| 3\) Nolasa grafiku krustpunktu $x$ koordinātas.                                            | krustpunktu $x$           |
-|                                                                                            | koordinātas un veic       |
-| Krustpunktu koordinātas ir $x_{1} = - 2$ un $x_{2} = 2$.                                   | pārbaudi.                 |
-|                                                                                            |                           |
-| Pārbaude                                                                                   | *Vienmēr pārbauda, vai    |
-|                                                                                            | saskatītā x vērtība       |
-| +-----------------------------------------------+----------------------------------------+ | tiešām ir vienādojuma     |
-| | $$x_{1} = - 2$$                               | $$x_{2} = 2$$                          | | sakne, apzinoties, ka ne  |
-| |                                               |                                        | | vienmēr ar grafisko       |
-| | $$\frac{2}{- 2} = 0,125{\bullet ( - 2)}^{3}$$ | $$\frac{2}{2} = 0,125{\bullet 2}^{3}$$ | | paņēmienu sakni var       |
-| |                                               |                                        | | noteikt precīzi.*         |
-| | $$- 1 = - 1$$                                 | $$1 = 1$$                              | |                           |
-| +===============================================+========================================+ | *Šajā gadījumā pārbaude   |
-|                                                                                            | nav paškontrolei, bet pēc |
-| 4\) Uzraksta atbildi.                                                                      | būtības vajadzīga, jo,    |
-|                                                                                            | piemēram, no grafika      |
-| Atbilde. $x_{1} = - 2$ un $x_{2} = 2$                                                      | nevar atšķirt, vai        |
-|                                                                                            | vērtība 2 vai 2,03.*      |
-|                                                                                            |                           |
-|                                                                                            | 4\) Uzraksta atbildi.     |
-+--------------------------------------------------------------------------------------------+---------------------------+
+<table>
+<colgroup>
+<col style="width: 76%" />
+<col style="width: 23%" />
+</colgroup>
+<thead>
+<tr>
+<th>Vienādojuma <span class="math inline">$\frac{2}{x} = 0,125x^{3}$</span> risināšana ar grafisko paņēmienu.</th>
+<th>Vienādojuma <span class="math inline"><em>f</em>(<em>x</em>) = <em>g</em>(<em>x</em>)</span> risināšana ar grafisko paņēmienu.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><p>1) Vienā koordinātu plaknē uzzīmē divu funkciju grafikus: <span class="math inline">$y = \frac{2}{x}$</span> un <span class="math inline"><em>y</em> = 0, 125<em>x</em><sup>3</sup></span>.</p>
+<p><img src="media/image6.png" style="width:2.42872in;height:2.71545in" /></p>
+<p>2) Nosaka grafiku krustpunktu skaitu un pārliecinās, ka citu krustpunktu nav.</p>
+<p>Grafikiem ir tikai divi krustpunkti. Citu nav, jo, ja <span class="math inline"><em>x</em> &gt; 2</span>, viena no funkcijām ir augoša un otra dilstoša un,<br />
+ja <span class="math inline"><em>x</em> &lt; −2</span>, tad viena funkcijas ir augoša un otra ir dilstoša.</p>
+<p>3) Nolasa grafiku krustpunktu <span class="math inline"><em>x</em></span> koordinātas.</p>
+<p>Krustpunktu koordinātas ir <span class="math inline"><em>x</em><sub>1</sub> = −2</span> un <span class="math inline"><em>x</em><sub>2</sub> = 2</span>.</p>
+<p>Pārbaude</p>
+<table>
+<colgroup>
+<col style="width: 53%" />
+<col style="width: 46%" />
+</colgroup>
+<thead>
+<tr>
+<th><p><span class="math display"><em>x</em><sub>1</sub> = −2</span></p>
+<p><span class="math display">$$\frac{2}{- 2} = 0,125{\bullet ( - 2)}^{3}$$</span></p>
+<p><span class="math display">−1 = −1</span></p></th>
+<th><p><span class="math display"><em>x</em><sub>2</sub> = 2</span></p>
+<p><span class="math display">$$\frac{2}{2} = 0,125{\bullet 2}^{3}$$</span></p>
+<p><span class="math display">1 = 1</span></p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<p>4) Uzraksta atbildi.</p>
+<p>Atbilde. <span class="math inline"><em>x</em><sub>1</sub> = −2</span> un <span class="math inline"><em>x</em><sub>2</sub> = 2</span></p></td>
+<td><p>1) Vienā koordinātu plaknē uzzīmē divu funkciju grafikus: <span class="math inline"><em>y</em> = <em>f</em>(<em>x</em>)</span> un <span class="math inline"><em>y</em> = <em>g</em>(<em>x</em>)</span>.</p>
+<p>2) Nosaka grafiku krustpunktu skaitu un pārliecinās, ka citu krustpunktu nav.</p>
+<p>3) Nolasa grafiku krustpunktu <span class="math inline"><em>x</em></span> koordinātas un veic pārbaudi.</p>
+<p><em>Vienmēr pārbauda, vai saskatītā x vērtība tiešām ir vienādojuma sakne, apzinoties, ka ne vienmēr ar grafisko paņēmienu sakni var noteikt precīzi.</em></p>
+<p><em>Šajā gadījumā pārbaude nav paškontrolei, bet pēc būtības vajadzīga, jo, piemēram, no grafika nevar atšķirt, vai vērtība 2 vai 2,03.</em></p>
+<p>4) Uzraksta atbildi.</p></td>
+</tr>
+</tbody>
+</table>
 
 *Ja grafiki krustojas*
 
@@ -1326,27 +1535,39 @@ spriežot**
 
 Stundu var sākt ar šādiem diviem uzdevumiem.
 
-+-------------------------------------------------------------+-------------------------------------------------------------+
-| Doti funkciju $y = \sqrt{x}$ un $y = 5$ grafiki. Atrisini   | Doti funkciju $y = \sqrt{x}$ un $y = - 2$ grafiki. Atrisini |
-| vienādojumu $\sqrt{x} = 5$. *Skolotājs var demonstrēt       | vienādojumu $\sqrt{x} = - 2$. *Skolotājs var demonstrēt     |
-| grafikus uz ekrāna vai zīmēt kopā ar skolēniem.*            | grafikus uz ekrāna vai zīmēt kopā ar skolēniem.*            |
-|                                                             |                                                             |
-| ![Attēls, kurā ir rinda, diagramma, skice, cipars Apraksts  | ![Attēls, kurā ir rinda, diagramma, skice, cipars Apraksts  |
-| ģenerēts                                                    | ģenerēts                                                    |
-| automātiski](media/image8.png){width="3.1794017935258094in" | automātiski](media/image9.png){width="3.0236996937882763in" |
-| height="2.1564391951006123in"}                              | height="2.1768722659667543in"}                              |
-|                                                             |                                                             |
-| *Cik atrisinājumu ir šim vienādojumam?*                     | *Cik atrisinājumu ir šim vienādojumam?*                     |
-|                                                             |                                                             |
-| > Viena sakne.                                              | Nav sakņu.                                                  |
-| >                                                           |                                                             |
-| > $x = 25$, jo $\sqrt{25} = 5$.                             | *Kā pamatot, ka nav atrisinājuma?*                          |
-|                                                             |                                                             |
-| *Kā pamatot, ka citu nav?*                                  | Funkcijas $y = \sqrt{x}$ vērtības ir nenegatīvas, bet       |
-|                                                             | funkcijas $y = - 2$ vērtības ir negatīvas. Nevar abas       |
-| Funkcija $y = \sqrt{x}$ ir augoša funkcija un taisni        | vienādojuma puses būt vienādas.                             |
-| $y = 5$ tā var krustot ne vairāk kā vienu reizi.            |                                                             |
-+=============================================================+=============================================================+
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr>
+<th><p>Doti funkciju <span class="math inline">$y = \sqrt{x}$</span> un <span class="math inline"><em>y</em> = 5</span> grafiki. Atrisini vienādojumu <span class="math inline">$\sqrt{x} = 5$</span>. <em>Skolotājs var demonstrēt grafikus uz ekrāna vai zīmēt kopā ar skolēniem.</em></p>
+<figure>
+<img src="media/image8.png" style="width:3.1794in;height:2.15644in" alt="Attēls, kurā ir rinda, diagramma, skice, cipars Apraksts ģenerēts automātiski" />
+<figcaption aria-hidden="true">Attēls, kurā ir rinda, diagramma, skice, cipars Apraksts ģenerēts automātiski</figcaption>
+</figure>
+<p><em>Cik atrisinājumu ir šim vienādojumam?</em></p>
+<blockquote>
+<p>Viena sakne.</p>
+<p><span class="math inline"><em>x</em> = 25</span>, jo <span class="math inline">$\sqrt{25} = 5$</span>.</p>
+</blockquote>
+<p><em>Kā pamatot, ka citu nav?</em></p>
+<p>Funkcija <span class="math inline">$y = \sqrt{x}$</span> ir augoša funkcija un taisni <span class="math inline"><em>y</em> = 5</span> tā var krustot ne vairāk kā vienu reizi.</p></th>
+<th><p>Doti funkciju <span class="math inline">$y = \sqrt{x}$</span> un <span class="math inline"><em>y</em> = −2</span> grafiki. Atrisini vienādojumu <span class="math inline">$\sqrt{x} = - 2$</span>. <em>Skolotājs var demonstrēt grafikus uz ekrāna vai zīmēt kopā ar skolēniem.</em></p>
+<figure>
+<img src="media/image9.png" style="width:3.0237in;height:2.17687in" alt="Attēls, kurā ir rinda, diagramma, skice, cipars Apraksts ģenerēts automātiski" />
+<figcaption aria-hidden="true">Attēls, kurā ir rinda, diagramma, skice, cipars Apraksts ģenerēts automātiski</figcaption>
+</figure>
+<p><em>Cik atrisinājumu ir šim vienādojumam?</em></p>
+<p>Nav sakņu.</p>
+<p><em>Kā pamatot, ka nav atrisinājuma?</em></p>
+<p>Funkcijas <span class="math inline">$y = \sqrt{x}$</span> vērtības ir nenegatīvas, bet funkcijas <span class="math inline"><em>y</em> = −2</span> vērtības ir negatīvas. Nevar abas vienādojuma puses būt vienādas.</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
 
 *Vai no šīm divām situācijām var izdarīt kādu vispārīgu secinājumu?*
 
