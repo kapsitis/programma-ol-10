@@ -5,10 +5,10 @@
     - title: Curriculum Review Roadmap (Pārskatīšanas plāns)
       url: /review_roadmap/
     - title: Darbību plāns
-      url: /review_roadmap/curriculum-review-action-plan/
+      url: /review_action_plan/
 - title: Ieteikumi
   children:
-    - title: 1.temata apraksts
-      url: /OL_1_reizinataji_vienadojumi/OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais/
     - title: Ieteikumi par 1.tematu
-      url: /OL_1_reizinataji_vienadojumi/IETEIKUMI_OL_1__sadalisana_reizinatajos_vienadojumi_metodiskais/
+      url: /OL_1__metodiskais/
+    - title: 1.temata apraksts
+      url: /OL_1__visi/
