@@ -30,18 +30,62 @@
   document.addEventListener("DOMContentLoaded", function () {
     const select = document.getElementById("selectSvg");
     const img = document.getElementById("svgImage");
-    if (!select || !img) return;
+    if (select && img) {
+      // Prefer a data-base on the select; else fall back to img src directory
+      let base = select.dataset.base || img.dataset.base;
+      if (!base) {
+        const p = new URL(img.getAttribute('src'), document.baseURI).pathname;
+        base = p.replace(/[^/]+$/, ''); // strip filename
+      }
 
-    // Prefer a data-base on the select; else fall back to img src directory
-    let base = select.dataset.base || img.dataset.base;
-    if (!base) {
-      const p = new URL(img.getAttribute('src'), document.baseURI).pathname;
-      base = p.replace(/[^/]+$/, ''); // strip filename
+      const handler = () => changeImage(base);
+      select.addEventListener("change", handler);
+      handler(); // initialize once at load
     }
 
-    const handler = () => changeImage(base);
-    select.addEventListener("change", handler);
-    handler(); // initialize once at load
+    const nav = document.querySelector(".nav");
+    if (!nav) return;
+
+    const toggles = nav.querySelectorAll(".nav__toggle");
+    const closeMenus = function (scope) {
+      const root = scope || nav;
+      root.querySelectorAll(".has-children.is-open").forEach(function (item) {
+        item.classList.remove("is-open");
+      });
+      root.querySelectorAll(".nav__toggle[aria-expanded='true']").forEach(function (button) {
+        button.setAttribute("aria-expanded", "false");
+      });
+    };
+
+    toggles.forEach(function (toggle) {
+      toggle.addEventListener("click", function (event) {
+        event.preventDefault();
+        event.stopPropagation();
+
+        const item = toggle.closest(".has-children");
+        const isOpen = item.classList.contains("is-open");
+
+        const siblingList = item.parentElement;
+        siblingList.querySelectorAll(":scope > .has-children.is-open").forEach(function (sibling) {
+          if (sibling !== item) {
+            sibling.classList.remove("is-open");
+            const siblingToggle = sibling.querySelector(":scope > .nav__toggle, :scope > .nav__label-group > .nav__toggle");
+            if (siblingToggle) siblingToggle.setAttribute("aria-expanded", "false");
+          }
+        });
+
+        item.classList.toggle("is-open", !isOpen);
+        toggle.setAttribute("aria-expanded", String(!isOpen));
+      });
+    });
+
+    document.addEventListener("click", function (event) {
+      if (!nav.contains(event.target)) closeMenus();
+    });
+
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape") closeMenus();
+    });
   });
 </script>
 
@@ -54,15 +98,42 @@
   <ul class="nav__list">
     {% for item in site.data.nav %}
       <li class="nav__item {% if item.children %}has-children{% endif %}">
-        {% if item.url %}
-          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        {% else %}
-          <span class="nav__label">{{ item.title }}</span>
-        {% endif %}
+        <div class="nav__label-group">
+          {% if item.url %}
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+          {% else %}
+            <span class="nav__label">{{ item.title }}</span>
+          {% endif %}
+          {% if item.children %}
+            <button class="nav__toggle" type="button" aria-expanded="false" aria-label="Atvērt izvēlni {{ item.title }}">
+              <span aria-hidden="true">▾</span>
+            </button>
+          {% endif %}
+        </div>
         {% if item.children %}
           <ul class="nav__submenu">
             {% for child in item.children %}
-              <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+              <li class="nav__subitem {% if child.children %}has-children{% endif %}">
+                <div class="nav__label-group">
+                  {% if child.url %}
+                    <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+                  {% else %}
+                    <span class="nav__label">{{ child.title }}</span>
+                  {% endif %}
+                  {% if child.children %}
+                    <button class="nav__toggle" type="button" aria-expanded="false" aria-label="Atvērt izvēlni {{ child.title }}">
+                      <span aria-hidden="true">▸</span>
+                    </button>
+                  {% endif %}
+                </div>
+                {% if child.children %}
+                  <ul class="nav__submenu nav__submenu--nested">
+                    {% for grandchild in child.children %}
+                      <li><a href="{{ grandchild.url | relative_url }}">{{ grandchild.title }}</a></li>
+                    {% endfor %}
+                  </ul>
+                {% endif %}
+              </li>
             {% endfor %}
           </ul>
         {% endif %}

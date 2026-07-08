@@ -55,8 +55,27 @@ table tbody tr td {
 .nav { background:#f7f7f7; padding:.5rem 1rem; }
 .nav__list { display:flex; gap:1rem; list-style:none; margin:0; padding:0; align-items:center; }
 .nav__item { position:relative; }
-.nav__item > a, .nav__label {
+.nav__label-group {
+    display:flex;
+    align-items:center;
+    gap:.15rem;
+}
+.nav__item > .nav__label-group > a, .nav__label {
   text-decoration:none; color:#2F5597; padding:.3rem .4rem; display:inline-block;
+}
+.nav__toggle {
+    border:none;
+    background:transparent;
+    color:#2F5597;
+    cursor:pointer;
+    font:inherit;
+    line-height:1;
+    padding:.3rem .25rem;
+}
+.nav__toggle:hover,
+.nav__toggle:focus-visible {
+    color:#1d3f72;
+    outline:none;
 }
 .nav__submenu {
   margin:0; top:100%; 
@@ -65,8 +84,56 @@ table tbody tr td {
   background:#fff; border:1px solid #ddd; box-shadow:0 4px 12px rgba(0,0,0,.08);
   list-style:none; padding:.3rem 0; min-width:12rem; z-index:1000;
 }
-.nav__submenu li a { display:block; padding:.35rem .8rem; color:#333; white-space:nowrap; }
+.nav__submenu li { position:relative; }
+.nav__submenu li a,
+.nav__submenu .nav__label { display:block; padding:.35rem .8rem; color:#333; white-space:nowrap; }
+.nav__submenu .nav__label-group {
+    justify-content:space-between;
+    gap:0;
+}
 .nav__submenu li a:hover { background:#f0f4ff; color:#2F5597; }
 .nav__item:hover > .nav__submenu,
-.nav__item:focus-within > .nav__submenu { display:block; }
+.nav__item:focus-within > .nav__submenu,
+.has-children.is-open > .nav__submenu { display:block; }
+.nav__submenu--nested {
+    top:0;
+    left:100%;
+    border-top:none;
+}
+.nav__subitem:hover > .nav__submenu,
+.nav__subitem:focus-within > .nav__submenu { display:block; }
+.has-children.is-open > .nav__label-group > .nav__toggle {
+    color:#1d3f72;
+}
+
+@media (max-width: 768px) {
+    .nav__list {
+        flex-direction:column;
+        align-items:stretch;
+        gap:.25rem;
+    }
+    .nav__item {
+        width:100%;
+    }
+    .nav__item > .nav__label-group {
+        justify-content:space-between;
+    }
+    .nav__item > .nav__label-group > a,
+    .nav__item > .nav__label-group > .nav__label {
+        flex:1;
+    }
+    .nav__submenu,
+    .nav__submenu--nested {
+        position:static;
+        left:auto;
+        top:auto;
+        min-width:0;
+        box-shadow:none;
+        border:1px solid #ddd;
+        margin:.15rem 0 .35rem 0;
+    }
+    .nav__submenu--nested {
+        margin:.1rem 0 .25rem 1rem;
+    }
+}
 
