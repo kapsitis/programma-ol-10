@@ -172,26 +172,7 @@ Jāuzsver: šī tabula lielākoties raksturo *vidusskolas programmas tematu sec�
 
 Atkarību ķēdi ilustrē shēma (algebras līnija):
 
-<!--
-```mermaid
-flowchart LR
-    A["6. klase:\nparasto daļu aritmētika\n(M.6.3.2.1)"] --> B["9. klase:\npolinomi, faktorizācijas\npamati (M.9.4.3.3)"]
-    B --> C["9. klase:\nlineāri, kvadrātvienādojumi,\nnevienādības (M.9.4.3.4)"]
-    B --> T1["10. kl. 1. temats:\nsadalīšana reizinātājos,\nsubstitūcija"]
-    A --> T2["10. kl. 2. temats:\nalgebriskās daļas"]
-    T1 --> T2
-    T2 --> T3["10. kl. 3. temats:\ndaļveida vienādojumi"]
-    C --> T4["10. kl. 4. temats:\nvienādojumu sistēmas"]
-    C --> T5["10. kl. 5. temats:\ndaļveida nevienādības"]
-    T3 --> T5
-    style A fill:#fff3cd,stroke:#b8860b
-    style B fill:#f8d7da,stroke:#a94442
-    style T1 fill:#f8d7da,stroke:#a94442
-    style T2 fill:#f8d7da,stroke:#a94442
-```
--->
-
-![](atsauksme_pamatskolas_standarts.A.png)
+![](atsauksme_pamatskolas_standarts.A.png){width="4in"}
 
 *Sarkanie mezgli – vietas, kur pamatskolas standarta segums ir nepilnīgs vai negarantēts; dzeltenais – prasme, kurai standarts nenosaka raituma slieksni, lai gan uz tās balstās viss bloks.*
 

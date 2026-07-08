@@ -218,18 +218,15 @@ Taisnleņķa trijstūrī no taisnā leņķa virsotnes novilkts augstums, kas
 sadala hipotenūzu 1 cm un 3 cm garos nogriežņos. Aprēķini šī augstuma
 garumu!
 
-+------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------+
-| ![Attēls, kurā ir rinda, diagramma, trīsstūris Mākslīgā    | 1\) $\mathrm{\Delta}ADC\ \sim\ \mathrm{\Delta}CDB$ pēc pazīmes $\mathcal{ll}$, jo                                                    |
-| intelekta ģenerēts saturs var būt                          |                                                                                                                                      |
-| nepareizs.](media/image1.png){width="2.5839096675415574in" | - $\sphericalangle ADC = \sphericalangle BDC = 90{^\circ}$                                                                           |
-| height="1.2598425196850394in"}                             |                                                                                                                                      |
-|                                                            | - $\sphericalangle A = 90^{\circ} - \sphericalangle B = \sphericalangle BCD$                                                         |
-|                                                            |                                                                                                                                      |
-|                                                            | 2\)                                                                                                                                  |
-|                                                            | $\frac{AD}{CD} = \frac{CD}{BD}\ \ \ \  \Rightarrow \ \ \ \ \ \frac{3}{CD} = \frac{CD}{1}\ \ \ \ \  \Rightarrow \ \ \ \ \ CD^{2} = 3$ |
-|                                                            |                                                                                                                                      |
-|                                                            | 3\) $CD = \sqrt{3}$ cm                                                                                                               |
-+============================================================+======================================================================================================================================+
+![](OL_6__Planimetrija_metodiskais.A.png)
+
+1) $\mathrm{\Delta}ADC\ \sim\ \mathrm{\Delta}CDB$ pēc pazīmes $\mathcal{ll}$, 
+jo  $\sphericalangle ADC = \sphericalangle BDC = 90{^\circ}$ un 
+$\sphericalangle A = 90^{\circ} - \sphericalangle B = \sphericalangle BCD$. 
+
+2) $\frac{AD}{CD} = \frac{CD}{BD}\ \ \ \  \Rightarrow \ \ \ \ \ \frac{3}{CD} = \frac{CD}{1}\ \ \ \ \  \Rightarrow \ \ \ \ \ CD^{2} = 3$
+
+3) $CD = \sqrt{3}$ cm. 
 
 *Skolotājs var uzdot skolēniem patstāvīgi pierādīt Eiklīda teorēmu, var
 dot pierādījuma plānu vai arī iedot pierādījumu, lai skolēni to izpēta
@@ -252,7 +249,7 @@ kurā skaitļus saskaita). Piemēram, ja skaitlis* $t$ *ir skaitļu* $x$
 *Var dot skolēniem abus formulu veidus vai arī tikai vienu no tiem.*
 
 +---------------------------------------------------+--------------------------------------+-----------------------------------+
-| ![](media/image2.png){width="2.741930227471566in" | $$h_{c} = \sqrt{a_{c} \cdot b_{c}}$$ | $$h_{c}^{2} = a_{c} \cdot b_{c}$$ |
+| ![](OL_6__Planimetrija_metodiskais.B.png){width="2.741930227471566in" | $$h_{c} = \sqrt{a_{c} \cdot b_{c}}$$ | $$h_{c}^{2} = a_{c} \cdot b_{c}$$ |
 | height="1.4960629921259843in"}                    |                                      |                                   |
 |                                                   | $$a = \sqrt{a_{c} \cdot c}$$         | $$a^{2} = a_{c} \cdot c$$         |
 |                                                   |                                      |                                   |
@@ -341,6 +338,8 @@ Plaknē atliek brīvi izraudzītu punktu $O$ un no tā novelk staru $OA$,
 kuru uzskata par fiksētu staru. Aplūko otru staru $OB$, un par
 pagrieziena leņķi nosauc leņķi, kuru veido stari $OA$ un $OB$.
 
+![](OL_6__Planimetrija_metodiskais.C.png)
+
 Divi sakrītoši stari veido leņķi, kura lielums ir skaitlis nulle.
 
 Ja viens stars paliek nekustīgs, bet otrs tiek pagriezts, veidojas
@@ -356,9 +355,9 @@ virzienu pretēji pulksteņa rādītāju kustības virzienam , bet par
 negatīvo virzienu (tam atbilst negatīvs leņķa lielums) -- pulksteņa
 rādītāju kustības virzienā.
 
-  ----------------------------------- -----------------------------------
+![](OL_6__Planimetrija_metodiskais.D.png)
 
-  ----------------------------------- -----------------------------------
+![](OL_6__Planimetrija_metodiskais.E.png)
 
 *Šajā tematā uzmanība tiek pievērsta platam leņķim.*
 
@@ -379,7 +378,7 @@ skolotāja ieskaitiem var atlikt visus leņķus no* $0{^\circ}$ *līdz*
 $360{^\circ}$ *vai arī tikai I un II kvadranta leņķus. Šo riņķi varēs
 papildināt 8. tematā, kad tiks apgūti radiāni.*
 
-![](media/image3.png){width="3.0347222222222223in"
+![](OL_6__Planimetrija_metodiskais.F.png){width="3.0347222222222223in"
 height="2.7461996937882764in"}
 
 **Sinusa un kosinusa definīcija trigonometriskajā vienības riņķī**
@@ -392,7 +391,7 @@ taisnleņķa trijstūri $BCO$, var uzrakstīt trigonometriskās sakarības:
 $$\sin\alpha = \frac{BC}{OB};\ \ \ \ \ \ \ \cos{\alpha =}\frac{OC}{OB}.$$
 
 +-----------------------------------------------------+-----------------------------------+
-| Tā kā TVR rādiuss ir 1, tad $OB = 1$. Bet nogriežņu | ![](media/image5.png)             |
+| Tā kā TVR rādiuss ir 1, tad $OB = 1$. Bet nogriežņu | ![](OL_6__Planimetrija_metodiskais.G.png)             |
 | $OC$ un $BC$ garumi sakrīt ar punkta $B$            |                                   |
 | attiecīgajām koordinātām ($OC = x$ un $BC = y$),    |                                   |
 | tad iegūst:                                         |                                   |
@@ -413,20 +412,12 @@ Ja leņķis $\alpha$ ir lielāks nekā $90{^\circ}$, tad arī attiecīgā
 punkta koordinātas uz vienības riņķa līnijas ir $\cos\alpha$ un
 $\sin\alpha$ vērtības.
 
-+-----------------------+-----------------+-----------------+-----------------+
-| ![](media/image7.png) | $$\alpha$$      | $$A(x;y)$$      | $$A(x;y)$$      |
-|                       |                 |                 |                 |
-|                       | $$y$$           | $$y$$           | $$x$$           |
-|                       |                 |                 |                 |
-|                       | $$x$$           | $$x$$           | $$y$$           |
-|                       |                 |                 |                 |
-|                       | $$A(x;y)$$      | $$\alpha$$      | $$\alpha$$      |
-+=======================+=================+=================+=================+
+![](OL_6__Planimetrija_metodiskais.H.png)
 
 Sinusa un kosinusa vērtību noteikšanai dažiem leņķiem var lietot
 trigonometrisko vienības riņķi un simetriju pret koordinātu asīm.
 
-![](media/image13.png)
+![](OL_6__Planimetrija_metodiskais.I.png)
 
 *Skolēni jau pamatskolā apguvuši trigonometrisko funkciju vērtību
 aptuvenu aprēķināšanu šauram leņķim, lietojot kalkulatoru vai IT.
@@ -435,7 +426,7 @@ Uzsvērt, ka aptuveno vērtību var aprēķināt arī citiem leņķiem.*
 Nosaka vai salīdzina sinusa un kosinusa vērtības dažādiem leņķiem (skat.
 [OL_6_dl_3]{.mark}).
 
-**\**
+
 
 **7. stunda. Trijstūra laukuma aprēķināšana**
 
@@ -455,7 +446,7 @@ Trijstūra malu garumi ir 4 cm un 6 cm, bet leņķis starp šīm malām ir
 $60{^\circ}$. Aprēķini trijstūra laukumu.
 
 +-----------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](media/image14.png){width="1.6978696412948382in" | 1\) Novelk $BD\bot AC$                                                                                                                                                        |
+| ![](OL_6__Planimetrija_metodiskais.J.png){width="1.6978696412948382in" | 1\) Novelk $BD\bot AC$                                                                                                                                                        |
 | height="1.354313210848644in"}                       |                                                                                                                                                                               |
 |                                                     | 2\) $\mathrm{\Delta}BDC$                                                                                                                                                      |
 |                                                     |                                                                                                                                                                               |
@@ -477,7 +468,7 @@ $$S_{\mathrm{\Delta}} = \frac{1}{2}ab\sin\gamma.$$
 Pierādījums
 
 +-----------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](media/image15.png){width="1.9824168853893263in" | $\mathrm{\Delta}ABC$ -- šaurleņķu trijstūris                                             |
+| ![](OL_6__Planimetrija_metodiskais.K.png){width="1.9824168853893263in" | $\mathrm{\Delta}ABC$ -- šaurleņķu trijstūris                                             |
 | height="1.4960629921259843in"}                      |                                                                                          |
 |                                                     | 1\) Novelk $AD\bot BC$                                                                   |
 |                                                     |                                                                                          |
@@ -487,7 +478,7 @@ Pierādījums
 |                                                     |                                                                                          |
 |                                                     | 3\) $S_{ABC} = \frac{1}{2}BC \cdot AD = \frac{1}{2}ab\sin\gamma$                         |
 +=====================================================+:=========================================================================================+
-| ![](media/image16.png){width="1.8558038057742783in" | $\mathrm{\Delta}ABC$ -- platleņķa trijstūris                                             |
+| ![](OL_6__Planimetrija_metodiskais.L.png){width="1.8558038057742783in" | $\mathrm{\Delta}ABC$ -- platleņķa trijstūris                                             |
 | height="1.4960629921259843in"}                      |                                                                                          |
 |                                                     | 1\) Novelk $AD\bot BC$                                                                   |
 |                                                     |                                                                                          |
@@ -497,7 +488,7 @@ Pierādījums
 |                                                     |                                                                                          |
 |                                                     | 3\) $S_{ABC} = \frac{1}{2}BC \cdot AD = \frac{1}{2}ab\sin\gamma$                         |
 +-----------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](media/image17.png){width="1.9607250656167978in" | $\mathrm{\Delta}ABC$ -- taisnleņķa trijstūris                                            |
+| ![](OL_6__Planimetrija_metodiskais.M.png){width="1.9607250656167978in" | $\mathrm{\Delta}ABC$ -- taisnleņķa trijstūris                                            |
 | height="1.4173228346456692in"}                      |                                                                                          |
 |                                                     | 1\) $\mathrm{\Delta}ABC$                                                                 |
 |                                                     |                                                                                          |
@@ -520,9 +511,7 @@ $d_{2}$, bet šaurais leņķis starp diagonālēm ir $\beta$. Pierādi, ka
 
 **Pierādījums.** Apskatām četrstūri $ABCD$.
 
-![Attēls, kurā ir rinda, trīsstūris Mākslīgā intelekta ģenerēts saturs
-var būt nepareizs.](media/image18.png){width="1.8773501749781278in"
-height="1.2022156605424321in"}
+![](OL_6__Planimetrija_metodiskais.N.png)
 
 Izmantojot vienādību $\sin(180{^\circ} - \alpha) = \sin\alpha$ un
 trijstūra laukuma formulu
@@ -558,7 +547,7 @@ Trijstūra $ABC$ malas $AB$ garums ir 8 cm, leņķis $A$ ir 45°, bet leņķis
 $C$ ir 30° liels. Aprēķini malas $BC$ garumu.
 
 +-----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
-| ![](media/image19.png){width="2.2493985126859144in" | 1\)                                                                                                                                    |
+| ![](OL_6__Planimetrija_metodiskais.O.png){width="2.2493985126859144in" | 1\)                                                                                                                                    |
 | height="1.0249070428696414in"}                      | $S_{ABC} = \frac{1}{2}AB \cdot AC \cdot \sin{45{^\circ}} = \frac{1}{2} \cdot 8 \cdot AC \cdot \frac{\sqrt{2}}{2} = 2\sqrt{2} \cdot AC$ |
 |                                                     |                                                                                                                                        |
 |                                                     | 2\) $S_{ABC} = \frac{1}{2}AC \cdot BC \cdot \sin{30{^\circ}} = \frac{1}{2}AC \cdot BC \cdot \frac{1}{2} = \frac{1}{4}AC \cdot BC$      |
@@ -587,7 +576,7 @@ $$\frac{a}{\sin\alpha} = \frac{b}{\sin\beta} = \frac{c}{\sin\gamma}$$
 Pierādījums
 
 +-----------------------------------------------------+-------------------------------------------------------------------------------+
-| ![](media/image20.png){width="2.1131496062992126in" | 1\)                                                                           |
+| ![](OL_6__Planimetrija_metodiskais.P.png){width="2.1131496062992126in" | 1\)                                                                           |
 | height="1.671758530183727in"}                       | $S_{ABC} = \frac{1}{2}AB \cdot AC \cdot \sin\alpha = \frac{1}{2}bc\sin\alpha$ |
 |                                                     |                                                                               |
 |                                                     | 2\)                                                                           |
@@ -686,7 +675,7 @@ malu kvadrātu summu, no kuras atņemts divkāršots šo malu reizinājums ar
 kosinusu no leņķa starp tām.
 
 +-----------------------------------------------------+-------------------------------------------+
-| ![](media/image20.png){width="2.1131496062992126in" | $$a^{2} = b^{2} + c^{2} - 2bc\cos\alpha$$ |
+| ![](OL_6__Planimetrija_metodiskais.Q.png){width="2.1131496062992126in" | $$a^{2} = b^{2} + c^{2} - 2bc\cos\alpha$$ |
 | height="1.671758530183727in"}                       |                                           |
 |                                                     | $$b^{2} = a^{2} + c^{2} - 2ac\cos\beta$$  |
 |                                                     |                                           |
@@ -706,7 +695,7 @@ darbības.*
 
 Apskata vektorus $\overrightarrow{CB}$ un $\overrightarrow{CA}$.
 
-![](media/image21.png){width="1.515748031496063in"
+![](OL_6__Planimetrija_metodiskais.Q2.png){width="1.515748031496063in"
 height="1.4173228346456692in"}
 
 Izsaka
@@ -772,7 +761,7 @@ $$d_{1}^{2} + d_{2}^{2} = 2\left( a^{2} + b^{2} \right)$$
 Pierādījums
 
 +-----------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| ![](media/image22.png){width="2.4502734033245845in" | 1\) $\mathrm{\Delta}ABD$                                                                      |
+| ![](OL_6__Planimetrija_metodiskais.R.png){width="2.4502734033245845in" | 1\) $\mathrm{\Delta}ABD$                                                                      |
 | height="1.1023622047244095in"}                      |                                                                                               |
 |                                                     | $$BD^{2} = AB^{2} + AD^{2} - 2AB \cdot AD \cdot \cos{\sphericalangle A}$$                     |
 |                                                     |                                                                                               |
@@ -823,7 +812,7 @@ Aprēķini trijstūra laukumu, ja trijstūra malu garumi ir 13 cm, 14 cm un
 *Vai var aprēķināt trijstūra augstumu?*
 
 +----------------------------------------------------+---------------------------------------------------+
-| ![](media/image23.png){width="2.401187664041995in" | 1\) Novelk $BD\bot AC$                            |
+| ![](OL_6__Planimetrija_metodiskais.S.png){width="2.401187664041995in" | 1\) Novelk $BD\bot AC$                            |
 | height="1.5748031496062993in"}                     |                                                   |
 |                                                    | 2\) Apzīmē $AD = x$ un $CD = 15 - x$              |
 |                                                    |                                                   |
@@ -892,9 +881,7 @@ rūtiņu lapas (1. veids).*
 
 > *Veidojas vienādi trijstūri* $ADO$ *un* $AEO$ *pēc pazīmes* $mmm$*.*
 
-![Attēls, kurā ir rinda, trīsstūris Mākslīgā intelekta ģenerēts saturs
-var būt nepareizs.](media/image24.png){width="3.4005971128608925in"
-height="1.3779527559055118in"}
+![](OL_6__Planimetrija_metodiskais.T.png)
 
 *Vai katram trijstūrim var apvilkt riņķa līniju?*
 
@@ -910,10 +897,7 @@ height="1.3779527559055118in"}
 > *atrodas vienādā attālumā no nogriežņa* $AC$ *galapunktiem, tātad tas
 > atrodas uz nogriežņa* $AC$ *vidusperpendikula.*
 
-![Attēls, kurā ir aplis, rinda, trīsstūris, diagramma Mākslīgā intelekta
-ģenerēts saturs var būt
-nepareizs.](media/image25.png){width="2.3569619422572177in"
-height="2.1574857830271217in"}
+![](OL_6__Planimetrija_metodiskais.U.png)
 
 *Kā aprēķināt ievilktās un apvilktās riņķa līnijas rādiusu?*
 
@@ -964,9 +948,7 @@ $S_{ABC} = \frac{1}{2}OD \cdot AB + \frac{1}{2}OF \cdot BC + \frac{1}{2}OE \cdot
 
 5\) Ja apzīmē $\frac{1}{2}P_{ABC} = p$, tad $S_{ABC} = pr$.
 
-![Attēls, kurā ir trīsstūris, rinda Mākslīgā intelekta ģenerēts saturs
-var būt nepareizs.](media/image26.png){width="3.6283650481189853in"
-height="1.4566929133858268in"}
+![](OL_6__Planimetrija_metodiskais.V.png)
 
 *Formulas* $S_{\mathrm{\Delta}} = \frac{abc}{4R}$ *pierādījumā jālieto
 sinusu teorēmas paplašinājums* $\frac{a}{\sin\alpha} = 2R$*. Formulu var
