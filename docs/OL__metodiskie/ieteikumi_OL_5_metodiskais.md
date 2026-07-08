@@ -49,7 +49,7 @@ permalink: /OL__metodiskie/ieteikumi_OL_5_metodiskais/
 
 **3.3 🟡 Programmas parauga SR „Pārbauda, vai dotais skaitlis ir daļveida nevienādības atrisinājums".** Šis programmas paraugā uzskaitītais sasniedzamais rezultāts plānojumā un stundu sadaļās neparādās, lai gan FVD 1 pirmais uzdevums (2 p.) tieši to vērtē. Ieteicams to pievienot 4.–5. stundas SR sarakstam un stundas gaitā iekļaut īsu piemēru (vērtības ievietošana, definīcijas kopas pārbaude), lai vērtēšanas darbā netiktu pārbaudīts stundās tieši netrenēts SR.
 
-**3.4 🟡 Programmas paraugā minētā alternatīvā pāreja uz sistēmu ar reizinājumu.** Programmas paraugā kā ekvivalents pieraksts nevienādībai $\frac{x+2}{x-7} \leq 0$ minēta arī sistēma $\left\{ (x+2)(x-7) \leq 0;\ x - 7 \neq 0 \right.$ (daļas aizstāšana ar reizinājumu). Metodiskajā materiālā šī iespēja nav pieminēta. Ieteicams pievienot īsu piezīmi (piem., pie intervālu metodes vai „Nav standarta SR" ietvarā), jo šis paņēmiens sasaista daļveida un reizinājuma formas nevienādības un sastopams mācību literatūrā.
+**3.4 🟡 Programmas paraugā minētā alternatīvā pāreja uz sistēmu ar reizinājumu.** Programmas paraugā kā ekvivalents pieraksts nevienādībai $\frac{x+2}{x-7} \leq 0$ minēta arī sistēma $$\left\{ \begin{array}{l} (x+2)(x-7) \leq 0;\\ x - 7 \neq 0 \end{array}\right.$$ (daļas aizstāšana ar reizinājumu). Metodiskajā materiālā šī iespēja nav pieminēta. Ieteicams pievienot īsu piezīmi (piem., pie intervālu metodes vai „Nav standarta SR" ietvarā), jo šis paņēmiens sasaista daļveida un reizinājuma formas nevienādības un sastopams mācību literatūrā.
 
 **3.5 🟡 Norāde uz eksāmenu uzdevumu apkopojumu.** Projektā ir fails ar temata eksāmenu uzdevumiem (OL_5_eksamena), bet metodiskajā materiālā uz to norādes nav (vienīgā atsauce uz VPD paraugu ir pie 4. teksta uzdevuma). Ieteicams kopsavilkuma (16. stundas) aprakstā pievienot norādi, ka gatavošanās posmā var izmantot eksāmenu uzdevumu apkopojumu.
 
@@ -67,8 +67,7 @@ permalink: /OL__metodiskie/ieteikumi_OL_5_metodiskais/
 | 4.6 | 1.–3. stunda, teorijas rindkopa par atrisinājumu | „…un var nebūt derīgu vērtību (tad raksta $\varnothing$ vai nav atrisinājuma). **Tad saka, ka nevienādībai nav atrisinājuma (var lietot simbolu $\varnothing$).**" | Apvienot vienā teikumā — doma par $\varnothing$ un „nav atrisinājuma" pašlaik dublējas divos pēc kārtas sekojošos teikumos. |
 | 4.7 | 4.–5. stunda, 3. piemēra atbilde | „Atbilde. $x\mathbb{\in R}$" | „Atbilde. $x \in \mathbb{R}$" (formulas pieraksta kļūda — simbols „∈" iekļuvis $\mathbb{}$ komandā) |
 | 4.8 | 14.–15. stunda, 1. uzdevums | „$x$ — tik datorus uzņēmuma vadītājs plāno iegādāties" | „$x$ — iegādājamo datoru skaits" (vienveidīgi ar 3. uzdevumu, kur „$x$ — abonementu skaits") |
-| 4.9 | Visā dokumentā | Konvertācijas artefakti „\*\*\\\*\*", „\*\\\*" (lappušu pārtraukumu paliekas) | Dzēst vai aizstāt ar korektiem sadaļu atdalītājiem. |
-| 4.10 | Literatūras saraksts, 11. ieraksts | „E. Teterovska „Uz eksāmeniem — drošu prātu!", Testi matemātikā vidusskolai, Zvaigzne ABC, 43.–46. lpp." | Pievienot izdošanas gadu (vienīgais ieraksts sarakstā bez gada). |
+| 4.9 | Literatūras saraksts, 11. ieraksts | „E. Teterovska „Uz eksāmeniem — drošu prātu!", Testi matemātikā vidusskolai, Zvaigzne ABC, 43.–46. lpp." | Pievienot izdošanas gadu (vienīgais ieraksts sarakstā bez gada). |
 
 ---
 
