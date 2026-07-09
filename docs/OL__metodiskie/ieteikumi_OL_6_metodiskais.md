@@ -10,7 +10,16 @@ permalink: /OL__metodiskie/ieteikumi_OL_6_metodiskais/
 **Salīdzināšanas avoti:** programmas paraugs (`MATEMATIKA_1_programmas_paraugs_19_maijs.md`, 6. temats „Leņķa jēdziena paplašinājums, planimetrija"), vidusskolas standarts (Matemātikas mācību joma), projektā pieejamie darba lapu (`OL_6_dl_1` … `OL_6_dl_15`), formatīvās vērtēšanas (`OL_6_fvd_1` … `fvd_3`) un citu failu materiāli, kā arī dokumentam pievienotie attēli (`OL_6__Planimetrija_metodiskais_A.png` … `_V.png`).
 **Prioritātes apzīmējumi:** 🔴 KRITISKS (matemātiska kļūda vai pretruna, jālabo obligāti) · 🟠 SVARĪGS (terminoloģija, precizitāte, konsekvence) · 🟡 IETEIKUMS (metodisks uzlabojums) · ⚪ REDAKCIONĀLS (valoda, noformējums).
 
-*Piezīme: rindu numuri norādīti pēc pārskatītā .md faila; tie var nedaudz atšķirties citās dokumenta versijās.*
+KĀ ATRAST RINDU NUMURUS? Ieteikumos norādīti 
+rindu numuri pārskatāmajā dokumentā; tās nav MS Word oriģināla, 
+bet pārveidotā Markdown faila rindas. 
+Sk. <a href="https://raw.githubusercontent.com/kapsitis/programma-ol-10/refs/heads/main/docs/OL_6_planimetrija/OL_6__Planimetrija_metodiskais.md">OL_6__Planimetrija_metodiskais.md</a>. Lai redzētu rindu numurus, šis fails jāsavāc 
+un jāpārlūko ar parastu teksta redaktoru, piemēram, 
+Visual Studio Code vai Notepad++.
+
+*Piezīme: rindu numuri var nedaudz atšķirties.*
+
+
 
 ---
 

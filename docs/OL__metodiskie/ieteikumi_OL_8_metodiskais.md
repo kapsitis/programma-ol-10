@@ -11,6 +11,16 @@ permalink: /OL__metodiskie/ieteikumi_OL_8_metodiskais/
 **Piezīme par izsekojamību:** vietas dokumentā norādītas gan pēc sadaļas/stundas, gan pēc aptuvenā rindas numura (r.) `.md` failā.
 **Prioritātes apzīmējumi:** 🔴 KRITISKS (matemātiska kļūda vai pretruna, jālabo obligāti) · 🟠 SVARĪGS (terminoloģija, precizitāte, konsekvence) · 🟡 IETEIKUMS (metodisks uzlabojums) · ⚪ REDAKCIONĀLS (valoda, noformējums).
 
+
+KĀ ATRAST RINDU NUMURUS? Ieteikumos norādīti 
+rindu numuri pārskatāmajā dokumentā; tās nav MS Word oriģināla, 
+bet pārveidotā Markdown faila rindas. 
+Sk. <a href="https://raw.githubusercontent.com/kapsitis/programma-ol-10/refs/heads/main/docs/OL_8_Trigonometriskas_funkcijas/OL_8__Trigonometriskas_funkcijas_metodiskais.md">OL_8__Trigonometriskas_funkcijas_metodiskais.md</a>. Lai redzētu rindu numurus, šis fails jāsavāc 
+un jāpārlūko ar parastu teksta redaktoru, piemēram, 
+Visual Studio Code vai Notepad++.
+
+*Piezīme: rindu numuri var nedaudz atšķirties.*
+
 ---
 
 ## 1. Matemātiski labojumi 🔴 (jālabo pirms publiskošanas)
@@ -23,7 +33,7 @@ permalink: /OL__metodiskie/ieteikumi_OL_8_metodiskais/
 | 1.4 | 9.–10. stunda, sinusoīdas konstruēšana (r. 752–754) | „Veicot šī intervāla pārnesi **paralēli $y$ asij** par $2\pi k$, $k\in\mathbb{Z}$, iegūst funkcijas $y=\sin x$ grafiku." | „Veicot šī intervāla pārnesi **paralēli $x$ asij** par $2\pi k$, $k\in\mathbb{Z}$, iegūst funkcijas $y=\sin x$ grafiku." | Periodiskais atkārtojums ir pārbīde argumenta ($x$ ass) virzienā; pārnese paralēli $y$ asij būtu vertikāla pārbīde. |
 | 1.5 | 13.–16. stunda, transformāciju tabula, rinda $y=k\cdot f(x)$ (r. 974–981) | „Grafiku izstiepj $k$ reizes, ja $k>1$. Grafiku **saspiež $k$ reizes, ja $k<1$**." | „Grafiku izstiepj $k$ reizes, ja $k>1$. **Ja $0<k<1$, grafiku saspiež $\frac{1}{k}$ reizes.**" | Ja, piemēram, $k=\frac{1}{2}$, grafiku saspiež 2 (nevis $\frac{1}{2}$) reizes — tā tas korekti formulēts arī 6. piemērā ($y=-\frac{1}{2}\cos x$ „saspiežot 2 reizes"). Turklāt nosacījums „$k<1$" nekorekti ietver arī $k\le 0$; gadījums $k<0$ tabulā aprakstīts atsevišķi. |
 | 1.6 | Turpat, rinda $y=f(kx)$ (r. 999–1008) | „Ja $0<k<1$, tad funkcijas grafiku **izstiepj $k$ reizes** pa $x$ asi. Periods **palielinās $k$ reizes**." | „Ja $0<k<1$, tad funkcijas grafiku **izstiepj $\frac{1}{k}$ reizes** pa $x$ asi. Periods **palielinās $\frac{1}{k}$ reizes** (jaunais periods ir $\frac{2\pi}{k}$)." | Ar $k=\frac{1}{2}$ grafiku izstiepj 2 reizes — tieši tā formulēts dokumenta 7. piemērā ($y=\sin\frac{1}{2}x$). Pašreizējais tabulas formulējums ir matemātiski kļūdains un pretrunā ar piemēriem. |
-| 1.7 | Turpat, rinda $y=k\cdot f(x)$ (r. 983–986) un 17. stundas 1. piemērs (r. 1210–1213) | „…citos mācību priekšmetos lieto jēdzienu **amplitūda — starpība starp funkcijas lielāko un mazāko vērtību**"; „…funkcijas amplitūda jeb starpība starp lielāko un mazāko vērtību ir 2, tad $\frac{y_{max}-y_{min}}{2}=1$" | „…amplitūda — funkcijas **lielākā novirze no vidusstāvokļa jeb puse no starpības** starp funkcijas lielāko un mazāko vērtību"; 17. stundā: „…starpība starp lielāko un mazāko vērtību ir 2, tāpēc $k=\frac{1-(-1)}{2}=1$" (svītrojot vārdus „amplitūda jeb"). | Fizikā (svārstības, viļņi) funkcijas $y=k\cos x$ amplitūda ir $|k|$, t. i., puse no starpības $y_{max}-y_{min}$; funkcijai $y=\cos x$ amplitūda ir 1, nevis 2. Dotā definīcija ir pretrunā gan ar fizikas kursu, gan ar dokumentā lietoto formulu $k=\frac{y_{max}-y_{min}}{2}$ (un pašā teikumā amplitūda „2" tiek pielīdzināta $k=1$). |
+| 1.7 | Turpat, rinda $y=k\cdot f(x)$ (r. 983–986) un 17. stundas 1. piemērs (r. 1210–1213) | „…citos mācību priekšmetos lieto jēdzienu **amplitūda — starpība starp funkcijas lielāko un mazāko vērtību**"; „…funkcijas amplitūda jeb starpība starp lielāko un mazāko vērtību ir 2, tad $\frac{y_{max}-y_{min}}{2}=1$" | „…amplitūda — funkcijas **lielākā novirze no vidusstāvokļa jeb puse no starpības** starp funkcijas lielāko un mazāko vērtību"; 17. stundā: „…starpība starp lielāko un mazāko vērtību ir 2, tāpēc $k=\frac{1-(-1)}{2}=1$" (svītrojot vārdus „amplitūda jeb"). | Fizikā (svārstības, viļņi) funkcijas $y=k\cos x$ amplitūda ir $\lvert k \rvert$, t. i., puse no starpības $y_{max}-y_{min}$; funkcijai $y=\cos x$ amplitūda ir 1, nevis 2. Dotā definīcija ir pretrunā gan ar fizikas kursu, gan ar dokumentā lietoto formulu $k=\frac{y_{max}-y_{min}}{2}$ (un pašā teikumā amplitūda „2" tiek pielīdzināta $k=1$). |
 
 ---
 
@@ -80,7 +90,7 @@ permalink: /OL__metodiskie/ieteikumi_OL_8_metodiskais/
 
 **5.1 Iekļaut programmas pēdējo SR — fizikālu lielumu modelēšanu ar lietotnēm.** Programmas paraugā 8. temata pēdējais SR paredz: „Izmantojot dotas lietotnes, pēta un matemātiski raksturo fizikālus lielumus, kas raksturo skaņu, mehāniskās svārstības u. tml., ja sakarību starp tiem raksturo funkcija $y=a\cdot\sin(bx+c)$…". Metodiskajā materiālā fizika pieminēta tikai vienā vispārīgā rindkopā (r. 801–804). Ieteicams 17. stundā pievienot vismaz vienu praktisku aktivitāti/piemēru (piem., skaņas svārstību ieraksta vai simulācijas analīze, nosakot amplitūdu un periodu), kas šo SR īsteno.
 
-**5.2 Piezīme pie parametru formulām 17. stundā.** Formula $k=\frac{y_{max}-y_{min}}{2}$ dod $|k|$; vērts pievienot piezīmi, ka $k$ zīmi nosaka no grafika (piem., vai maksimums atrodas tur, kur pamatfunkcijai $\cos$ ir maksimums, vai simetriski pretī).
+**5.2 Piezīme pie parametru formulām 17. stundā.** Formula $k=\frac{y_{max}-y_{min}}{2}$ dod $\lvert k \rvert$; vērts pievienot piezīmi, ka $k$ zīmi nosaka no grafika (piem., vai maksimums atrodas tur, kur pamatfunkcijai $\cos$ ir maksimums, vai simetriski pretī).
 
 **5.3 Saikne ar 9. tematu piemērā $y=4\sin\left(x+\frac{\pi}{2}\right)$.** Pēc grafika konstruēšanas vērts pamanīt, ka iegūtais grafiks sakrīt ar $y=4\cos x$ — tas dabiski sagatavo redukcijas formulu ideju 9. tematā un stiprina izpratni, ka viena funkcija var būt pierakstīta dažādos veidos.
 
