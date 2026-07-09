@@ -50,7 +50,7 @@ permalink: /OL__metodiskie/ieteikumi_OL_11_metodiskais/
 
 **3.2 🟠 Vektori telpā nav atspoguļoti sasniedzamajos rezultātos.** Standarts (M.O.6.2.2.) un programmas paraugs paredz vektora koordinātu noteikšanu, garuma aprēķināšanu un darbības ar vektoriem **plaknē un telpā**; metodiskajā materiālā telpas vispārinājums ir dots (tabula „Vektori plaknē / Vektori telpā"), un `OL_11_npd` 4. uzdevums pārbauda darbības ar telpas vektoriem, taču temata plānojuma un 6.–9. stundas SR min tikai plakni. Papildināt SR, piem.: „Vispārina vektora koordinātas, garumu un darbības ar vektoriem uz vektoriem telpā."
 
-**3.3 🟠 Atsauce uz neesošu failu.** 2., 3. stundā ir norāde „Var izmantot prezentāciju (OL_11_prezentācija), devītajā un desmitajā slaidā ir īss video", bet projektā fails `OL_11_prezentācija` nav atrodams. Pārliecināties, ka prezentācija tiek publicēta kopā ar materiālu komplektu, vai atsauci svītrot.
+**3.3 🟠 Atsauce uz neesošu video.** 2., 3. stundā ir norāde „Var izmantot prezentāciju (OL_11_prezentācija), devītajā un desmitajā slaidā ir īss video", bet `OL_11_prezentacija.pptx` failā video nav atrodams. 
 
 **3.4 🟡 Vienota pārbaudes darba nosaukuma lietošana.** Materiāla aprakstā lietots „temata nobeiguma darbs", bet plānojumā un 15., 16. stundā — „noslēguma pārbaudes darbs". Lietot vienu terminu (ieteicams plānojumā izmantoto „noslēguma pārbaudes darbs").
 
