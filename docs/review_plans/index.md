@@ -22,10 +22,7 @@ Tajā ir šādi soļi:
 ```
 Lūdzu izveidojiet labojumu/ieteikumu sarakstu NN.temata metodiskajam dokumentam
 "OL_NN__pilns_nosaukums.md" - kā lejuplādējamu Markdown failu latviešu valodā.
-(Piebilde: Citi projekta faili ar nosaukumiem "OL_NN_*"  attiecas uz šo pašu tematu, 
-bet tie nav rūpīgi jāanalizē. Daži faili/atrisinājumi, uz kuriem metodiskais 
-materiāls atsaucas, var nebūt iekļauti projektā. To var ignorēt, uzskatot, ka šie 
-faili eksistē.)
+Labākai izsekojamībai (traceability) projektā iekļauti ar tematu saistītie faili "OL_NN_*".
 Atsauci vislabāk noformēt atbilstoši pievienotajam failam "atsauksmes_paraugs.md".
 ```
 

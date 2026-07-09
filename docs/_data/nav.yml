@@ -72,10 +72,18 @@
           url: /OL_6__visi/OL_6__planimetrija_metodiskais/
 - title: Ieteikumi
   children:
-    - title: Atsauksme par pamatskolas_standartu
+    - title: Atsauksme par pamatskolas standartu
       url: /OL__metodiskie/atsauksme_pamatskolas_standarts/
+    - title: Atsauksme par vidusskolas standartu
+      url: /OL__metodiskie/atsauksme_vidusskolas_standarts/
+    - title: Programmas atbilstība standartam
+      url: /OL__metodiskie/programma_compliance/
+    - title: Ieteikumi par programmas saturu
+      url: /OL__metodiskie/ieteikumi_programmas_paraugs/
     - title: Ieteikumi par 1.tematu
       url: /OL__metodiskie/ieteikumi_OL_1_metodiskais/
+    - title: Ieteikumi par 1.temata failiem
+      url: /OL__metodiskie/ieteikumi_OL_1_all/
     - title: Ieteikumi par 2.tematu
       url: /OL__metodiskie/ieteikumi_OL_2_metodiskais/
     - title: Ieteikumi par 3.tematu
@@ -94,6 +102,10 @@
       url: /OL__metodiskie/ieteikumi_OL_9_metodiskais/
     - title: Ieteikumi par 10.tematu
       url: /OL__metodiskie/ieteikumi_OL_10_metodiskais/
+    - title: Ieteikumi par 11.tematu
+      url: /OL__metodiskie/ieteikumi_OL_11_metodiskais/
+    - title: Ieteikumi par 12.tematu
+      url: /OL__metodiskie/ieteikumi_OL_12_metodiskais/
 - title: Pārskatīšanas gaita
   children:
     - title: Pārskatīšanas plāns (Ievads)

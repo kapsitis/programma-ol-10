@@ -81,102 +81,111 @@ atrast teoriju vai papildu uzdevumus.**\**
 
 **Temata plānojums**
 
-+------+----------------------------+-----------------------------------------+
-| Nr.  | Stundu grupas tēma         | Sasniedzamie rezultāti                  |
-+:====:+============================+:========================================+
-| 1\.  | Sakarības taisnleņķa       | Veido apkopojumu par sakarībām          |
-|      | trijstūrī                  | taisnleņķa trijstūrī.                   |
-| 2\.  |                            |                                         |
-|      |                            | Aprēķina nezināmos lielumus taisnleņķa  |
-|      |                            | trijstūrī.                              |
-|      |                            |                                         |
-|      |                            | *1. darba lapa*                         |
-|      |                            |                                         |
-|      |                            | *2. darba lapa*                         |
-+------+----------------------------+-----------------------------------------+
-| 3\.  | Eiklīda teorēma            | Pierāda un lieto Eiklīda teorēmu.       |
-|      |                            |                                         |
-| 4\.  |                            | *3. darba lapa*                         |
-|      |                            |                                         |
-|      |                            | *4. darba lapa*                         |
-+------+----------------------------+-----------------------------------------+
-| 5\.  | Leņķa jēdziena             | Zina pagrieziena leņķa jēdzienu un      |
-|      | paplašinājums              | trigonometrisko funkciju (sinusa un     |
-| 6\.  |                            | kosinusa) definīcijas vienības riņķī.   |
-|      |                            |                                         |
-|      |                            | Nosaka sinusa un kosinusa vērtību       |
-|      |                            | platam leņķim gan lietojot              |
-|      |                            | trigonometrisko riņķi, gan kalkulatoru. |
-|      |                            |                                         |
-|      |                            | *5. darba lapa*                         |
-+------+----------------------------+-----------------------------------------+
-| 7\.  | Trijstūra laukuma          | Aprēķina trijstūra laukumu, ja dotas    |
-|      | aprēķināšana               | divas malas un leņķis starp tām.        |
-|      |                            |                                         |
-|      |                            | Pamato trijstūra laukuma aprēķināšanas  |
-|      |                            | formulu, ja dotas divas malas un leņķis |
-|      |                            | starp tām.                              |
-|      |                            |                                         |
-|      |                            | *6. darba lapa*                         |
-|      |                            |                                         |
-|      |                            | *7. darba lapa*                         |
-+------+----------------------------+-----------------------------------------+
-| 8\.  | Sinusu teorēma             | Pierāda sinusu teorēmu.                 |
-|      |                            |                                         |
-| 9\.  |                            | Lieto sinusu teorēmu, lai aprēķinātu    |
-|      |                            | nezināmos lielumus trijstūrī situācijās |
-| 10\. |                            | ar matemātisku vai praktisku kontekstu. |
-|      |                            |                                         |
-|      |                            | Lieto kalkulatoru, lai noteiktu leņķa   |
-|      |                            | lielumu, ja dota sinusu vērtība.        |
-|      |                            |                                         |
-|      |                            | *8. darba lapa*                         |
-|      |                            |                                         |
-|      |                            | *9. darba lapa*                         |
-|      |                            |                                         |
-|      |                            | *10. darba lapa*                        |
-+------+----------------------------+-----------------------------------------+
-| 11\. | Kosinusu teorēma           | Skaidro kosinusu teorēmas pierādījuma   |
-|      |                            | soļus.                                  |
-| 12\. |                            |                                         |
-|      |                            | Lieto kosinusu teorēmu, lai aprēķinātu  |
-| 13\. |                            | trijstūra nezināmos lielumus            |
-|      |                            | matemātiskos, praktiskos un citu jomu   |
-| 14\. |                            | kontekstos.                             |
-|      |                            |                                         |
-|      |                            | Pierāda, ka paralelograma diagonāļu     |
-|      |                            | kvadrātu summa ir vienāda ar tā malu    |
-|      |                            | kvadrātu summu.                         |
-|      |                            |                                         |
-|      |                            | Lieto sakarību starp paralelograma      |
-|      |                            | malām un diagonālēm.                    |
-|      |                            |                                         |
-|      |                            | *11. darba lapa*                        |
-|      |                            |                                         |
-|      |                            | *12. darba lapa*                        |
-|      |                            |                                         |
-|      |                            | *13. darba lapa*                        |
-+------+----------------------------+-----------------------------------------+
-| 15\. | Hērona formula             | Lieto Hērona formulu trijstūra laukuma  |
-|      |                            | un trijstūra elementu aprēķināšanai.    |
-| 16\. |                            |                                         |
-|      |                            | *14. darba lapa*                        |
-+------+----------------------------+-----------------------------------------+
-| 17\. | Trijstūrī ievilkta un      | Aprēķina ievilkta un apvilkta trijstūra |
-|      | trijstūrim apvilkta riņķa  | elementus vai riņķa līnijas rādiusu,    |
-| 18\. | līnija                     | lietojot laukuma aprēķināšanas formulas |
-|      |                            | $S_{\mathrm{\Delta}} = pr$ un           |
-| 19\. |                            | $S_{\mathrm{\Delta}} = \frac{abc}{4R}$. |
-|      |                            |                                         |
-| 20\. |                            |                                         |
-+------+----------------------------+-----------------------------------------+
-| 21\. | Kopsavilkums               | *Kopsavilkums*                          |
-+------+----------------------------+-----------------------------------------+
-| 22\. | Noslēguma pārbaudes darbs  | *NPD*                                   |
-+------+----------------------------+-----------------------------------------+
-| 23\. | Noslēguma pārbaudes darba  |                                         |
-|      | analīze                    |                                         |
-+------+----------------------------+-----------------------------------------+
+<table style="width:99%;">
+<colgroup>
+<col style="width: 8%" />
+<col style="width: 36%" />
+<col style="width: 53%" />
+</colgroup>
+<thead>
+<tr>
+<th style="text-align: center;">Nr.</th>
+<th>Stundu grupas tēma</th>
+<th style="text-align: left;">Sasniedzamie rezultāti</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;"><p>1.</p>
+<p>2.</p></td>
+<td>Sakarības taisnleņķa trijstūrī</td>
+<td style="text-align: left;"><p>Veido apkopojumu par sakarībām taisnleņķa trijstūrī.</p>
+<p>Aprēķina nezināmos lielumus taisnleņķa trijstūrī.</p>
+<p><em>1. darba lapa</em></p>
+<p><em>2. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>3.</p>
+<p>4.</p></td>
+<td>Eiklīda teorēma</td>
+<td style="text-align: left;"><p>Pierāda un lieto Eiklīda teorēmu.</p>
+<p><em>3. darba lapa</em></p>
+<p><em>4. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>5.</p>
+<p>6.</p></td>
+<td>Leņķa jēdziena paplašinājums</td>
+<td style="text-align: left;"><p>Zina pagrieziena leņķa jēdzienu un trigonometrisko funkciju (sinusa un kosinusa) definīcijas vienības riņķī.</p>
+<p>Nosaka sinusa un kosinusa vērtību platam leņķim gan lietojot trigonometrisko riņķi, gan kalkulatoru.</p>
+<p><em>5. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;">7.</td>
+<td>Trijstūra laukuma aprēķināšana</td>
+<td style="text-align: left;"><p>Aprēķina trijstūra laukumu, ja dotas divas malas un leņķis starp tām.</p>
+<p>Pamato trijstūra laukuma aprēķināšanas formulu, ja dotas divas malas un leņķis starp tām.</p>
+<p><em>6. darba lapa</em></p>
+<p><em>7. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>8.</p>
+<p>9.</p>
+<p>10.</p></td>
+<td>Sinusu teorēma</td>
+<td style="text-align: left;"><p>Pierāda sinusu teorēmu.</p>
+<p>Lieto sinusu teorēmu, lai aprēķinātu nezināmos lielumus trijstūrī situācijās ar matemātisku vai praktisku kontekstu.</p>
+<p>Lieto kalkulatoru, lai noteiktu leņķa lielumu, ja dota sinusu vērtība.</p>
+<p><em>8. darba lapa</em></p>
+<p><em>9. darba lapa</em></p>
+<p><em>10. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>11.</p>
+<p>12.</p>
+<p>13.</p>
+<p>14.</p></td>
+<td>Kosinusu teorēma</td>
+<td style="text-align: left;"><p>Skaidro kosinusu teorēmas pierādījuma soļus.</p>
+<p>Lieto kosinusu teorēmu, lai aprēķinātu trijstūra nezināmos lielumus matemātiskos, praktiskos un citu jomu kontekstos.</p>
+<p>Pierāda, ka paralelograma diagonāļu kvadrātu summa ir vienāda ar tā malu kvadrātu summu.</p>
+<p>Lieto sakarību starp paralelograma malām un diagonālēm.</p>
+<p><em>11. darba lapa</em></p>
+<p><em>12. darba lapa</em></p>
+<p><em>13. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>15.</p>
+<p>16.</p></td>
+<td>Hērona formula</td>
+<td style="text-align: left;"><p>Lieto Hērona formulu trijstūra laukuma un trijstūra elementu aprēķināšanai.</p>
+<p><em>14. darba lapa</em></p></td>
+</tr>
+<tr>
+<td style="text-align: center;"><p>17.</p>
+<p>18.</p>
+<p>19.</p>
+<p>20.</p></td>
+<td>Trijstūrī ievilkta un trijstūrim apvilkta riņķa līnija</td>
+<td style="text-align: left;">Aprēķina ievilkta un apvilkta trijstūra elementus vai riņķa līnijas rādiusu, lietojot laukuma aprēķināšanas formulas <span class="math inline">\(S_{\mathrm{\Delta}} = pr\)</span> un <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{abc}{4R}\)</span>.</td>
+</tr>
+<tr>
+<td style="text-align: center;">21.</td>
+<td>Kopsavilkums</td>
+<td style="text-align: left;"><em>Kopsavilkums</em></td>
+</tr>
+<tr>
+<td style="text-align: center;">22.</td>
+<td>Noslēguma pārbaudes darbs</td>
+<td style="text-align: left;"><em>NPD</em></td>
+</tr>
+<tr>
+<td style="text-align: center;">23.</td>
+<td>Noslēguma pārbaudes darba analīze</td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
 
  
 
@@ -254,13 +263,7 @@ kurā skaitļus saskaita). Piemēram, ja skaitlis* $t$ *ir skaitļu* $x$
 
 *Var dot skolēniem abus formulu veidus vai arī tikai vienu no tiem.*
 
-+---------------------------------------------------+--------------------------------------+-----------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.B.png){width="2.741930227471566in" | $$h_{c} = \sqrt{a_{c} \cdot b_{c}}$$ | $$h_{c}^{2} = a_{c} \cdot b_{c}$$ |
-| height="1.4960629921259843in"}                    |                                      |                                   |
-|                                                   | $$a = \sqrt{a_{c} \cdot c}$$         | $$a^{2} = a_{c} \cdot c$$         |
-|                                                   |                                      |                                   |
-|                                                   | $$b = \sqrt{b_{c} \cdot c}$$         | $$b^{2} = b_{c} \cdot c$$         |
-+===================================================+======================================+===================================+
+<p>+—————————————————+————————————–+———————————–+ | <img src="OL_6__Planimetrija_metodiskais.B.png" />{width=“2.741930227471566in” | <span class="math display">\[h_{c} = \sqrt{a_{c} \cdot b_{c}}\]</span> | <span class="math display">\[h_{c}^{2} = a_{c} \cdot b_{c}\]</span> | | height=“1.4960629921259843in”} | | | | | <span class="math display">\[a = \sqrt{a_{c} \cdot c}\]</span> | <span class="math display">\[a^{2} = a_{c} \cdot c\]</span> | | | | | | | <span class="math display">\[b = \sqrt{b_{c} \cdot c}\]</span> | <span class="math display">\[b^{2} = b_{c} \cdot c\]</span> | +===================================================+======================================+===================================+</p>
 
 Pierādījums
 
@@ -396,23 +399,7 @@ taisnleņķa trijstūri $BCO$, var uzrakstīt trigonometriskās sakarības:
 
 $$\sin\alpha = \frac{BC}{OB};\ \ \ \ \ \ \ \cos{\alpha =}\frac{OC}{OB}.$$
 
-+-----------------------------------------------------+-----------------------------------+
-| Tā kā TVR rādiuss ir 1, tad $OB = 1$. Bet nogriežņu | ![](OL_6__Planimetrija_metodiskais.G.png)             |
-| $OC$ un $BC$ garumi sakrīt ar punkta $B$            |                                   |
-| attiecīgajām koordinātām ($OC = x$ un $BC = y$),    |                                   |
-| tad iegūst:                                         |                                   |
-|                                                     |                                   |
-| $$\sin\alpha = \frac{y}{1} = y;$$                   |                                   |
-|                                                     |                                   |
-| $$\cos{\alpha =}\frac{x}{1} = x.$$                  |                                   |
-|                                                     |                                   |
-| Tātad leņķa $\alpha$ trigonometrisko funkciju       |                                   |
-| vērtības TVR ir punkta $B$ attiecīgās koordinātas:  |                                   |
-|                                                     |                                   |
-| $$B(x;y) = B\left( \cos\alpha;\sin\alpha \right),$$ |                                   |
-|                                                     |                                   |
-| jo $OC = \cos\alpha$ un $BC = \sin\alpha$.          |                                   |
-+=====================================================+===================================+
+<p>+—————————————————–+———————————–+ | Tā kā TVR rādiuss ir 1, tad <span class="math inline">\(OB = 1\)</span>. Bet nogriežņu | <img src="OL_6__Planimetrija_metodiskais.G.png" /> | | <span class="math inline">\(OC\)</span> un <span class="math inline">\(BC\)</span> garumi sakrīt ar punkta <span class="math inline">\(B\)</span> | | | attiecīgajām koordinātām (<span class="math inline">\(OC = x\)</span> un <span class="math inline">\(BC = y\)</span>), | | | tad iegūst: | | | | | | <span class="math display">\[\sin\alpha = \frac{y}{1} = y;\]</span> | | | | | | <span class="math display">\[\cos{\alpha =}\frac{x}{1} = x.\]</span> | | | | | | Tātad leņķa <span class="math inline">\(\alpha\)</span> trigonometrisko funkciju | | | vērtības TVR ir punkta <span class="math inline">\(B\)</span> attiecīgās koordinātas: | | | | | | <span class="math display">\[B(x;y) = B\left( \cos\alpha;\sin\alpha \right),\]</span> | | | | | | jo <span class="math inline">\(OC = \cos\alpha\)</span> un <span class="math inline">\(BC = \sin\alpha\)</span>. | | +=====================================================+===================================+</p>
 
 Ja leņķis $\alpha$ ir lielāks nekā $90{^\circ}$, tad arī attiecīgā
 punkta koordinātas uz vienības riņķa līnijas ir $\cos\alpha$ un
@@ -451,15 +438,7 @@ Pamatskolas standarts šo formulu neietver.*
 Trijstūra malu garumi ir 4 cm un 6 cm, bet leņķis starp šīm malām ir
 $60{^\circ}$. Aprēķini trijstūra laukumu.
 
-+-----------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.J.png){width="1.6978696412948382in" | 1\) Novelk $BD\bot AC$                                                                                                                                                        |
-| height="1.354313210848644in"}                       |                                                                                                                                                                               |
-|                                                     | 2\) $\mathrm{\Delta}BDC$                                                                                                                                                      |
-|                                                     |                                                                                                                                                                               |
-|                                                     | $$\sin{60{^\circ}} = \frac{BD}{BC}\ \ \ \ \  \Rightarrow \ \ \ \ \frac{\sqrt{3}}{2} = \frac{BD}{4}\ \ \ \  \Rightarrow \ \ \ \ \ BD = \frac{4\sqrt{3}}{2} = 2\sqrt{3}\ (cm)$$ |
-|                                                     |                                                                                                                                                                               |
-|                                                     | 3\) $S_{ABC} = \frac{1}{2}AC \cdot BD = \frac{1}{2} \cdot 6 \cdot 2\sqrt{3} = 6\sqrt{3}\ (cm^{2})$                                                                            |
-+=====================================================+===============================================================================================================================================================================+
+<p>+—————————————————–+——————————————————————————————————————————————————————————-+ | <img src="OL_6__Planimetrija_metodiskais.J.png" />{width=“1.6978696412948382in” | 1) Novelk <span class="math inline">\(BD\bot AC\)</span> | | height=“1.354313210848644in”} | | | | 2) <span class="math inline">\(\mathrm{\Delta}BDC\)</span> | | | | | | <span class="math display">\[\sin{60{^\circ}} = \frac{BD}{BC}\ \ \ \ \  \Rightarrow \ \ \ \ \frac{\sqrt{3}}{2} = \frac{BD}{4}\ \ \ \  \Rightarrow \ \ \ \ \ BD = \frac{4\sqrt{3}}{2} = 2\sqrt{3}\ (cm)\]</span> | | | | | | 3) <span class="math inline">\(S_{ABC} = \frac{1}{2}AC \cdot BD = \frac{1}{2} \cdot 6 \cdot 2\sqrt{3} = 6\sqrt{3}\ (cm^{2})\)</span> | +=====================================================+===============================================================================================================================================================================+</p>
 
 *Var sākt ar teorēmas formulējumu un pēc tam pierādīt formulu vai arī
 apskatīt dažādos gadījumus (šaurleņķu, platleņķa, taisnleņķa trijstūris)
@@ -473,35 +452,19 @@ $$S_{\mathrm{\Delta}} = \frac{1}{2}ab\sin\gamma.$$
 
 Pierādījums
 
-+-----------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.K.png){width="1.9824168853893263in" | $\mathrm{\Delta}ABC$ -- šaurleņķu trijstūris                                             |
-| height="1.4960629921259843in"}                      |                                                                                          |
-|                                                     | 1\) Novelk $AD\bot BC$                                                                   |
-|                                                     |                                                                                          |
-|                                                     | 2\) $\mathrm{\Delta}ADC$                                                                 |
-|                                                     |                                                                                          |
-|                                                     | $$\sin\gamma = \frac{AD}{AC}\ \ \  \Rightarrow \ \ \ \ AD = AC\sin\gamma = b\sin\gamma$$ |
-|                                                     |                                                                                          |
-|                                                     | 3\) $S_{ABC} = \frac{1}{2}BC \cdot AD = \frac{1}{2}ab\sin\gamma$                         |
-+=====================================================+:=========================================================================================+
-| ![](OL_6__Planimetrija_metodiskais.L.png){width="1.8558038057742783in" | $\mathrm{\Delta}ABC$ -- platleņķa trijstūris                                             |
-| height="1.4960629921259843in"}                      |                                                                                          |
-|                                                     | 1\) Novelk $AD\bot BC$                                                                   |
-|                                                     |                                                                                          |
-|                                                     | 2\) $\mathrm{\Delta}ADC$                                                                 |
-|                                                     |                                                                                          |
-|                                                     | $$\sin\gamma = \frac{AD}{AC}\ \ \  \Rightarrow \ \ \ \ AD = AC\sin\gamma = b\sin\gamma$$ |
-|                                                     |                                                                                          |
-|                                                     | 3\) $S_{ABC} = \frac{1}{2}BC \cdot AD = \frac{1}{2}ab\sin\gamma$                         |
-+-----------------------------------------------------+------------------------------------------------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.M.png){width="1.9607250656167978in" | $\mathrm{\Delta}ABC$ -- taisnleņķa trijstūris                                            |
-| height="1.4173228346456692in"}                      |                                                                                          |
-|                                                     | 1\) $\mathrm{\Delta}ABC$                                                                 |
-|                                                     |                                                                                          |
-|                                                     | $$\sin\gamma = \frac{AB}{AC}\ \ \  \Rightarrow \ \ \ \ AB = AC\sin\gamma = b\sin\gamma$$ |
-|                                                     |                                                                                          |
-|                                                     | 2\) $S_{ABC} = \frac{1}{2}BC \cdot AB = \frac{1}{2}ab\sin\gamma$                         |
-+-----------------------------------------------------+------------------------------------------------------------------------------------------+
+<table>
+<colgroup>
+<col style="width: 100%" />
+</colgroup>
+<tbody>
+<tr>
+<td><img src="OL_6__Planimetrija_metodiskais.K.png" />{width=“1.9824168853893263in” | <span class="math inline">\(\mathrm{\Delta}ABC\)</span> – šaurleņķu trijstūris height=“1.4960629921259843in”} | | | 1) Novelk <span class="math inline">\(AD\bot BC\)</span> | | | | 2) <span class="math inline">\(\mathrm{\Delta}ADC\)</span> | | | | <span class="math display">\[\sin\gamma = \frac{AD}{AC}\ \ \  \Rightarrow \ \ \ \ AD = AC\sin\gamma = b\sin\gamma\]</span> | | | | 3) <span class="math inline">\(S_{ABC} = \frac{1}{2}BC \cdot AD = \frac{1}{2}ab\sin\gamma\)</span> | =====================================================+:=========================================================================================+ <img src="OL_6__Planimetrija_metodiskais.L.png" />{width=“1.8558038057742783in” | <span class="math inline">\(\mathrm{\Delta}ABC\)</span> – platleņķa trijstūris height=“1.4960629921259843in”} | | | 1) Novelk <span class="math inline">\(AD\bot BC\)</span> | | | | 2) <span class="math inline">\(\mathrm{\Delta}ADC\)</span> | | | | <span class="math display">\[\sin\gamma = \frac{AD}{AC}\ \ \  \Rightarrow \ \ \ \ AD = AC\sin\gamma = b\sin\gamma\]</span> | | | | 3) <span class="math inline">\(S_{ABC} = \frac{1}{2}BC \cdot AD = \frac{1}{2}ab\sin\gamma\)</span> |</td>
+</tr>
+<tr>
+<td><img src="OL_6__Planimetrija_metodiskais.M.png" />{width=“1.9607250656167978in” | <span class="math inline">\(\mathrm{\Delta}ABC\)</span> – taisnleņķa trijstūris height=“1.4173228346456692in”} | | | 1) <span class="math inline">\(\mathrm{\Delta}ABC\)</span> | | | | <span class="math display">\[\sin\gamma = \frac{AB}{AC}\ \ \  \Rightarrow \ \ \ \ AB = AC\sin\gamma = b\sin\gamma\]</span> | | | | 2) <span class="math inline">\(S_{ABC} = \frac{1}{2}BC \cdot AB = \frac{1}{2}ab\sin\gamma\)</span> |</td>
+</tr>
+</tbody>
+</table>
 
 Aprēķina trijstūra laukumu vienkāršās situācijās (skat.
 [OL_6_dl_6]{.mark}).
@@ -552,18 +515,7 @@ spriedumus, kas ļaus pamatot sinusu teorēmu.*
 Trijstūra $ABC$ malas $AB$ garums ir 8 cm, leņķis $A$ ir 45°, bet leņķis
 $C$ ir 30° liels. Aprēķini malas $BC$ garumu.
 
-+-----------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.O.png){width="2.2493985126859144in" | 1\)                                                                                                                                    |
-| height="1.0249070428696414in"}                      | $S_{ABC} = \frac{1}{2}AB \cdot AC \cdot \sin{45{^\circ}} = \frac{1}{2} \cdot 8 \cdot AC \cdot \frac{\sqrt{2}}{2} = 2\sqrt{2} \cdot AC$ |
-|                                                     |                                                                                                                                        |
-|                                                     | 2\) $S_{ABC} = \frac{1}{2}AC \cdot BC \cdot \sin{30{^\circ}} = \frac{1}{2}AC \cdot BC \cdot \frac{1}{2} = \frac{1}{4}AC \cdot BC$      |
-|                                                     |                                                                                                                                        |
-|                                                     | 3\) Tā kā rēķināts viens un tas pats lielums, tad                                                                                      |
-|                                                     |                                                                                                                                        |
-|                                                     | $$2\sqrt{2} \cdot AC = \frac{1}{4}AC \cdot BC$$                                                                                        |
-|                                                     |                                                                                                                                        |
-|                                                     | $BC = 8\sqrt{2}$ cm                                                                                                                    |
-+=====================================================+========================================================================================================================================+
+<p>+—————————————————–+—————————————————————————————————————————————-+ | <img src="OL_6__Planimetrija_metodiskais.O.png" />{width=“2.2493985126859144in” | 1) | | height=“1.0249070428696414in”} | <span class="math inline">\(S_{ABC} = \frac{1}{2}AB \cdot AC \cdot \sin{45{^\circ}} = \frac{1}{2} \cdot 8 \cdot AC \cdot \frac{\sqrt{2}}{2} = 2\sqrt{2} \cdot AC\)</span> | | | | | | 2) <span class="math inline">\(S_{ABC} = \frac{1}{2}AC \cdot BC \cdot \sin{30{^\circ}} = \frac{1}{2}AC \cdot BC \cdot \frac{1}{2} = \frac{1}{4}AC \cdot BC\)</span> | | | | | | 3) Tā kā rēķināts viens un tas pats lielums, tad | | | | | | <span class="math display">\[2\sqrt{2} \cdot AC = \frac{1}{4}AC \cdot BC\]</span> | | | | | | <span class="math inline">\(BC = 8\sqrt{2}\)</span> cm | +=====================================================+========================================================================================================================================+</p>
 
 *Skolotājs pieņem lēmumu par skolēniem nepieciešamo atbalstu un pieeju
 sinusu teorēmas pierādīšanā, piemēram, ja skolēni kopumā nav gatavi
@@ -581,38 +533,7 @@ $$\frac{a}{\sin\alpha} = \frac{b}{\sin\beta} = \frac{c}{\sin\gamma}$$
 
 Pierādījums
 
-+-----------------------------------------------------+-------------------------------------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.P.png){width="2.1131496062992126in" | 1\)                                                                           |
-| height="1.671758530183727in"}                       | $S_{ABC} = \frac{1}{2}AB \cdot AC \cdot \sin\alpha = \frac{1}{2}bc\sin\alpha$ |
-|                                                     |                                                                               |
-|                                                     | 2\)                                                                           |
-|                                                     | $S_{ABC} = \frac{1}{2}AC \cdot BC \cdot \sin\gamma = \frac{1}{2}ab\sin\gamma$ |
-|                                                     |                                                                               |
-|                                                     | 3\)                                                                           |
-|                                                     | $S_{ABC} = \frac{1}{2}AB \cdot BC \cdot \sin\beta = \frac{1}{2}ac\sin\beta$   |
-|                                                     |                                                                               |
-|                                                     | 4\) Ievērojam, ka neviena sinusa vērtība nav 0                                |
-|                                                     |                                                                               |
-|                                                     | 5\) No 1) un 2) iegūstam:                                                     |
-|                                                     |                                                                               |
-|                                                     | $$\frac{1}{2}bc\sin\alpha = \frac{1}{2}ab\sin\gamma$$                         |
-|                                                     |                                                                               |
-|                                                     | $$c\sin\alpha = a\sin\gamma$$                                                 |
-|                                                     |                                                                               |
-|                                                     | $$\frac{c}{\sin\gamma} = \frac{a}{\sin\alpha}$$                               |
-|                                                     |                                                                               |
-|                                                     | 6\) No 2) un 3) iegūstam:                                                     |
-|                                                     |                                                                               |
-|                                                     | $$\frac{1}{2}ab\sin\gamma = \frac{1}{2}ac\sin\beta$$                          |
-|                                                     |                                                                               |
-|                                                     | $$b\sin\gamma = c\sin\beta$$                                                  |
-|                                                     |                                                                               |
-|                                                     | $$\frac{b}{\sin\beta} = \frac{c}{\sin\gamma}$$                                |
-|                                                     |                                                                               |
-|                                                     | 7\) Tātad                                                                     |
-|                                                     |                                                                               |
-|                                                     | $$\frac{a}{\sin\alpha} = \frac{b}{\sin\beta} = \frac{c}{\sin\gamma}$$         |
-+=====================================================+===============================================================================+
+<p>+—————————————————–+——————————————————————————-+ | <img src="OL_6__Planimetrija_metodiskais.P.png" />{width=“2.1131496062992126in” | 1) | | height=“1.671758530183727in”} | <span class="math inline">\(S_{ABC} = \frac{1}{2}AB \cdot AC \cdot \sin\alpha = \frac{1}{2}bc\sin\alpha\)</span> | | | | | | 2) | | | <span class="math inline">\(S_{ABC} = \frac{1}{2}AC \cdot BC \cdot \sin\gamma = \frac{1}{2}ab\sin\gamma\)</span> | | | | | | 3) | | | <span class="math inline">\(S_{ABC} = \frac{1}{2}AB \cdot BC \cdot \sin\beta = \frac{1}{2}ac\sin\beta\)</span> | | | | | | 4) Ievērojam, ka neviena sinusa vērtība nav 0 | | | | | | 5) No 1) un 2) iegūstam: | | | | | | <span class="math display">\[\frac{1}{2}bc\sin\alpha = \frac{1}{2}ab\sin\gamma\]</span> | | | | | | <span class="math display">\[c\sin\alpha = a\sin\gamma\]</span> | | | | | | <span class="math display">\[\frac{c}{\sin\gamma} = \frac{a}{\sin\alpha}\]</span> | | | | | | 6) No 2) un 3) iegūstam: | | | | | | <span class="math display">\[\frac{1}{2}ab\sin\gamma = \frac{1}{2}ac\sin\beta\]</span> | | | | | | <span class="math display">\[b\sin\gamma = c\sin\beta\]</span> | | | | | | <span class="math display">\[\frac{b}{\sin\beta} = \frac{c}{\sin\gamma}\]</span> | | | | | | 7) Tātad | | | | | | <span class="math display">\[\frac{a}{\sin\alpha} = \frac{b}{\sin\beta} = \frac{c}{\sin\gamma}\]</span> | +=====================================================+===============================================================================+</p>
 
 *Tiek pieņemts, ka trijstūrī* $ABC$ *leņķu* $A$*,* $B$*,* $C$ *lielumus
 attiecīgi apzīmē ar* $\alpha$*,* $\beta$*,* $\gamma$ *un malas* $AB$*,*
@@ -680,13 +601,7 @@ pierādījumu, lai skolēni skaidro pierādījuma soļus.*
 malu kvadrātu summu, no kuras atņemts divkāršots šo malu reizinājums ar
 kosinusu no leņķa starp tām.
 
-+-----------------------------------------------------+-------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.Q.png){width="2.1131496062992126in" | $$a^{2} = b^{2} + c^{2} - 2bc\cos\alpha$$ |
-| height="1.671758530183727in"}                       |                                           |
-|                                                     | $$b^{2} = a^{2} + c^{2} - 2ac\cos\beta$$  |
-|                                                     |                                           |
-|                                                     | $$c^{2} = a^{2} + b^{2} - 2ab\cos\gamma$$ |
-+=====================================================+===========================================+
+<p>+—————————————————–+——————————————-+ | <img src="OL_6__Planimetrija_metodiskais.Q.png" />{width=“2.1131496062992126in” | <span class="math display">\[a^{2} = b^{2} + c^{2} - 2bc\cos\alpha\]</span> | | height=“1.671758530183727in”} | | | | <span class="math display">\[b^{2} = a^{2} + c^{2} - 2ac\cos\beta\]</span> | | | | | | <span class="math display">\[c^{2} = a^{2} + b^{2} - 2ab\cos\gamma\]</span> | +=====================================================+===========================================+</p>
 
 *Var dot skolēniem literatūrā (piemēram, B. Āboltiņa, D. Kriķis, K.
 Šteiners "Matemātika 10. klasei", Zvaigzne ABC, 2021, 120. lpp.) atrast
@@ -766,21 +681,7 @@ $$d_{1}^{2} + d_{2}^{2} = 2\left( a^{2} + b^{2} \right)$$
 
 Pierādījums
 
-+-----------------------------------------------------+-----------------------------------------------------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.R.png){width="2.4502734033245845in" | 1\) $\mathrm{\Delta}ABD$                                                                      |
-| height="1.1023622047244095in"}                      |                                                                                               |
-|                                                     | $$BD^{2} = AB^{2} + AD^{2} - 2AB \cdot AD \cdot \cos{\sphericalangle A}$$                     |
-|                                                     |                                                                                               |
-|                                                     | $$BD^{2} = a^{2} + b^{2} - 2ab\cos{\sphericalangle A}$$                                       |
-|                                                     |                                                                                               |
-|                                                     | 2\) $\mathrm{\Delta}ABC$                                                                      |
-|                                                     |                                                                                               |
-|                                                     | $${AC}^{2} = AB^{2} + {BC}^{2} - 2AB \cdot BC \cdot \cos{(180{^\circ} - \sphericalangle A)}$$ |
-|                                                     |                                                                                               |
-|                                                     | $${AC}^{2} = a^{2} + b^{2} + 2ab\cos{\sphericalangle A}$$                                     |
-|                                                     |                                                                                               |
-|                                                     | Izmantots fakts, ka $\cos{(180{^\circ} - \alpha)} = - \cos\alpha$                             |
-+=====================================================+===============================================================================================+
+<p>+—————————————————–+———————————————————————————————–+ | <img src="OL_6__Planimetrija_metodiskais.R.png" />{width=“2.4502734033245845in” | 1) <span class="math inline">\(\mathrm{\Delta}ABD\)</span> | | height=“1.1023622047244095in”} | | | | <span class="math display">\[BD^{2} = AB^{2} + AD^{2} - 2AB \cdot AD \cdot \cos{\sphericalangle A}\]</span> | | | | | | <span class="math display">\[BD^{2} = a^{2} + b^{2} - 2ab\cos{\sphericalangle A}\]</span> | | | | | | 2) <span class="math inline">\(\mathrm{\Delta}ABC\)</span> | | | | | | <span class="math display">\[{AC}^{2} = AB^{2} + {BC}^{2} - 2AB \cdot BC \cdot \cos{(180{^\circ} - \sphericalangle A)}\]</span> | | | | | | <span class="math display">\[{AC}^{2} = a^{2} + b^{2} + 2ab\cos{\sphericalangle A}\]</span> | | | | | | Izmantots fakts, ka <span class="math inline">\(\cos{(180{^\circ} - \alpha)} = - \cos\alpha\)</span> | +=====================================================+===============================================================================================+</p>
 
 3\) Saskaita abas iegūtās vienādības:
 
@@ -817,19 +718,7 @@ Aprēķini trijstūra laukumu, ja trijstūra malu garumi ir 13 cm, 14 cm un
 
 *Vai var aprēķināt trijstūra augstumu?*
 
-+----------------------------------------------------+---------------------------------------------------+
-| ![](OL_6__Planimetrija_metodiskais.S.png){width="2.401187664041995in" | 1\) Novelk $BD\bot AC$                            |
-| height="1.5748031496062993in"}                     |                                                   |
-|                                                    | 2\) Apzīmē $AD = x$ un $CD = 15 - x$              |
-|                                                    |                                                   |
-|                                                    | 3\) $\mathrm{\Delta}ADB$                          |
-|                                                    |                                                   |
-|                                                    | $$BD^{2} = AB^{2} - AD^{2} = 169 - x^{2}$$        |
-|                                                    |                                                   |
-|                                                    | 4\) $\mathrm{\Delta}BDC$                          |
-|                                                    |                                                   |
-|                                                    | $$BD^{2} = BC^{2} - CD^{2} = 196 - (15 - x)^{2}$$ |
-+====================================================+===================================================+
+<p>+—————————————————-+—————————————————+ | <img src="OL_6__Planimetrija_metodiskais.S.png" />{width=“2.401187664041995in” | 1) Novelk <span class="math inline">\(BD\bot AC\)</span> | | height=“1.5748031496062993in”} | | | | 2) Apzīmē <span class="math inline">\(AD = x\)</span> un <span class="math inline">\(CD = 15 - x\)</span> | | | | | | 3) <span class="math inline">\(\mathrm{\Delta}ADB\)</span> | | | | | | <span class="math display">\[BD^{2} = AB^{2} - AD^{2} = 169 - x^{2}\]</span> | | | | | | 4) <span class="math inline">\(\mathrm{\Delta}BDC\)</span> | | | | | | <span class="math display">\[BD^{2} = BC^{2} - CD^{2} = 196 - (15 - x)^{2}\]</span> | +====================================================+===================================================+</p>
 
 5\) Tā kā kreisās puses ir vienādas, tad iegūst vienādojumu:
 
@@ -923,19 +812,26 @@ rūtiņu lapas (1. veids).*
 
 Formulas
 
-+------------------------------------------+-----------------------------+
-| $$S_{\mathrm{\Delta}} = pr$$             | $p$ -- trijstūra            |
-|                                          | pusperimetrs                |
-|                                          |                             |
-|                                          | $r$ -- ievilktās riņķa      |
-|                                          | līnijas rādiuss             |
-+==========================================+=============================+
-| $$S_{\mathrm{\Delta}} = \frac{abc}{4R}$$ | $a,\ b,\ c$ -- trijstūra    |
-|                                          | malas                       |
-|                                          |                             |
-|                                          | $R$ -- apvilktās riņķa      |
-|                                          | līnijas rādiuss             |
-+------------------------------------------+-----------------------------+
+<table>
+<colgroup>
+<col style="width: 58%" />
+<col style="width: 41%" />
+</colgroup>
+<thead>
+<tr>
+<th><span class="math display">\[S_{\mathrm{\Delta}} = pr\]</span></th>
+<th><p><span class="math inline">\(p\)</span> – trijstūra pusperimetrs</p>
+<p><span class="math inline">\(r\)</span> – ievilktās riņķa līnijas rādiuss</p></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="math display">\[S_{\mathrm{\Delta}} = \frac{abc}{4R}\]</span></td>
+<td><p><span class="math inline">\(a,\ b,\ c\)</span> – trijstūra malas</p>
+<p><span class="math inline">\(R\)</span> – apvilktās riņķa līnijas rādiuss</p></td>
+</tr>
+</tbody>
+</table>
 
 *Formulas* $S_{\mathrm{\Delta}} = pr$ *pierādījumā jāizmanto tikai
 trijstūra laukuma formula* $S_{\mathrm{\Delta}} = \frac{1}{2}ah_{a}$*,
