@@ -204,7 +204,8 @@ Ieradumu formulējumiem ("izveidojies ieradums …") pievienot novērojamu uzved
 Pamatskolas pusē – nodrošināt, ka datu pratības SR ir pilnvērtīgi pārstāvēti 9. klases eksāmenā (pretējā gadījumā tie praksē tiek marginalizēti par labu algebrai). Vidusskolas pusē – ieteikt programmu paraugos statistikas un varbūtības elementus integrēt agrāk (piemēram, datu kontekstus funkciju un procentu tematos), lai 2,5 gadu pauze nenoārda pamatskolā sasniegto.
 
 **8. Veikt redakcionālu revīziju.**
-Novērst Li.6 virsraksta dublēšanos, tukšajās tabulu šūnās pievienot norādes "līnija turpinās …/līnija noslēdzas", izlīdzināt SR granularitāti. Tas ir mazs, bet dokumenta autoritāti stiprinošs solis.
+Tukšajās tabulu šūnās (piemēram, ja 6.klases temats neturpinās 
+9.klasē) pievienot norādes "līnija turpinās …/līnija noslēdzas", izlīdzināt SR granularitāti. Tas ir mazs, bet dokumenta autoritāti stiprinošs solis.
 
 ---
 

@@ -66,6 +66,10 @@
           url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD/
         - title: OL_1_DL_11 - Dažādi vienādojumi (ar tukšumiem)
           url: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD_ar_tuks/
+    - title: 6. temats
+      children:
+        - title: OL_6__Planimetrija_metodiskais
+          url: /OL_6__visi/OL_6__planimetrija_metodiskais/
 - title: Ieteikumi
   children:
     - title: Atsauksme par pamatskolas_standartu
@@ -86,6 +90,10 @@
       url: /OL__metodiskie/ieteikumi_OL_7_metodiskais/
     - title: Ieteikumi par 8.tematu
       url: /OL__metodiskie/ieteikumi_OL_8_metodiskais/
+    - title: Ieteikumi par 9.tematu
+      url: /OL__metodiskie/ieteikumi_OL_9_metodiskais/
+    - title: Ieteikumi par 10.tematu
+      url: /OL__metodiskie/ieteikumi_OL_10_metodiskais/
 - title: Pārskatīšanas gaita
   children:
     - title: Pārskatīšanas plāns (Ievads)

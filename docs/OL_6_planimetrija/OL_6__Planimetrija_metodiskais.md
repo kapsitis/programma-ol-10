@@ -1,3 +1,9 @@
+---
+layout: default
+title: "OL_6__planimetrija_metodiskais"
+permalink: /OL_6__visi/OL_6__planimetrija_metodiskais/
+---
+
 **6. Planimetrija** (23 stundas)
 
 Metodiskais komentārs
