@@ -28,6 +28,26 @@ Atsauci vislabāk noformēt atbilstoši pievienotajam failam "atsauksmes_paraugs
 
 Sk. [atsauksmes_paraugs.md](https://raw.githubusercontent.com/kapsitis/programma-ol-10/refs/heads/main/docs/OL__metodiskie/atsauksmes_paraugs.md)
 
+## Programmu pārveidošana
+
+Izmantotais prompts:
+
+```
+Please convert the screenshot to markdown. Convert the green header
+cell into H2 (## ...), and the leftmost cell into H3 (### ...).
+Encode the remaining three columns into a simple Markdown table
+using pipe syntax. Math formulas (typically shown in italics) 
+should be written in LaTeX notation and enclosed between $s. 
+Leave empty cells in your table whenever you
+see them in the screenshot, but ensure that every column in your
+table has the same number of cells (merge cells vertically,
+if they appear to be finely split in some column).
+If there are multiple cells in the leftmost column, add more H2
+headings and split the table. Make the resulting Markdown easy
+to download or copy to the clipboard.
+```
+
+
 ## Tālākas darbības
 
 Zemāk minētās darbības vēl nav veiktas; visticamāk abi plāni jāsapludina, lai 

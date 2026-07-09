@@ -4,6 +4,8 @@
       url: /
     - title: Pamatskolas standarts
       url: /pamatskolas_standarts/    
+    - title: Vidusskolas standarts
+      url: /vidusskolas_standarts/    
 - title: Programmas saturs
   children:
     - title: Programmas paraugs
