@@ -44,6 +44,8 @@
           url: /OL_1_DL/OL_1_dl_1_vertiba_ATR/
         - title: OL_1_DL_2 - Kvadratvienādojumi
           url: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_UZD/
+        - title: OL_1_DL_2 - Kvadratvienādojumi (atrisinājumi)
+          url: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
         - title: OL_1_DL_2 - Vjeta teorēma (papildus)
           url: /OL_1_DL/OL_1_dl_2_Vjeta_teorema_UZD_papildus/
         - title: OL_1_DL_3 - Kopīga reizinātāja iznešana un grupēšana
@@ -80,7 +82,7 @@
       url: /OL__metodiskie/atsauksme_vidusskolas_standarts/
     - title: Programmas atbilstība standartam
       url: /OL__metodiskie/programma_compliance/
-    - title: Ieteikumi par programmas saturu
+    - title: Ieteikumi par programmas ievaddokumentu
       url: /OL__metodiskie/ieteikumi_programmas_paraugs/
     - title: Ieteikumi par 1.tematu
       url: /OL__metodiskie/ieteikumi_OL_1_metodiskais/
