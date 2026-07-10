@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1250 715" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#475569"/>
+    </marker>
+    <marker id="arrd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#94a3b8"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="1250" height="715" fill="#ffffff"/>
+  <text x="625" y="28" text-anchor="middle" font-size="16" font-weight="bold" fill="#1e293b">Kursa Matemātika I tematu savstarpējās atkarības (pēc programmas parauga, 420 stundas)</text>
+
+  <!-- ================= EDGES (solid) ================= -->
+  <g stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arr)">
+    <line x1="220" y1="80"  x2="278" y2="80"/>                      <!-- T1->T2 -->
+    <line x1="470" y1="80"  x2="528" y2="80"/>                      <!-- T2->T3 -->
+    <line x1="720" y1="80"  x2="778" y2="80"/>                      <!-- T3->T4 -->
+    <line x1="720" y1="92"  x2="778" y2="150"/>                     <!-- T3->T5 -->
+    <line x1="470" y1="246" x2="528" y2="246"/>                     <!-- T7->T8 -->
+    <line x1="720" y1="246" x2="778" y2="246"/>                     <!-- T8->T9 -->
+    <line x1="970" y1="246" x2="1028" y2="246"/>                    <!-- T9->T10 -->
+    <line x1="220" y1="327" x2="560" y2="274"/>                     <!-- T6->T8 -->
+    <line x1="220" y1="341" x2="278" y2="341"/>                     <!-- T6->T11 -->
+    <line x1="470" y1="341" x2="528" y2="341"/>                     <!-- T11->T12 -->
+    <line x1="205" y1="367" x2="278" y2="426"/>                     <!-- T6->T16 -->
+    <line x1="470" y1="436" x2="528" y2="436"/>                     <!-- T16->T17 -->
+    <line x1="720" y1="436" x2="778" y2="436"/>                     <!-- T17->T18 -->
+    <line x1="220" y1="546" x2="278" y2="546"/>                     <!-- T13->T14 -->
+    <line x1="470" y1="546" x2="528" y2="546"/>                     <!-- T14->T15 -->
+    <line x1="220" y1="641" x2="278" y2="641"/>                     <!-- T19->T20 -->
+    <line x1="470" y1="641" x2="528" y2="641"/>                     <!-- T20->T21 -->
+    <path d="M 310 272 C 240 330, 240 462, 310 518"/>               <!-- T7->T14 (apkārt kolonnai) -->
+  </g>
+
+  <!-- ================= EDGES (dashed) ================= -->
+  <g stroke="#94a3b8" stroke-width="1.8" fill="none" stroke-dasharray="6 4" marker-end="url(#arrd)">
+    <line x1="140" y1="106" x2="332" y2="218"/>                     <!-- T1 -.-> T7 -->
+    <path d="M 1125 272 C 1125 380, 1125 488, 950 488 L 730 488 C 690 488, 666 482, 661 466"/> <!-- T10 -.-> T17 -->
+  </g>
+  <text x="238" y="150" text-anchor="middle" font-size="12" font-style="italic" fill="#64748b">monotonitātes arguments</text>
+  <text x="920" y="477" text-anchor="middle" font-size="12" font-style="italic" fill="#64748b">trig. lietojums</text>
+
+  <!-- ================= NODES ================= -->
+  <!-- Algebra: zils -->
+  <g>
+    <rect x="30" y="54" width="190" height="52" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="125" y="76" text-anchor="middle" font-size="12.5" fill="#1e293b">1. Sadalīšana reizinātājos,</text>
+    <text x="125" y="94" text-anchor="middle" font-size="12.5" fill="#1e293b">vienādojumu metodes</text>
+
+    <rect x="280" y="54" width="190" height="52" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="375" y="85" text-anchor="middle" font-size="12.5" fill="#1e293b">2. Algebriskās daļas</text>
+
+    <rect x="530" y="54" width="190" height="52" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="625" y="85" text-anchor="middle" font-size="12.5" fill="#1e293b">3. Daļveida vienādojumi</text>
+
+    <rect x="780" y="54" width="190" height="52" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="875" y="85" text-anchor="middle" font-size="12.5" fill="#1e293b">4. Vienādojumu sistēmas</text>
+
+    <rect x="780" y="130" width="190" height="52" rx="8" fill="#dbeafe" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="875" y="161" text-anchor="middle" font-size="12.5" fill="#1e293b">5. Daļveida nevienādības</text>
+  </g>
+
+  <!-- Funkcija: dzeltens -->
+  <g>
+    <rect x="280" y="220" width="190" height="52" rx="8" fill="#fef9c3" stroke="#ca8a04" stroke-width="1.5"/>
+    <text x="375" y="242" text-anchor="middle" font-size="12.5" fill="#1e293b">7. Funkcija, īpašības,</text>
+    <text x="375" y="260" text-anchor="middle" font-size="12.5" fill="#1e293b">pārbīdes</text>
+  </g>
+
+  <!-- Planimetrija un trigonometrija: zaļš -->
+  <g>
+    <rect x="30" y="315" width="190" height="52" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+    <text x="125" y="337" text-anchor="middle" font-size="12.5" fill="#1e293b">6. Leņķa paplašinājums,</text>
+    <text x="125" y="355" text-anchor="middle" font-size="12.5" fill="#1e293b">planimetrija</text>
+
+    <rect x="530" y="220" width="190" height="52" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+    <text x="625" y="242" text-anchor="middle" font-size="12.5" fill="#1e293b">8. Trigonometriskās</text>
+    <text x="625" y="260" text-anchor="middle" font-size="12.5" fill="#1e293b">funkcijas</text>
+
+    <rect x="780" y="220" width="190" height="52" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+    <text x="875" y="242" text-anchor="middle" font-size="12.5" fill="#1e293b">9. Trigonometriskās</text>
+    <text x="875" y="260" text-anchor="middle" font-size="12.5" fill="#1e293b">izteiksmes</text>
+
+    <rect x="1030" y="220" width="190" height="52" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="1.5"/>
+    <text x="1125" y="242" text-anchor="middle" font-size="12.5" fill="#1e293b">10. Trigonometriskie</text>
+    <text x="1125" y="260" text-anchor="middle" font-size="12.5" fill="#1e293b">vienādojumi</text>
+  </g>
+
+  <!-- Vektori un analītiskā ģeometrija: tirkīzs -->
+  <g>
+    <rect x="280" y="315" width="190" height="52" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.5"/>
+    <text x="375" y="346" text-anchor="middle" font-size="12.5" fill="#1e293b">11. Vektori</text>
+
+    <rect x="530" y="315" width="190" height="52" rx="8" fill="#ccfbf1" stroke="#0d9488" stroke-width="1.5"/>
+    <text x="625" y="346" text-anchor="middle" font-size="12.5" fill="#1e293b">12. Līnijas plaknē</text>
+  </g>
+
+  <!-- Stereometrija: oranžs -->
+  <g>
+    <rect x="280" y="410" width="190" height="52" rx="8" fill="#ffedd5" stroke="#ea580c" stroke-width="1.5"/>
+    <text x="375" y="432" text-anchor="middle" font-size="12.5" fill="#1e293b">16. Taisnes un plaknes</text>
+    <text x="375" y="450" text-anchor="middle" font-size="12.5" fill="#1e293b">telpā</text>
+
+    <rect x="530" y="410" width="190" height="52" rx="8" fill="#ffedd5" stroke="#ea580c" stroke-width="1.5"/>
+    <text x="625" y="441" text-anchor="middle" font-size="12.5" fill="#1e293b">17. Daudzskaldņi</text>
+
+    <rect x="780" y="410" width="190" height="52" rx="8" fill="#ffedd5" stroke="#ea580c" stroke-width="1.5"/>
+    <text x="875" y="441" text-anchor="middle" font-size="12.5" fill="#1e293b">18. Rotācijas ķermeņi</text>
+  </g>
+
+  <!-- Pakāpes, eksponentes, logaritmi: violets -->
+  <g>
+    <rect x="30" y="520" width="190" height="52" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+    <text x="125" y="542" text-anchor="middle" font-size="12.5" fill="#1e293b">13. Pakāpe ar racionālu</text>
+    <text x="125" y="560" text-anchor="middle" font-size="12.5" fill="#1e293b">kāpinātāju, progresijas</text>
+
+    <rect x="280" y="520" width="190" height="52" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+    <text x="375" y="542" text-anchor="middle" font-size="12.5" fill="#1e293b">14. Eksponentfunkcija,</text>
+    <text x="375" y="560" text-anchor="middle" font-size="12.5" fill="#1e293b">logaritms</text>
+
+    <rect x="530" y="520" width="190" height="52" rx="8" fill="#ede9fe" stroke="#7c3aed" stroke-width="1.5"/>
+    <text x="625" y="551" text-anchor="middle" font-size="12.5" fill="#1e293b">15. Eksponentvienādojumi</text>
+  </g>
+
+  <!-- Dati un varbūtība: rozā -->
+  <g>
+    <rect x="30" y="615" width="190" height="52" rx="8" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+    <text x="125" y="646" text-anchor="middle" font-size="12.5" fill="#1e293b">19. Kopas, kombinatorika</text>
+
+    <rect x="280" y="615" width="190" height="52" rx="8" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+    <text x="375" y="646" text-anchor="middle" font-size="12.5" fill="#1e293b">20. Varbūtības</text>
+
+    <rect x="530" y="615" width="190" height="52" rx="8" fill="#fce7f3" stroke="#db2777" stroke-width="1.5"/>
+    <text x="625" y="646" text-anchor="middle" font-size="12.5" fill="#1e293b">21. Statistika</text>
+  </g>
+
+  <!-- ================= LEGEND ================= -->
+  <g>
+    <line x1="790" y1="560" x2="840" y2="560" stroke="#475569" stroke-width="1.8" marker-end="url(#arr)"/>
+    <text x="850" y="564" font-size="12" fill="#475569">tieša pēctecība starp tematiem</text>
+    <line x1="790" y1="586" x2="840" y2="586" stroke="#94a3b8" stroke-width="1.8" stroke-dasharray="6 4" marker-end="url(#arrd)"/>
+    <text x="850" y="590" font-size="12" fill="#475569">saistība, kas optimālā līmeņa standartā nav formalizēta</text>
+    <text x="790" y="616" font-size="12" fill="#475569">Krāsas apzīmē satura blokus; tematu numuri atbilst</text>
+    <text x="790" y="632" font-size="12" fill="#475569">Matemātika I programmas parauga secībai.</text>
+  </g>
+</svg>
