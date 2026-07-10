@@ -1,2 +1,0 @@
-# Programmas parauga dokuments
-

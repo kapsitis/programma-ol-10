@@ -172,7 +172,12 @@ Jāuzsver: šī tabula lielākoties raksturo *vidusskolas programmas tematu sec�
 
 Atkarību ķēdi ilustrē shēma (algebras līnija):
 
-<img src="https://kapsitis.github.io/programma-ol-10/OL__metodiskie/atsauksme_pamatskolas_standarts.A.png" alt="Algebras linijas atkaribu kede" width="800px"/>
+<img
+  id="tematu_atkaribu_grafs"
+  alt="Tematu atkarību grafs"
+  src="{{ '/OL__metodiskie/atsauksme_pamatskolas_standarts.A.svg' | relative_url }}"
+  style="width: 100%; max-width: 600px; border:none; background-color:#FFFFE0;"
+/>
 
 *Sarkanie mezgli – vietas, kur pamatskolas standarta segums ir nepilnīgs vai negarantēts; dzeltenais – prasme, kurai standarts nenosaka raituma slieksni, lai gan uz tās balstās viss bloks.*
 

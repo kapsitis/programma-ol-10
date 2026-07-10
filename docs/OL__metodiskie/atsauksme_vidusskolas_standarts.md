@@ -9,7 +9,7 @@ permalink: /OL__metodiskie/atsauksme_vidusskolas_standarts/
 
 **Salīdzināmais dokuments:** kursa Matemātika I mācību priekšmeta programmas paraugs (*MATEMATIKA_1_programmas_paraugs_19_maijs.md*, 420 stundas, 21 temats + atkārtojums), kā arī tam pakārtotie tematu metodiskie materiāli (OL_1–OL_12).
 
-**Atsauksmes mērķis:** izvērtēt standarta iekšējo konsekvenci, atbilstību starptautiskajai praksei matemātikas mācīšanā 16–19 gadus veciem jauniešiem, satura apjoma samērību ar atvēlēto laiku, tematu savstarpējo atkarību un rezultātu izmērāmību, kā arī formulēt ieteikumus standarta tālākai attīstībai un normatīvā ietvara sakārtošanai. Neierastā perspektīva — vērtēt standartu no vēlāk tapušas, praksē pārbaudītas programmas skatpunkta — šeit ir apzināta: programma un metodiskie materiāli parāda, *kur* standarta prasības reālajā mācību darbā izrādās nepilnīgas, pārprotamas vai jāpapildina.
+**Atsauksmes mērķis:** izvērtēt standarta iekšējo konsekvenci, atbilstību starptautiskajai praksei matemātikas mācīšanā 16–19 gadus veciem jauniešiem, satura apjoma samērību ar atvēlēto laiku, tematu savstarpējo atkarību un rezultātu izmērāmību, kā arī formulēt ieteikumus standarta tālākai attīstībai un normatīvā ietvara sakārtošanai. Neierastā perspektīva — vērtēt standartu no vēlāk tapušas programmas skatpunkta — šeit ir apzināta: programma un metodiskie materiāli parāda, *kur* standarta prasības reālajā mācību darbā izrādās nepilnīgas, pārprotamas vai jāpapildina.
 
 ---
 
