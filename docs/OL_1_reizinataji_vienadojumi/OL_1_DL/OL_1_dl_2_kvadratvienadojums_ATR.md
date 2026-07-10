@@ -4,11 +4,11 @@ title: "Kvadratvienadojumi"
 permalink: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
 ---
 
+_(1. LAPA)_
+
 # 1. temats 2. darba lapa — Matemātika I
 
 ## 1. Atrisini kvadrātvienādojumu!
-
-### 1. lapa
 
 **Kreisā puse:** 
 
@@ -49,7 +49,7 @@ permalink: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
 
 
 
-### 2. lapa
+_(2. LAPA)_
 
 **Kreisā puse:** 
 
@@ -83,10 +83,10 @@ permalink: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
 
 
 
+_(3. LAPA)_
 
 ## 2. Atrisini kvadrātvienādojumu!
 
-### 3. lapa
 
 **Kreisā puse:** 
 
@@ -115,7 +115,7 @@ permalink: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
 | **(9)** | $y^2 + 10y + 9 = 0$ | $\color{blue}{y=-9}$<br>$\color{blue}{y=-1}$ |
 
 
-### 4. lapa
+_(4. LAPA)_
 
 **Kreisā puse:** 
 
@@ -139,7 +139,7 @@ permalink: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
 | **(15)** | $8y^2 - 6y + 1 = 0$ | $\color{blue}{a^2-6a+8=0}$<br>$\color{blue}{a=2}$<br>$\color{blue}{a=4}$<br>$\color{blue}{y=\frac{1}{4}}$<br>$\color{blue}{y=\frac{1}{2}}$ |
 
 
-### 5. lapa
+_(5. LAPA)_
 
 **Kreisā puse:** 
 
