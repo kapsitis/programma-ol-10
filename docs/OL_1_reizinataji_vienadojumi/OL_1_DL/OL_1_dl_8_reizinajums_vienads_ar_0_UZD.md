@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Reizinajums vienads ar 0"
+title: "Reizinājums vienāds ar 0"
 permalink: /OL_1_DL/OL_1_dl_8_reizinajums_vienads_ar_0_UZD/
 ---
 

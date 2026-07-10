@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kvadratvienadojumi"
+title: "Kvadratvienadojumi (atrisinājumi)"
 permalink: /OL_1_DL/OL_1_dl_2_kvadratvienadojums_ATR/
 ---
 

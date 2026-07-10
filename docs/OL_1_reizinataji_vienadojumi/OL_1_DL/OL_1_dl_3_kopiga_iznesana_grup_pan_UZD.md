@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kopiga reizinataja iznesana un grupesana"
+title: "Kopīga reizinātāja iznešana un grupēšana"
 permalink: /OL_1_DL/OL_1_dl_3_kopiga_iznesana_grup_pan_UZD/
 ---
 

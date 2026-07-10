@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Dazadi vienadojumi"
+title: "Dažādi vienādojumi"
 permalink: /OL_1_DL/OL_1_dl_11_dazadi_vienad_UZD/
 ---
 

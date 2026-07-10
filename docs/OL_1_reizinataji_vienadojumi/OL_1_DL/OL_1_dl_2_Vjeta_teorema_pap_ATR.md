@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kvadratvienadojumi"
+title: "Vjeta teorēma papildus (atrisinājumi)"
 permalink: /OL_1_DL/OL_1_dl_2_Vjeta_teorema_pap_ATR/
 ---
 

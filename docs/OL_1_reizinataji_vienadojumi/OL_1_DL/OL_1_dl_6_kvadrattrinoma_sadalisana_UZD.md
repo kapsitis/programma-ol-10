@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kvadrattrinomu sadalisana reizinatajos"
+title: "Kvadrattrinomu sadalīšana reizinātājos"
 permalink: /OL_1_DL/OL_1_dl_6_kvadrattrinoma_sadalisana_UZD/
 ---
 

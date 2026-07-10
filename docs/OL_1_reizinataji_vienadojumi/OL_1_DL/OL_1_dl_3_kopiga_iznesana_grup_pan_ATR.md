@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kvadratvienadojumi"
+title: "Kopīga reizinātāja iznešana un grupēšana (atrisinājumi)"
 permalink: /OL_1_DL/OL_1_dl_3_kopiga_iznesana_grup_pan_ATR/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kvadratvienadojumi"
+title: "Saīsinātās reizināšanas formulas (atrisinājumi)"
 permalink: /OL_1_DL/OL_1_dl_4_saisin_reiz_formulas_ATR/
 ---
 

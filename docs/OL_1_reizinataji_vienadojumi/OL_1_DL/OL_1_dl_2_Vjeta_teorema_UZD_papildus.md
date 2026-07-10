@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Vjeta teorema (papildus)"
+title: "Vjeta teorēma papildus"
 permalink: /OL_1_DL/OL_1_dl_2_Vjeta_teorema_UZD_papildus/
 ---
 

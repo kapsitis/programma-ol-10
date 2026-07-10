@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Saisinatas reizinasanas formulas"
+title: "Saīsinātās reizināšanas formulas"
 permalink: /OL_1_DL/OL_1_dl_4_saisin_reiz_formulas_UZD/
 ---
 
