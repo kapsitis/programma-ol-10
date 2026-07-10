@@ -574,10 +574,10 @@ Svarīgākie principi, pēc kuriem veidota matemātikas programma, ir šādi.
 </tbody>
 </table>
 
-**Ar oranžu krāsu iekrāsoti tie sasniedzamie rezultāti, kas neietilpst
+<b style="color:orange">Ar oranžu krāsu</b> iekrāsoti tie sasniedzamie rezultāti, kas neietilpst
 optimālā apguves līmeņa standartā, bet ir būtiski nākamo tematu apguvē
 un vienota priekšstata veidošanai. Šos sasniedzamos rezultātus skolēni
-var neapgūt.**
+var neapgūt.
 
 Mācību satura apguves secība
 
@@ -983,8 +983,8 @@ trijstūri, apgūt sakarības patvaļīgā trijstūrī, aprēķināt trijstūra
 laukumu, lai pēc tam apgūto lietotu pierādot sinusu un kosinusu teorēmu,
 kā arī aprēķinot telpisko ķermeņu elementus.
 
-**Jēdzieni:** katešu projekcijas, Eiklīda teorēma, vienības riņķis,
-sinusu teorēma, kosinusu teorēma, Hērona formula.
+**Jēdzieni:** <b style="color:orange">katešu projekcijas, Eiklīda teorēma</b>, vienības riņķis,
+sinusu teorēma, kosinusu teorēma, <b style="color:orange">Hērona formula</b>.
 
 <table style="width:99%;">
 <colgroup>
@@ -1005,8 +1005,8 @@ sinusu teorēma, kosinusu teorēma, Hērona formula.
 <th>Lieto sakarības taisnleņķa trijstūrī.</th>
 <th></th>
 <th><p>Nostiprina prasmi aprēķināt taisnleņķa trijstūra elementus, lai tās lietotu planimetrijā un pēc tam arī stereometrijā.</p>
-<p>Eiklīda formulas iegūst, izmantojot sakarības līdzīgos trijstūros.</p>
-<p>Sakarības tiks lietotas, lai aprēķinātu attālumu no punkta līdz taisnei, ja perpendikuls vilkts pret taisnleņķa trijstūra plakni no taisnā leņķa virsotnes.</p></th>
+<p><b style="color:orange">Eiklīda formulas iegūst, izmantojot sakarības līdzīgos trijstūros.</b></p>
+<p><b style="color:orange">Sakarības tiks lietotas, lai aprēķinātu attālumu no punkta līdz taisnei, ja perpendikuls vilkts pret taisnleņķa trijstūra plakni no taisnā leņķa virsotnes.</b></p></th>
 </tr>
 <tr>
 <th><p>Paplašina leņķa jēdzienu.</p>
@@ -1016,9 +1016,9 @@ sinusu teorēma, kosinusu teorēma, Hērona formula.
 <p>Lietojot vienības riņķi, nosaka sinusa un kosinusa vērtības <span class="math inline">\(120{^\circ}\)</span>, <span class="math inline">\(135{^\circ}\)</span>, <span class="math inline">\(150{^\circ}\)</span> leņķiem.</p></th>
 </tr>
 <tr>
-<th>Pamato trijstūra laukuma aprēķināšanas formulu, ja dotas divas trijstūra malas un leņķis starp tām.</th>
+<th><b style="color:orange">Pamato trijstūra laukuma aprēķināšanas formulu, ja dotas divas trijstūra malas un leņķis starp tām.</b></th>
 <th></th>
-<th>Formula <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{1}{2}ab\sin\sin\ \gamma\ \)</span> tiks lietota sinusu teorēmas pierādījumā.</th>
+<th><b style="color:orange">Formula <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{1}{2}ab\sin\sin\ \gamma\ \)</span> tiks lietota sinusu teorēmas pierādījumā.</b></th>
 </tr>
 <tr>
 <th>Pierāda sinusu teorēmu.</th>
@@ -1047,10 +1047,10 @@ sinusu teorēma, kosinusu teorēma, Hērona formula.
 <th colspan="3"><strong>Trijstūra laukums</strong> (no augstākā līmeņa)</th>
 </tr>
 <tr>
-<th>Lieto trijstūra laukuma aprēķināšanas formulas</th>
+<th><b style="color:orange">Lieto trijstūra laukuma aprēķināšanas formulas</b></th>
 <th></th>
-<th><p>Formulas <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{1}{2}ab\sin\sin\ \gamma\ \)</span>, <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{1}{2}ah_{a}\)</span>, Hērona formulu <span class="math inline">\(S_{\mathrm{\Delta}} =\)</span>, <span class="math inline">\(S_{\mathrm{\Delta}} = pr\)</span>, <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{abc}{4R}.\)</span></p>
-<p>Formulas, kas saistītas ar ievilktās un apvilktās riņķa līnijas rādiusu, tiks lietotas aprēķinot piramīdas (ar vienādām sānu šķautnēm un vienādiem divplakņu kakta leņķiem pie pamata) elementus.</p></th>
+<th><p><b style="color:orange">Formulas <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{1}{2}ab\sin\sin\ \gamma\ \)</span>, <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{1}{2}ah_{a}\)</span>, Hērona formulu <span class="math inline">\(S_{\mathrm{\Delta}} =\)</span>, <span class="math inline">\(S_{\mathrm{\Delta}} = pr\)</span>, <span class="math inline">\(S_{\mathrm{\Delta}} = \frac{abc}{4R}.\)</span></p>
+<p>Formulas, kas saistītas ar ievilktās un apvilktās riņķa līnijas rādiusu, tiks lietotas aprēķinot piramīdas (ar vienādām sānu šķautnēm un vienādiem divplakņu kakta leņķiem pie pamata) elementus.</b></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1209,7 +1209,7 @@ funkcija, trigonometriskais vienības riņķis.
 <th><strong>Piemēri un skaidrojumi</strong></th>
 </tr>
 <tr>
-<th colspan="3"><strong>Pagrieziena leņķa sinuss, kosinuss un tangenss</strong> (M.O.1.1.2., M.O.3.1.1., M.O.3.1.2., 3.2.2., M.O.3.2.3., 3.3.2., M.O.4.4.2., M.O.4.4.6., 4.4.7.)</th>
+<th colspan="3"><strong>Pagrieziena leņķa sinuss, kosinuss <b style="color:orange">un tangenss</b></strong> (M.O.1.1.2., M.O.3.1.1., M.O.3.1.2., 3.2.2., M.O.3.2.3., 3.3.2., M.O.4.4.2., M.O.4.4.6., 4.4.7.)</th>
 </tr>
 <tr>
 <th><p>Zina, kas ir pagrieziena leņķis.</p>
@@ -1240,7 +1240,7 @@ funkcija, trigonometriskais vienības riņķis.
 <p>Pārveido grādus radiānos, piemēram, <span class="math inline">\(45{^\circ}\)</span>; <span class="math inline">\(120{^\circ}\)</span>; <span class="math inline">\(75{^\circ}.\)</span></p></th>
 </tr>
 <tr>
-<th>Salīdzina viena un tā paša leņķa vai divu dažādu leņķu sinusus, kosinusus un tangensus, izmantojot trigonometrisko vienības riņķi.</th>
+<th>Salīdzina viena un tā paša leņķa vai divu dažādu leņķu sinusus, kosinusus <b style="color:orange">un tangensus</b>, izmantojot trigonometrisko vienības riņķi.</th>
 <th></th>
 <th>Piemēram, <span class="math inline">\(\sin\sin\ 80{^\circ}\ \)</span> un <span class="math inline">\(\sin\sin\ 160{^\circ}\ \)</span>, <span class="math inline">\(\cos\cos\ \frac{\pi}{5}\ \)</span> un <span class="math inline">\(\cos\cos\ \frac{6\pi}{7}\ \)</span>, <span class="math inline">\(tg20{^\circ}\)</span> un <span class="math inline">\(tg50{^\circ}\)</span>.</th>
 </tr>
@@ -1319,7 +1319,7 @@ argumentu saskaitīšanas formulas, divkāršā argumenta formulas.
 <th colspan="3"><strong>Trigonometriskās pamatidentitātes</strong> (M.O.3.2.2., M.O.4.4.8.)</th>
 </tr>
 <tr>
-<th>Skaidro, formulē, lieto sakarības starp pagrieziena leņķa sinusu, kosinusu, tangensu un kotangensu, atrodot informāciju uzziņu avotos un lietojot digitālos rīkus</th>
+<th>Skaidro, formulē, lieto sakarības starp pagrieziena leņķa sinusu, kosinusu, <b style="color:orange">tangensu un kotangensu</b>, atrodot informāciju uzziņu avotos un lietojot digitālos rīkus</th>
 <th></th>
 <th><p>Zina, ka <span class="math inline">\(\alpha\  = \left( \sin\sin\ \alpha\  \right)^{2}\)</span> un<br />
 <span class="math inline">\(\sin\sin\ \alpha\  + \sin\sin\ \alpha\  = 2\sin\sin\ \alpha\ \)</span>.</p>
@@ -1488,9 +1488,9 @@ vienādi un pretēji vektori, kolineāri vektori.
 <p>Ja vektoru reizina ar negatīvu skaitli, tad iegūst pretēji vērstu vektoru.</p></th>
 </tr>
 <tr>
-<th>Izsaka vektoru plaknē kā divu nekolineāru vektoru lineāru kombināciju plaknē.</th>
+<th><b style="color:orange">Izsaka vektoru plaknē kā divu nekolineāru vektoru lineāru kombināciju plaknē.</b></th>
 <th></th>
-<th>Vektorus izsaka taisnstūrī, trijstūrī, paralelogramā.</th>
+<th><b style="color:orange">Vektorus izsaka taisnstūrī, trijstūrī, paralelogramā.</b></th>
 </tr>
 <tr>
 <th colspan="3"><strong>Vektori koordinātu formā</strong> (M.O.2.1.2., M.O.6.2.2., M.O.6.2.3.)</th>

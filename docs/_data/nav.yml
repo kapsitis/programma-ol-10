@@ -100,33 +100,31 @@
       url: /OL__metodiskie/atsauksme_vidusskolas_standarts/
     - title: Programmas atbilstība standartam
       url: /OL__metodiskie/programma_compliance/
-    - title: Ieteikumi par programmas ievaddokumentu
-      url: /OL__metodiskie/ieteikumi_programmas_paraugs/
-    - title: Ieteikumi par 1.tematu
+    - title: Ieteikumi par 1.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_1_metodiskais/
     - title: Ieteikumi par 1.temata failiem
       url: /OL__metodiskie/ieteikumi_OL_1_all/
-    - title: Ieteikumi par 2.tematu
+    - title: Ieteikumi par 2.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_2_metodiskais/
-    - title: Ieteikumi par 3.tematu
+    - title: Ieteikumi par 3.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_3_metodiskais/
-    - title: Ieteikumi par 4.tematu
+    - title: Ieteikumi par 4.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_4_metodiskais/
-    - title: Ieteikumi par 5.tematu
+    - title: Ieteikumi par 5.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_5_metodiskais/
-    - title: Ieteikumi par 6.tematu
+    - title: Ieteikumi par 6.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_6_metodiskais/
-    - title: Ieteikumi par 7.tematu
+    - title: Ieteikumi par 7.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_7_metodiskais/
-    - title: Ieteikumi par 8.tematu
+    - title: Ieteikumi par 8.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_8_metodiskais/
-    - title: Ieteikumi par 9.tematu
+    - title: Ieteikumi par 9.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_9_metodiskais/
-    - title: Ieteikumi par 10.tematu
+    - title: Ieteikumi par 10.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_10_metodiskais/
-    - title: Ieteikumi par 11.tematu
+    - title: Ieteikumi par 11.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_11_metodiskais/
-    - title: Ieteikumi par 12.tematu
+    - title: Ieteikumi par 12.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_12_metodiskais/
 - title: Pārskatīšanas gaita
   children:
