@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Atsauksme par pamatskolas_standartu"
-permalink: /OL__metodiskie/atsauksme_pamatskolas_standarts/
+title: "Atsauksme par vidusskolas standartu"
+permalink: /OL__metodiskie/atsauksme_vidusskolas_standarts/
 ---
 # Atsauksme par vispārējās vidējās izglītības matemātikas standartu
 
