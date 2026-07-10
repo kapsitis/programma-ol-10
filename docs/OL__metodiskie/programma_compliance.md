@@ -8,11 +8,9 @@ permalink: /OL__metodiskie/programma_compliance/
 
 **Atbilstība vispārējās vidējās izglītības standarta optimālajam apguves līmenim un kursa plūduma analīze**
 
-| | |
-|---|---|
-| Analizētais dokuments | `MATEMATIKA_1_programmas_paraugs_19_maijs.md` (turpmāk — *programma*) |
-| Atsauces dokuments | `vidusskolas_standarts.md` — MK 03.09.2019. noteikumu Nr. 416 matemātikas jomas plānotie sasniedzamie rezultāti; salīdzināts ar **optimālo apguves līmeni** (kodi `M.O.x.x.x.`) |
-| Papildu konteksts | Projekta metodiskie ieteikumi (`OL_*_metodiskais.md`) un vērtēšanas materiāli (`*_fvd_*`, `*_npd_*`, `*_eksamena_*`) izmantoti tikai programmas teksta interpretācijai |
+**Analizētais dokuments:** `MATEMATIKA_1_programmas_paraugs_19_maijs.md` (turpmāk — *programma*).  
+**Atsauces dokuments:** `vidusskolas_standarts.md` — MK 03.09.2019. noteikumu Nr. 416 matemātikas jomas plānotie sasniedzamie rezultāti; salīdzināts ar **optimālo apguves līmeni** (kodi `M.O.x.x.x.`).  
+**Papildu konteksts:** Projekta metodiskie ieteikumi (`OL_*_metodiskais.md`) un vērtēšanas materiāli (`*_fvd_*`, `*_npd_*`, `*_eksamena_*`) izmantoti tikai programmas teksta interpretācijai.
 
 > **Piezīme par analizēto failu.** Programmas Markdown eksportā vietām zudušas formulu daļas (piemēram, saknes zīmes, `tg`/`log` simboli, apakšindeksi). Vērtējumā tas ņemts vērā: par satura kļūdām uzskatītas tikai tās vietas, kur kļūda redzama arī tekstuālajā formulējumā, nevis tikai formulas attēlojumā. Vietas, kur, visticamāk, vainojama konvertācija, atzīmētas atsevišķi (7. sadaļa).
 
