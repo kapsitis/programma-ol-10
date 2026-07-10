@@ -1,4 +1,10 @@
-# «Matemātika I» mācību priekšmeta programmas parauga izvērtējums
+---
+layout: default
+title: "Matemātika I programmas parauga izvērtējums"
+permalink: /OL__metodiskie/programma_compliance/
+---
+
+# Matemātika I programmas parauga izvērtējums
 
 **Atbilstība vispārējās vidējās izglītības standarta optimālajam apguves līmenim un kursa plūduma analīze**
 
