@@ -16,9 +16,13 @@ _(1. LAPA)_
 
 ## 1. Atrisini vienādojumu!
 
-|---|---|---|
-| **(1.1.)** | (4 p.) $x^4-10x^2+9=0$ | $\color{blue}{\begin{aligned} \text{Apz. } x^2&=t\\ t^2-10t+9&=0\\ t&=1 \qquad t=9\\ x^2&=1 \qquad x^2=9\\ x&=\pm1 \qquad x=\pm3 \end{aligned}}$ |
-| **(1.2.)** | (4 p.) $(x^2+2)^2-5(x^2+2)+6=0$ | $\color{blue}{\begin{aligned} \text{Apz. } x^2+2&=t\\ t^2-5t+6&=0\\ t&=2 \qquad t=3\\ x^2+2&=2 \qquad x^2+2=3\\ x^2&=0 \qquad x^2=1\\ x&=0 \qquad x=\pm1 \end{aligned}}$ |
+**(1.1.)** (4 p.) $x^4-10x^2+9=0$ 
+
+$\color{blue}{\begin{array}{l} \text{Apz. } x^2&=t\\ t^2-10t+9&=0\\ t&=1 \qquad t=9\\ x^2&=1 \qquad x^2=9\\ x&=\pm1 \qquad x=\pm3 \end{array}}$
+
+**(1.2.)** (4 p.) $(x^2+2)^2-5(x^2+2)+6=0$ 
+
+$\color{blue}{\begin{array}{l} \text{Apz. } x^2+2&=t\\ t^2-5t+6&=0\\ t&=2 \qquad t=3\\ x^2+2&=2 \qquad x^2+2=3\\ x^2&=0 \qquad x^2=1\\ x&=0 \qquad x=\pm1 \end{array}}$
 
 
 
@@ -28,7 +32,38 @@ _(1. LAPA)_
 
 $(x^2+3x)(x^2+3x-2)=8$
 
-|---|---|
-| **1. veids** | $\color{blue}{\begin{aligned} \text{Apz. } x^2+3x&=t\\ t(t-2)&=8\\ \boxed{t^2-2t-8=0}\\ t&=4 \qquad t=-2\\ x^2+3x&=4 \qquad x^2+3x=-2\\ x^2+3x-4&=0 \qquad x^2+3x+2=0\\ x&=-4 \qquad x=1 \qquad x=-1 \qquad x=-2 \end{aligned}}$<br><br>$\color{blue}{\text{Nav obligāti}}$ |
-| **2. veids** | $(x^2+3x)(x^2+3x-2)=8$<br><br>$\color{blue}{\begin{aligned} \text{Apz. } x^2+3x-2&=t\\ x^2+3x&=t+2\\ (t+2)t&=8\\ \boxed{t^2+2t-8=0}\\ t&=-4 \qquad t=2\\ x^2+3x-2&=-4 \qquad x^2+3x-2=2\\ x^2+3x+2&=0 \qquad x^2+3x-4=0\\ x&=-1 \qquad x=-2 \qquad x=-4 \qquad x=1 \end{aligned}}$<br><br>$\color{blue}{\text{Nav obligāti}}$ |
+
+**1. veids**   
+$\color{blue}{\begin{array}{l} 
+\text{Apz. } x^2+3x=t\\ 
+t(t-2)=8\\ 
+\boxed{t^2-2t-8=0}\end{array}}$
+
+$\color{blue}{\left. 
+\begin{array}{l|l}
+t=4; t=-2 & \\
+x^2+3x=4 & x^2+3x=-2\\ 
+x^2+3x-4=0 & x^2+3x+2=0\\ 
+x =-4; x=1 & x=-1; x=-2 \\ 
+\end{array} \right\} \text{Nav obligāti}}$
+
+
+**2. veids**  $(x^2+3x)(x^2+3x-2)=8$  
+$\color{blue}{\begin{array}{l} 
+\text{Apz. } x^2+3x-2=t\\ 
+x^2+3x=t+2\\ 
+(t+2)t=8\\ 
+\boxed{t^2+2t-8=0}\\ 
+\end{array}}$
+
+$\color{blue}{\left. 
+\begin{array}{l|l}
+t=-4; t=2 & \\
+x^2+3x-2=-4  & x^2+3x-2=2\\ 
+x^2+3x+2=0 & x^2+3x-4=0\\ 
+x=-1; x=-2  & x=-4; x=1 \\ 
+\end{array} \right\} \text{Nav obligāti}}$
+
+
+
 
