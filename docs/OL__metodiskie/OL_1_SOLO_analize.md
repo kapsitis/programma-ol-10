@@ -60,7 +60,7 @@ Lapām ar daudziem viena tipa piemēriem dots kopvērtējums; "uzdevumu vienība
 | *(13. stunda — funkciju īpašības)* | — | — | — | — | — | Darba lapas nav; metodiskā 7 uzdevumi (t. sk. sakņu skaits ar parametru $x^2=a$, $\sqrt{x}=a$) pēc būtības ir **R un vienīgie E tuvumā esošie** visā tematā — tieši tāpēc žēl, ka tie nav noformēti kā materiāls ar atrisinājumiem. |
 | dl_11 — dažādi vienādojumi (14.) | 46 | 20 | 22 | 4 | **U→M (+R izvēle)** | Detalizēti 4.1. sadaļā. |
 
-![SOLO līmeņu trajektorija darba lapās]({{ '/OL__metodiskie/OL_1_SOLO_trajektorija.png' | relative_url }})
+<img src="{{ '/OL__metodiskie/OL_1_SOLO_trajektorija.png' | relative_url }}" alt="SOLO līmeņu trajektorija darba lapās" width="800px"/>
 
 **Trajektorijas nolasījums.** Lapu secība veido pareizu "zāģa" ritmu: katra jauna paņēmiena lapa atsāk ar U un kāpj uz M (dl_4, dl_5 sākas "zemāk" nekā dl_2, dl_6 — tas ir normāli, jo ievada jaunas formulas). Problēma nav ritmā, bet **griestos**: R josla visā trajektorijā ir gandrīz tukša (0–13 %), un tā pirmoreiz "atveras" tikai vērtēšanas darbos.
 
@@ -175,7 +175,8 @@ Lapām ar daudziem viena tipa piemēriem dots kopvērtējums; "uzdevumu vienība
 
 ### Instrumentu salīdzinājums
 
-![SOLO līmeņu sadalījums vērtēšanas komplektos]({{ '/OL__metodiskie/OL_1_SOLO_instrumenti.png' | relative_url }})
+<img src="{{ '/OL__metodiskie/OL_1_SOLO_instrumenti.png' | relative_url }}" alt="SOLO līmeņu sadalījums vērtēšanas komplektos" width="800px"/>
+
 
 ---
 
