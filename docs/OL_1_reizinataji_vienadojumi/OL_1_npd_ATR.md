@@ -5,11 +5,19 @@ lang: lv
 fontsize: 11pt
 geometry: "a4paper, top=2.5cm, bottom=2.5cm, left=2cm, right=2cm"
 permalink: /OL_1__visi/OL_1_npd_ATR/
+# --- DOCX-specific settings, used by scripts/md_to_docx.py ---
+docx_header: "1. temats. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes"
+docx_footer:
+  - "© Valsts izglītības attīstības aģentūra | ESF+ projekts Nr. 4.2.2.3/1/24/I/001"
+  - "Pedagogu profesionālā atbalsta sistēmas izveide"
+docx_font: "Calibri"
+docx_fontsize: 11
+docx_math_align: left
 ---
 
-# 1. temats. Sadalīšana reizinātājos un vienādojumu atrisināšanas metodes
+**1. variants**
 
-# 1. variants
+------
 
 *Vārds, uzvārds, klase*
 
@@ -53,7 +61,7 @@ $$\color{blue}{x(x^2-3x-10)=0}$$
 
 $$\color{blue}{x_1=0 \; \text{vai} \; x^2-3x-10=0}$$
 
-$$\color{blue}{\text{pēc atbita t. } \begin{cases} x_2\cdot x_3=-10 \\ x_2+x_3=3 \end{cases}}$$
+$$\color{blue}{\text{pēc Vjeta t. } \begin{cases} x_2\cdot x_3=-10 \\ x_2+x_3=3 \end{cases}}$$
 
 $$\color{blue}{x_2=5 \; ; \quad x_3=-2}$$
 
@@ -65,7 +73,7 @@ $$\color{blue}{x^2=t}$$
 
 $$\color{blue}{t^2-5t+4=0}$$
 
-$$\color{blue}{\text{pēc atbita t. } \begin{cases} t_1\cdot t_2=4 \\ t_1+t_2=5 \end{cases}}$$
+$$\color{blue}{\text{pēc Vjeta t. } \begin{cases} t_1\cdot t_2=4 \\ t_1+t_2=5 \end{cases}}$$
 
 $$\color{blue}{t_1=1 \; ; \quad t_2=4}$$
 
@@ -109,7 +117,7 @@ $$\color{blue}{x^2+2x=t}$$
 
 $$\color{blue}{t^2-14t-15=0}$$
 
-$$\color{blue}{\text{pēc atbita t. } \begin{cases} t_1\cdot t_2=-15 \\ t_1+t_2=14 \end{cases}}$$
+$$\color{blue}{\text{pēc Vjeta t. } \begin{cases} t_1\cdot t_2=-15 \\ t_1+t_2=14 \end{cases}}$$
 
 $$\color{blue}{t_1=15 \; ; \quad t_2=-1}$$
 
@@ -125,6 +133,8 @@ $$\color{blue}{= (m-n)(m+n)(m^2+n^2)(m^4+n^4)}$$
 
 
 # 2. variants
+
+------
 
 *Vārds, uzvārds, klase*
 
@@ -168,7 +178,7 @@ $$\color{blue}{x(x^2+3x-10)=0}$$
 
 $$\color{blue}{x_1=0 \; \text{vai} \; x^2+3x-10=0}$$
 
-$$\color{blue}{\text{pēc atbita t. } \begin{cases} x_2\cdot x_3=-10 \\ x_2+x_3=-3 \end{cases}}$$
+$$\color{blue}{\text{pēc Vjeta t. } \begin{cases} x_2\cdot x_3=-10 \\ x_2+x_3=-3 \end{cases}}$$
 
 $$\color{blue}{x_2=-5 \; ; \quad x_3=2}$$
 
@@ -180,7 +190,7 @@ $$\color{blue}{x^2=t}$$
 
 $$\color{blue}{t^2-17t+16=0}$$
 
-$$\color{blue}{\text{pēc atbita t. } \begin{cases} t_1\cdot t_2=16 \\ t_1+t_2=17 \end{cases}}$$
+$$\color{blue}{\text{pēc Vjeta t. } \begin{cases} t_1\cdot t_2=16 \\ t_1+t_2=17 \end{cases}}$$
 
 $$\color{blue}{t_1=1 \; ; \quad t_2=16}$$
 
@@ -223,7 +233,7 @@ $$\color{blue}{x^2-2x=t}$$
 
 $$\color{blue}{t^2-14t-15=0}$$
 
-$$\color{blue}{\text{pēc atbita t. } \begin{cases} t_1\cdot t_2=-15 \\ t_1+t_2=14 \end{cases}}$$
+$$\color{blue}{\text{pēc Vjeta t. } \begin{cases} t_1\cdot t_2=-15 \\ t_1+t_2=14 \end{cases}}$$
 
 $$\color{blue}{t_1=15 \; ; \quad t_2=-1}$$
 
