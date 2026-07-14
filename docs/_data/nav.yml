@@ -136,3 +136,5 @@
       url: /review_plans/review_plan_gpt/
     - title: Pārskatīšanas plāns (Claude)
       url: /review_plans/review_plan_claude/
+    - title: Kā no Markdown iegūt DOCX
+      url: /review_plans/md_to_docx_howto/

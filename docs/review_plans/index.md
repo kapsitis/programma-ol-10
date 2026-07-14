@@ -141,6 +141,16 @@ to download or copy to the clipboard.
 * [Vidusskolas standarts]({{ '/vidusskolas_standarts/' | relative_url }})
 
 
+## Markdown → MS Word (DOCX)
+
+Kā no atrisinājumu Markdown faila (ar formulām, attēliem un tabulu) iegūt noformētu
+`.docx` dokumentu — ar Pandoc un Python skriptu `scripts/md_to_docx.py`. Pa soļiem:
+izejas failu savākšana, Pandoc un Python bibliotēku uzstādīšana uz Windows 11,
+palaišana un sagaidāmais rezultāts. Beigās — uzvedne, kā no PDF izveidot līdzīgu Markdown.
+
+* [Kā no Markdown iegūt DOCX (Pandoc + Python)]({{ '/review_plans/md_to_docx_howto/' | relative_url }})
+
+
 ## Tālākas darbības
 
 Zemāk minētās darbības vēl nav veiktas; visticamāk abi plāni jāsapludina, lai 
