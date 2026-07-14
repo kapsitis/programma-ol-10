@@ -198,18 +198,20 @@ def render_horizontal_rules(document) -> None:
 
 def _fill_frame(frame, lines: list[str], font_name: str | None,
                 alignment) -> None:
-    """Write one or more text lines into a header/footer frame."""
+    """Write text lines into a header/footer as a SINGLE paragraph.
+
+    Multiple lines are separated by a forced line break (<w:br/>) within one
+    run, so the whole block stays one paragraph rather than several.
+    """
     frame.is_linked_to_previous = False
-    # Reuse the frame's existing (empty) first paragraph, then add more.
-    paragraphs = frame.paragraphs
-    for i, line in enumerate(lines):
-        para = paragraphs[0] if i == 0 else frame.add_paragraph()
-        para.alignment = alignment
-        run = para.add_run(line)
-        run.font.size = Pt(9)
-        run.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
-        if font_name:
-            run.font.name = font_name
+    para = frame.paragraphs[0]  # reuse the frame's existing empty paragraph
+    para.alignment = alignment
+    run = para.add_run()
+    run.text = "\n".join(lines)  # '\n' is rendered as a <w:br/> by python-docx
+    run.font.size = Pt(9)
+    run.font.color.rgb = RGBColor(0x66, 0x66, 0x66)
+    if font_name:
+        run.font.name = font_name
 
 
 def apply_header_footer(document, header_text, footer_lines, font_name) -> None:

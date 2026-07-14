@@ -130,9 +130,11 @@ $$\color{blue}{x_1=-5;\; x_2=3 \qquad\qquad x_{3,4}=-1}$$
 $$\color{blue}{m^8-n^8 = (m^4-n^4)(m^4+n^4) = (m^2-n^2)(m^2+n^2)(m^4+n^4) =}$$
 $$\color{blue}{= (m-n)(m+n)(m^2+n^2)(m^4+n^4)}$$
 
+```{=openxml}
+<w:p><w:r><w:br w:type="page"/></w:r></w:p>
+```
 
-
-# 2. variants
+**2. variants**
 
 ------
 
