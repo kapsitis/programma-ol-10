@@ -89,6 +89,51 @@ diagrammas un literatūras atsauces uz ārējiem avotiem.
 Sk. rezultātu: [Atsauksme par vidusskolas standartu]({{ '/OL__metodiskie/atsauksme_vidusskolas_standarts/' | relative_url }})
 
 
+## Uzvedne programmas parauga atsauksmei
+
+Lūdzu analizējiet 7.-9.klases materiālu pamatskolas programmas paraugā 
+(projekta fails `programmas_paraugs_Matematika_1_9_klase.md`; 
+no 6765. lappuses līdz beigām projekta failā "programmas_paraugs_Matematika_1_9_klase.md". 
+Dokuments var saturēt nepabeigtas atsauces uz citiem materiāliem, kuru projektā 
+pagaidām nav; tas ir sagaidāms un nav uzskatāms par kļūdu.
+
+Programmas sadaļas (temati, sasniedzamie rezultāti un piemēri) ir 
+apzīmēti ar dokumenta sākumā definētajiem kodiem. 
+Kodu lietojumu konkrētajos piemēros (kā arī šo klasifikācijas sistēmu kopumā) 
+var atsevišķi komentēt: 
+```
+**ARG** -- matemātiska argumentēšana; 
+**PR** -- problēmu matemātiska risināšana; 
+**MM** -- matemātiskā modelēšana; 
+**ATT** -- matemātisku attēlojumu lietošana; 
+**FP** -- matemātikas simbolu, formālās valodas un tehnikas lietošana; 
+**MK** -- matemātiska komunikācija.
+```
+Sasniedzamie rezultāti arī satur norādes uz citu šī projekta dokumentu `pamatskolas_standarts.md`  (norādes "M.x.x.x.x" 
+ir ņemtas no pamatskolas standarta). 
+4.-6.klašu programmas paraugam jāatspoguļo standartā paredzētās prasmes "Beidzot 6. klasi" (vidējā kolonna dokumenta "pamatskolas_standarts.md" tabulās).
+Programmas paraugam ir jānosedz visi sasniedzamie rezultāti no šīs kolonnas "Beidzot 6. klasi", 
+kā arī jānodrošina labs kursa plūdums (flow), lai  starp tematiem un atsevišķajām nodarbībām 
+(un to sasniedzamajiem rezultātiem) sakarības būtu pamanāmas un vieglāk motivējamas. 
+
+TODO: 
+Jūsu atbildē sagatavojiet Markdown dokumentu (tikai par 4.-6. klases materiālu 
+no `programmas_paraugs_Matematika_1_9_klase.md`) latviešu valodā. 
+Atsauksmi par programmas paraugu var veidot pēc saviem ieskatiem, lai 
+dokuments sniegtu derīgu (actionable) atgriezenisko saiti programmas parauga veidotājiem. 
+Tajā varat iekļaut: 
+- Standarta pārklājuma pārskatu/pārskatus (kas no standartā minētajiem jautājumiem ir/nav atspoguļots  programmas parauga satura vienībās, kas ir nevajadzīgs vai būtu pārvietojams. 
+- plūduma/flow riskus; uzkrājamo priekšzināšanu ķēde un neatbilstības, 
+- ieteikumus par programmas paraugā aprakstīto mācību gaitu un zināšanu pārbaudes formām,
+- piezīmes par lietoto apzīmējumu konsekvenci, 
+- ieteikumus temata ietvaros izklāstīto mācību stundu "sasniedzamo rezultātu" tvērumam (scope), 
+- atbilstību starptautiskai programmu veidošanas labajai praksei, 
+Saturu var izklāstīt arī tabulu, diagrammu veidā, pievienot literatūras atsauces, citas svarīgas sadaļas, un jebko, kas Jums šķiet lietderīgi.  Labojumus sarakstos un tabulās var kodēt kā kritiskus, svarīgus, ieteiktus un redakcionālus:  🔴,🟠,🟡,⚪.
+
+
+
+
+
 
 ## Uzvedne metodisko ieteikumiem
 

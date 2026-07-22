@@ -128,6 +128,15 @@
       url: /OL__metodiskie/ieteikumi_OL_11_metodiskais/
     - title: Ieteikumi par 12.temata metodisko
       url: /OL__metodiskie/ieteikumi_OL_12_metodiskais/
+    - title: Atsauksme par pamatskolas programmu 1.-3.kl. 
+      url: /OL__metodiskie/atsauksme_programmas_paraugs_1_3_klase/
+    - title: Atsauksme par pamatskolas programmu 4.-6.kl. 
+      url: /OL__metodiskie/atsauksme_programmas_paraugs_4_6_klase/
+    - title: Atsauksme par pamatskolas programmu 7.-9.kl. 
+      url: /OL__metodiskie/atsauksme_programmas_paraugs_7_9_klase/
+    - title: Atsauksme par vidusskolas programmu "Matemātika 2"
+      url: /OL__metodiskie/atsauksme_matematika_2/
+
 - title: Pārskatīšanas gaita
   children:
     - title: Pārskatīšanas plāns (Ievads)
