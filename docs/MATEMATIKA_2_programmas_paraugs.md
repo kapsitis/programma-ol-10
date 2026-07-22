@@ -781,7 +781,7 @@ iracionāls vienādojums.
 | Lieto moduļa definīciju izteiksmju           |                          | Zina, ka modulis ir attālums, tātad vienmēr nenegatīvs lielums.                        |
 | vienkāršošanā.                               |                          |                                                                                        |
 |                                              |                          | Piemēram,                                                                              |
-|                                              |                          | $\sqrt{\left( 1 - \sqrt{7} \right)^{2}} = \left| 1 - \sqrt{7} \right| = \sqrt{7} - 1$. |
+|                                              |                          | $\sqrt{\left( 1 - \sqrt{7} \right)^2} = \left| 1 - \sqrt{7} \right| = \sqrt{7} - 1$. |
 +----------------------------------------------+--------------------------+----------------------------------------------------------------------------------------+
 | Risina vienādojumus formā                    |                          | Lieto moduļa definīciju, tātad moduļa zīmēs esošā izteiksme var būt gan pozitīva, gan  |
 | $\left| f(x) \right| = a$ un                 |                          | negatīva.                                                                              |
@@ -867,7 +867,7 @@ nevienādība, jaukta vienādojumu sistēma.
 |                                                  |                          |                                                                            |
 |                                                  |                          | $$\log_{a}b = \frac{\log_{c}b}{\log_{c}a};$$                               |
 |                                                  |                          |                                                                            |
-|                                                  |                          | $$\log_{a^{m}}b = \frac{1}{m}\log_{a}b.$$                                  |
+|                                                  |                          | $$\log_{a^m} b = \frac{1}{m}\log_{a}b.$$                                  |
 +--------------------------------------------------+--------------------------+----------------------------------------------------------------------------+
 | Pierāda identitātes, lietojot logaritma          |                          | Piemēram, $\log_{9}(3x) = \frac{1 + \log_{3}x}{2}$.                        |
 | īpašības.                                        |                          |                                                                            |
@@ -1006,7 +1006,7 @@ trigonometriska nevienādība, homogēns vienādojums.
 |                                                |                          |                                                                                                                                                                                                              |
 |                                                |                          | Pareizi nosaka intervālu galapunktu vērtības (sākumpunkta vērtībai jābūt mazākai).                                                                                                                           |
 +------------------------------------------------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Atrisina trigonometriskas nevienādības,        |                          | Piemēram, $\sin^{2}x > \frac{1}{2}$, $2\sin^{2}x - \sin x + 1 \geq 0$, $\frac{2\cos x - \sqrt{2}}{2\cos x + 1} < 0$.                                                                                         |
+| Atrisina trigonometriskas nevienādības,        |                          | Piemēram, $\sin^{2}x > \frac{1}{2}$, $2\sin^{2}x - \sin x + 1 \geq 0$, $\frac{2\cos x - \sqrt 2}{2\cos x + 1} < 0$.                                                                                         |
 | lietojot substitūcijas metodi.                 |                          |                                                                                                                                                                                                              |
 +------------------------------------------------+--------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
@@ -1086,7 +1086,7 @@ virkne, rekurenta virkne, virknes robeža, nenoteiktība.
 |                                 |                          | vienīga.                                                                     |
 +---------------------------------+--------------------------+------------------------------------------------------------------------------+
 | Aprēķina virknes robežu,        |                          | Piemēram, $\lim_{n \rightarrow \infty}\frac{n + 2}{2n + 1}$ un               |
-| novēršot nenoteiktību           |                          | $\lim_{n \rightarrow \infty}\frac{n^{2} + \sqrt[3]{n^{9} - 7}}{n^{2} + 6n}$. |
+| novēršot nenoteiktību           |                          | $\lim_{n \rightarrow \infty}\frac{n^{2} + \sqrt[3]{n^9 - 7} }{n^{2} + 6n}$. |
 | $\frac{\infty}{\infty}$.        |                          |                                                                              |
 +---------------------------------+--------------------------+------------------------------------------------------------------------------+
 | Skaidro skaitli $e$, lietojot   |                          | Uzziņu literatūrā atrod un lasa pierādījuma ideju par skaitli $e$ kā virknes |
@@ -1169,7 +1169,7 @@ slīpā asimptota.
 | slīpās asimptotas vienādojumu   |                          | skaitītājs un saucējs ir polinomi, lietojot polinomu dalīšanu.               |
 | $y = kx + b$.                   |                          |                                                                              |
 +---------------------------------+--------------------------+------------------------------------------------------------------------------+
-| Skicē funkcijas grafiku,        |                          | Piemēram, $f(x) = 2^{\frac{1}{x - 3}}$.                                      |
+| Skicē funkcijas grafiku,        |                          | Piemēram, $f(x) = 2^{\frac{1}{x - 3} }$.                                      |
 | aprēķinot funkcijas robežu      |                          |                                                                              |
 | definīcijas kopas intervālu     |                          | Spriež, vai ar iegūto informāciju pietiek, lai uzzīmētu funkcijas grafiku.   |
 | galapunktos.                    |                          |                                                                              |
@@ -1232,7 +1232,7 @@ koeficients, augstāku kārtu atvasinājumi.
 | funkcijas reizinājuma           |                          |                                                      |
 | $c \cdot u$ un dalījuma         |                          | Pamato formulas                                      |
 | $\frac{u}{v}$ atvasināšanai.    |                          | $\left( \frac{u}{C} \right)' = \frac{u'}{C}$ un      |
-|                                 |                          | $\left( \frac{C}{u} \right)' = - \frac{Cu'}{u^{2}}$. |
+|                                 |                          | $\left( \frac{C}{u} \right)' = -\frac{Cu'}{u^{2} }$. |
 +---------------------------------+--------------------------+------------------------------------------------------+
 | Atvasina saliktu funkciju formā |                          | Atvasina saliktu funkciju, skaidrojot atvasināšanas  |
 | $f(ax + b)$, ja $f$ ir kāda no  |                          | secību -- vispirms atvasina ārējo funkciju, pēc tam  |
@@ -1423,7 +1423,7 @@ integrālis, diferenciālis, noteiktais integrālis,\
 +----------------------------------------------+--------------------------+------------------------------------------------------------------------------------------------+
 | Lieto integrēšanas pamatformulas, lai        |                          | Pamatformulas:                                                                                 |
 | noteiktu nenoteikto integrāli.               |                          |                                                                                                |
-|                                              |                          | $$\int_{}^{}{x^{n}dx} = \frac{x^{n + 1}}{n + 1} + C;$$                                         |
+|                                              |                          | $$\int_{}^{}{x^{n}dx} = \frac{x^{n + 1} }{n + 1} + C;$$                                         |
 |                                              |                          |                                                                                                |
 |                                              |                          | $$\int_{}^{}\frac{dx}{x} = \ln{|x|} + C;$$                                                     |
 |                                              |                          |                                                                                                |
@@ -1439,7 +1439,7 @@ integrālis, diferenciālis, noteiktais integrālis,\
 +----------------------------------------------+--------------------------+------------------------------------------------------------------------------------------------+
 | Integrē funkciju formā                       |                          | Piemēram,                                                                                      |
 | $\int_{}^{}{f(ax + b)dx}$, konstantu         |                          |                                                                                                |
-| reizinātāju panesot zem diferenciāļa zīmes.  |                          | $$\int_{}^{}{{(ax + b)}^{n}dx} = \frac{1}{a}\int_{}^{}{(ax + b)^{n}d(ax + \ b)}.$$             |
+| reizinātāju panesot zem diferenciāļa zīmes.  |                          | $$\int_{}^{}{(ax + b)^n dx} = \frac{1}{a}\int_{}^{}{(ax + b)^{n}d(ax + b)}.$$             |
 |                                              |                          |                                                                                                |
 |                                              |                          | Var lietot arī apzīmēšanu un pāreju uz jaunu mainīgo.                                          |
 +----------------------------------------------+--------------------------+------------------------------------------------------------------------------------------------+
