@@ -111,13 +111,13 @@ var atsevišķi komentēt:
 ```
 Sasniedzamie rezultāti arī satur norādes uz citu šī projekta dokumentu `pamatskolas_standarts.md`  (norādes "M.x.x.x.x" 
 ir ņemtas no pamatskolas standarta). 
-4.-6.klašu programmas paraugam jāatspoguļo standartā paredzētās prasmes "Beidzot 6. klasi" (vidējā kolonna dokumenta "pamatskolas_standarts.md" tabulās).
-Programmas paraugam ir jānosedz visi sasniedzamie rezultāti no šīs kolonnas "Beidzot 6. klasi", 
+7.-9.klašu programmas paraugam jāatspoguļo standartā paredzētās prasmes "Beidzot 9. klasi" (pēdējā/labējā kolonna dokumenta "pamatskolas_standarts.md" tabulās).
+Programmas paraugam ir jānosedz visi sasniedzamie rezultāti no šīs kolonnas "Beidzot 9. klasi", 
 kā arī jānodrošina labs kursa plūdums (flow), lai  starp tematiem un atsevišķajām nodarbībām 
 (un to sasniedzamajiem rezultātiem) sakarības būtu pamanāmas un vieglāk motivējamas. 
 
 TODO: 
-Jūsu atbildē sagatavojiet Markdown dokumentu (tikai par 4.-6. klases materiālu 
+Jūsu atbildē sagatavojiet Markdown dokumentu (tikai par 7.-9. klases materiālu 
 no `programmas_paraugs_Matematika_1_9_klase.md`) latviešu valodā. 
 Atsauksmi par programmas paraugu var veidot pēc saviem ieskatiem, lai 
 dokuments sniegtu derīgu (actionable) atgriezenisko saiti programmas parauga veidotājiem. 
@@ -129,6 +129,45 @@ Tajā varat iekļaut:
 - ieteikumus temata ietvaros izklāstīto mācību stundu "sasniedzamo rezultātu" tvērumam (scope), 
 - atbilstību starptautiskai programmu veidošanas labajai praksei, 
 Saturu var izklāstīt arī tabulu, diagrammu veidā, pievienot literatūras atsauces, citas svarīgas sadaļas, un jebko, kas Jums šķiet lietderīgi.  Labojumus sarakstos un tabulās var kodēt kā kritiskus, svarīgus, ieteiktus un redakcionālus:  🔴,🟠,🟡,⚪.
+
+
+
+
+-----
+
+Lūdzu analizējiet 10.-12.klases programmas paraugu
+(projekta fails `MATEMATIKA_2_programmas_paraugs.md`; 
+Tajā esošie temati un sasniedzamie rezultāti satur norādes uz citu projekta dokumentu 
+`vidusskolas_standarts.md`: piemēram, "M.A.4.5.4.". 
+Kurss "Matemātika 2" ir iecerēts, lai apgūtu prasības "Augstākajā apguves līmenī"
+(pēdējā/labējā kolonna failā `vidusskolas_standarts.md`), pieņemot, ka skolēns 
+jau apguvis "Matemātiku 1" (sk. programmas paraugu "MATEMATIKA_1_programmas_paraugs_19_maijs.md", kas 
+atbilst "Optimālajam apguves līmenim" jeb vidējai kolonnai no `vidusskolas_standarts.md` tabulām). 
+
+Programmas paraugam `MATEMATIKA_2_programmas_paraugs.md` ir jānosedz visi sasniedzamie 
+rezultāti no labējās kolonnas "Augstākais apguves līmenis", 
+kā arī jānodrošina labs kursa plūdums (flow), lai  starp tematiem un atsevišķajām nodarbībām 
+(un to sasniedzamajiem rezultātiem) sakarības būtu pamanāmas un vieglāk motivējamas. 
+
+TODO: 
+Jūsu atbildē sagatavojiet Markdown dokumentu par programmas paraugu latviešu valodā. 
+Atsauksmi par programmas paraugu var veidot pēc saviem ieskatiem, lai 
+dokuments sniegtu derīgu (actionable) atgriezenisko saiti programmas parauga veidotājiem. 
+Tajā varat iekļaut: 
+- Standarta pārklājuma pārskatu/pārskatus (kas no standartā minētajiem jautājumiem ir/nav atspoguļots  programmas parauga satura vienībās, kas ir nevajadzīgs vai būtu pārvietojams. 
+- plūduma/flow riskus; uzkrājamo priekšzināšanu ķēde un neatbilstības, 
+- ieteikumus par programmas paraugā aprakstīto mācību gaitu un zināšanu pārbaudes formām,
+- piezīmes par lietoto apzīmējumu konsekvenci, 
+- ieteikumus temata ietvaros izklāstīto mācību stundu "sasniedzamo rezultātu" tvērumam (scope), 
+- atbilstību starptautiskai programmu veidošanas labajai praksei, 
+Saturu var izklāstīt arī tabulu, diagrammu veidā, pievienot literatūras atsauces, citas svarīgas sadaļas, un jebko, kas Jums šķiet lietderīgi.  Labojumus sarakstos un tabulās var kodēt kā kritiskus, svarīgus, ieteiktus un redakcionālus:  🔴,🟠,🟡,⚪.
+
+Daudzos gadījumos "Matemātiku 1" un "Matemātiku 2" māca paralēli (t.i. pārmaiņus 
+apskata tematus no abiem šiem programmu paraugiem) - Ja Jums ir ieteikumi tematu 
+izkārtojumam (piemēram, nepieciešamajiem priekšnoteikumiem, kas "Matemātikai 2" vajadzīgi 
+no "Matemātikas 1") vai citas norādes, varat apkopot tos atsevišķā sadaļā. Ir iespējams 
+arī, ka "Matemātiku 1" un "Matemātiku 2" māca divi dažādi skolotāji - un tad vēlams, 
+lai gaidas (expectations) būtu atklāti (explicitly) pierakstītas.
 
 
 
